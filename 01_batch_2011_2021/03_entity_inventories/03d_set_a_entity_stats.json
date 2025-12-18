@@ -1,0 +1,15 @@
+{
+  "set_name": "set_a",
+  "timestamp": "2025-11-21T13:39:06.133056",
+  "total_papers": 8683,
+  "papers_with_entities": 8672,
+  "coverage_rate": 99.87,
+  "total_entity_mentions": 24499,
+  "unique_entities": 18032,
+  "avg_entities_per_paper": 2.83,
+  "source_breakdown": {
+    "spacy_only": 6136,
+    "v2_only": 5116,
+    "both": 6780
+  }
+}

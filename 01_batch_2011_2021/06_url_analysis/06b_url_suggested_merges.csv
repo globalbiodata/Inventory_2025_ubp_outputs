@@ -1,0 +1,30 @@
+entity,url,canonical_url,group_size,similarity_score
+3dbionotes,http://3dbionotes.cnb.csic.es,http://3dbionotes.cnb.csic.es,2,1.0
+3dbionotes,http://3dbionotes-ws.cnb.csic.es,http://3dbionotes.cnb.csic.es,2,0.0
+comparative toxicogenomics database,http://ctdbase.org/,http://ctdbase.org/,2,1.0
+comparative toxicogenomics database,http://ctd.mdibl.org,http://ctd.mdibl.org,2,1.0
+comparative toxicogenomics database,http://ctdbase.org,http://ctdbase.org/,2,0.0
+comparative toxicogenomics database,http://ctd.mdibl.org/voc.go?type=disease,http://ctd.mdibl.org,2,0.0
+dietary supplement label database,https://dsld.nlm.nih.gov/,https://dsld.nlm.nih.gov/,2,1.0
+dietary supplement label database,https://dsld.nlm.nih.gov/dsld/,https://dsld.nlm.nih.gov/,2,0.0
+european nucleotide archive,https://www.ebi.ac.uk/ena,https://www.ebi.ac.uk/ena,4,1.0
+european nucleotide archive,http://www.ebi.ac.uk/ena/,https://www.ebi.ac.uk/ena,4,1.0
+european nucleotide archive,http://www.ebi.ac.uk/ena,https://www.ebi.ac.uk/ena,4,0.9
+european nucleotide archive,http://www.ebi.ac.uk/metagenomics/,https://www.ebi.ac.uk/ena,4,0.0
+gene expression omnibus,http://hiv.gxbsidra.org/dm3/geneBrowser/list,http://hiv.gxbsidra.org/dm3/geneBrowser/list,2,1.0
+gene expression omnibus,http://vri1.gxbsidra.org/dm3/geneBrowser/list,http://hiv.gxbsidra.org/dm3/geneBrowser/list,2,0.0
+hmmer,http://www.ebi.ac.uk/Tools/hmmer,http://www.ebi.ac.uk/Tools/hmmer,2,1.0
+hmmer,http://www.ebi.ac.uk/Tools/hmmer/,http://www.ebi.ac.uk/Tools/hmmer,2,0.0
+human ageing genomic resources,http://genomics.senescence.info/,http://genomics.senescence.info/,2,1.0
+human ageing genomic resources,http://genomics.senescence.info,http://genomics.senescence.info/,2,0.0
+ncbi,https://www.ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov,3,1.0
+ncbi,http://www.ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov,3,0.9
+ncbi,http://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/,https://www.ncbi.nlm.nih.gov,3,0.0
+nucleic acids research database,http://www.oxfordjournals.org/nar/database/a/,http://www.oxfordjournals.org/nar/database/a/,2,1.0
+nucleic acids research database,http://www.oxfordjournals.org/nar/database/c/,http://www.oxfordjournals.org/nar/database/a/,2,0.0
+papillomavirus episteme,https://pave.niaid.nih.gov/,https://pave.niaid.nih.gov/,2,1.0
+papillomavirus episteme,http://pave.niaid.nih.gov,https://pave.niaid.nih.gov/,2,0.0
+saccharomyces genome database,http://www.yeastgenome.org/variant-viewer,http://www.yeastgenome.org/variant-viewer,2,1.0
+saccharomyces genome database,http://www.yeastgenome.org,http://www.yeastgenome.org/variant-viewer,2,0.0
+targetdbp,http://csbio.njust.edu.cn/bioinf/targetdbpplus/,http://csbio.njust.edu.cn/bioinf/targetdbpplus/,2,1.0
+targetdbp,http://csbio.njust.edu.cn/bioinf/targetdbp/,http://csbio.njust.edu.cn/bioinf/targetdbpplus/,2,0.0

@@ -1,0 +1,213 @@
+================================================================================
+FALSE POSITIVE ANALYSIS: Biological Research Papers
+================================================================================
+Dataset: aggressive_novel_only.csv (7,374 papers)
+Analysis Date: 2025-11-25
+
+KEY FINDINGS:
+================================================================================
+
+1. FALSE POSITIVE RATE: 25.5% (1,879 papers)
+   - These are biological research papers, NOT resource announcements
+   - They MENTION bioresources but are ABOUT biological discoveries
+
+2. CATEGORY BREAKDOWN:
+   ┌─────────────────────────────────────────┬────────┬────────┐
+   │ Category                                │ Count  │ % Total│
+   ├─────────────────────────────────────────┼────────┼────────┤
+   │ Omics Analysis Studies                  │   660  │   9.0% │
+   │ Clinical/Disease Studies                │   632  │   8.6% │
+   │ Drug/Compound Studies                   │   240  │   3.3% │
+   │ Variant/Mutation Studies                │   194  │   2.6% │
+   │ Gene/Protein Function Studies           │   139  │   1.9% │
+   │ Pathway/Mechanism Studies               │   128  │   1.7% │
+   │ Discovery/Findings Papers               │    85  │   1.2% │
+   │ Species-Specific Studies                │    44  │   0.6% │
+   └─────────────────────────────────────────┴────────┴────────┘
+
+3. ENTITY EXTRACTION QUALITY:
+   - 1,103 papers (58.7%) have poor entity extraction
+   - Entity = "nan", "a", "c", "d", or missing
+   - Suggests NER struggled with these papers
+
+4. SETFIT CONFIDENCE:
+   - Mean: 0.685 (moderate confidence)
+   - Range: 0.60 - 0.73
+   - NO false positives had confidence > 0.9
+   - This suggests SetFit detected something "off"
+
+================================================================================
+TOP 10 FALSE POSITIVE EXAMPLES
+================================================================================
+
+1. PMID: 31848596 | Entity: rhpcg
+   Title: RHPCG: a database of the Regulation of the Hippo Pathway in
+          Cancer Genome
+   Why: Paper ABOUT cancer biology (Hippo pathway regulation), not a
+        resource announcement. Uses databases to study mechanisms.
+
+2. PMID: 27074804 | Entity: bronco
+   Title: BRONCO: Biomedical entity Relation ONcology COrpus for
+          extracting gene-variant-disease-drug relations
+   Why: Text-mining corpus for EXTRACTING relationships from literature.
+        Bioinformatics tool, not a bioresource.
+
+3. PMID: 27903883
+   Title: Function-driven discovery of disease genes in zebrafish using
+          an integrated genomics big data resource
+   Why: USES genomics resources to DISCOVER disease genes. Classic
+        biological discovery paper.
+
+4. PMID: 27208273 | Entity: "a" (extraction failure)
+   Title: Genome-Wide Inference of Protein-Protein Interaction Networks
+          Identifies Crosstalk in Abscisic Acid Signaling
+   Why: Plant biology discovering protein interactions in signaling.
+        Biological discovery, not resource announcement.
+
+5. PMID: 25161239 | Entity: "c" (extraction failure)
+   Title: Identification of structural features in chemicals associated
+          with cancer drug response: a systematic data-driven analysis
+   Why: Drug discovery analyzing chemical structures and cancer responses.
+        Pharmacological research using databases.
+
+6. PMID: 34876593
+   Title: A computational approach for the discovery of significant cancer
+          genes by weighted mutation and asymmetric spreading strength
+   Why: Cancer biology discovering significant cancer genes. Research
+        methodology, not resource announcement.
+
+7. PMID: 21593420
+   Title: Genome-wide network model capturing seed germination reveals
+          coordinated regulation of plant cellular phase transitions
+   Why: Plant biology studying seed germination mechanisms. Biological
+        discovery about development.
+
+8. PMID: 28153913
+   Title: An Anatomically Resolved Mouse Brain Proteome Reveals Parkinson
+          Disease-relevant Pathways
+   Why: Neuroscience discovering Parkinson's pathways using proteomics.
+        Disease mechanism research.
+
+9. PMID: 22952662
+   Title: TARGETgene: a tool for identification of potential therapeutic
+          targets in cancer
+   Why: Computational tool for FINDING drug targets in cancer. Analysis
+        tool, not resource announcement.
+
+10. PMID: 31074377 | Entity: odae
+    Title: ODAE: Ontology-based systematic representation and analysis of
+           drug adverse events and its usage in study of adverse events
+    Why: Paper about USING ontology to STUDY drug adverse events in
+         patients. Pharmacovigilance research.
+
+================================================================================
+TITLE PATTERNS INDICATING FALSE POSITIVES
+================================================================================
+
+Papers with these title patterns are likely FALSE POSITIVES:
+
+1. "Analysis of [biological process]"
+   - Omics analysis, pathway analysis, systematic analysis
+   - 660 papers (9.0%)
+
+2. "Identification of [genes/proteins] in [disease/organism]"
+   - Gene discovery, target identification
+   - 139 papers (1.9%)
+
+3. "[Biological finding] reveals [mechanism]"
+   - Discovery papers, mechanistic studies
+   - 85 papers (1.2%)
+
+4. "...in patients/cancer/disease..."
+   - Clinical studies, disease research
+   - 632 papers (8.6%)
+
+5. "...for [biological analysis/screening]"
+   - Tools for analyzing existing data
+   - Combined across multiple categories
+
+================================================================================
+STRONGEST FALSE POSITIVES (matching 3+ categories)
+================================================================================
+
+Papers matching 3+ biological research categories are the CLEAREST
+false positives:
+
+PMID 31074377  - ODAE: drug adverse events analysis (3 categories)
+PMID 31848596  - RHPCG: Hippo pathway in cancer (3 categories)
+PMID 27074804  - BRONCO: gene-variant-disease relations (3 categories)
+PMID 22952662  - TARGETgene: therapeutic targets in cancer (3 categories)
+PMID 22123846  - PlateletWeb: platelet signaling networks (3 categories)
+PMID 25512690  - SNPAAMapper: genome-wide SNP analysis (3 categories)
+PMID 27903883  - Zebrafish disease gene discovery (3 categories)
+PMID 33767730  - COVID-19 drug screening analysis (3 categories)
+PMID 27208273  - Protein interaction networks in ABA signaling (3 categories)
+PMID 25161239  - Chemical features in cancer drug response (3 categories)
+
+Total: 15 papers matching 3+ categories
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. CONFIDENCE THRESHOLD
+   - Current false positives cluster at 0.60-0.73 confidence
+   - Consider requiring SetFit > 0.75 for aggressive profile
+   - Or require linguistic agreement for confidence < 0.75
+
+2. TITLE PATTERN FILTERING
+   - Filter out titles with biological discovery patterns
+   - "Analysis of [biology]", "Identification of [genes] in [disease]"
+   - "...reveals [biological finding]"
+
+3. ENTITY EXTRACTION QUALITY
+   - 58.7% of false positives have poor entity extraction
+   - Consider requiring valid entity extraction
+   - Flag papers with entity = "a", "c", "d", "nan" for review
+
+4. DATABASE KEYWORDS INSUFFICIENT
+   - Many false positives mention "database" in title
+   - But they're analysis tools or research databases
+   - Not primary bioresource collections
+   - Need more sophisticated filtering
+
+================================================================================
+OUTPUT FILES
+================================================================================
+
+1. Full Analysis: biological_false_positives_analysis.csv
+   - All 1,879 false positives with category assignments
+
+2. Review Set: false_positives_for_review.csv
+   - Top 100 clearest examples for manual review
+
+3. Documentation: FALSE_POSITIVES_BIOLOGICAL_FINDINGS.md
+   - Detailed analysis with examples
+
+4. Analysis Script: find_biological_false_positives.py
+   - Reusable for future analyses
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The aggressive profile captures many biological RESEARCH papers that
+simply CITE bioresources as data sources, rather than papers ANNOUNCING
+new bioresources.
+
+These papers are doing actual biology:
+  - Discovering genes/proteins/mechanisms
+  - Clinical/disease research
+  - Drug discovery
+  - Analyzing existing data
+
+They MENTION resources in:
+  - Methods sections (data sources)
+  - Introductions (citing existing tools)
+  - Results (databases used for validation)
+
+But they are NOT ABOUT introducing/describing those resources.
+
+Filtering recommendation: More stringent criteria needed to reduce
+false positive rate from 25.5% to an acceptable level (<5%).
+================================================================================

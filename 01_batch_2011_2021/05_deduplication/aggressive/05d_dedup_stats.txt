@@ -1,0 +1,49 @@
+================================================================================
+UNIFIED DEDUPLICATION STATISTICS - AGGRESSIVE
+Generated: 2025-11-25 15:05:01
+================================================================================
+
+PROFILE CONFIGURATION:
+  Description: Maximum recall, accepts more false positives
+  Keywords: 22 terms
+  Linguistic bypass threshold: >= 4
+  SetFit threshold: >= 0.55
+  Require URL: False
+
+INPUT DATA:
+  Set A (Linguistic):   8683 papers
+  Set B (SetFit):       7938 papers
+
+DEDUPLICATED OUTPUTS:
+  Set A:   7031 unique resources
+  Set B:   4068 unique resources
+  Set C:  10810 unique resources (union)
+
+OVERLAP ANALYSIS:
+  Papers only in A:     7406
+  Papers only in B:     4200
+  Papers in both:          9
+  Overlap rate:         0.1%
+
+TOP RESOURCES BY ARTICLE COUNT:
+
+  Set A (Linguistic):
+    uniprot                                            : 7 papers
+    ensembl                                            : 7 papers
+    european nucleotide archive                        : 7 papers
+    interpro                                           : 6 papers
+    reactome                                           : 6 papers
+
+  Set B (SetFit):
+    saccharomyces genome database                      : 8 papers
+    ipd                                                : 7 papers
+    comparative toxicogenomics database                : 7 papers
+    rat genome database                                : 7 papers
+    ddbj                                               : 6 papers
+
+  Set C (Union):
+    gxd                                                : 2 papers
+    pride                                              : 2 papers
+    mgd                                                : 2 papers
+    plaza                                              : 2 papers
+    pharmgkb                                           : 2 papers

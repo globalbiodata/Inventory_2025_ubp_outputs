@@ -1,0 +1,49 @@
+================================================================================
+UNIFIED DEDUPLICATION STATISTICS - CONSERVATIVE
+Generated: 2025-11-25 15:05:01
+================================================================================
+
+PROFILE CONFIGURATION:
+  Description: High precision, minimize false positives
+  Keywords: 7 terms
+  Linguistic bypass threshold: >= 6
+  SetFit threshold: >= 0.6
+  Require URL: True
+
+INPUT DATA:
+  Set A (Linguistic):   8683 papers
+  Set B (SetFit):       7938 papers
+
+DEDUPLICATED OUTPUTS:
+  Set A:   3324 unique resources
+  Set B:    934 unique resources
+  Set C:   4168 unique resources (union)
+
+OVERLAP ANALYSIS:
+  Papers only in A:     3477
+  Papers only in B:     1012
+  Papers in both:          3
+  Overlap rate:         0.1%
+
+TOP RESOURCES BY ARTICLE COUNT:
+
+  Set A (Linguistic):
+    pride                                              : 5 papers
+    jaspar                                             : 5 papers
+    mgd                                                : 4 papers
+    chembl                                             : 4 papers
+    merops                                             : 4 papers
+
+  Set B (SetFit):
+    saccharomyces genome database                      : 8 papers
+    comparative toxicogenomics database                : 7 papers
+    rat genome database                                : 7 papers
+    ipd                                                : 6 papers
+    xenbase                                            : 4 papers
+
+  Set C (Union):
+    pride                                              : 2 papers
+    mgd                                                : 2 papers
+    ipd                                                : 2 papers
+    grasp                                              : 2 papers
+    maizegdb                                           : 2 papers

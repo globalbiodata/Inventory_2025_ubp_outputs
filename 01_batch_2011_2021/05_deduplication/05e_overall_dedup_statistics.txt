@@ -1,0 +1,42 @@
+================================================================================
+UNIFIED DEDUPLICATION STATISTICS
+Generated: 2025-11-21 09:07:27
+================================================================================
+
+INPUT DATA:
+  Set A (Linguistic):   8683 papers
+  Set B (SetFit):       7938 papers
+
+DEDUPLICATED OUTPUTS:
+  Set A:   3067 unique resources
+  Set B:   1149 unique resources
+  Set C:   4076 unique resources (union)
+
+OVERLAP ANALYSIS:
+  Papers only in A:     3281
+  Papers only in B:     1268
+  Papers in both:          3
+  Overlap rate:         0.1%
+
+TOP RESOURCES BY ARTICLE COUNT:
+
+  Set A (Linguistic):
+    european nucleotide archive                        : 5 papers
+    ncbi                                               : 5 papers
+    pride                                              : 4 papers
+    mgd                                                : 4 papers
+    interpro                                           : 4 papers
+
+  Set B (SetFit):
+    saccharomyces genome database                      : 9 papers
+    ipd                                                : 7 papers
+    comparative toxicogenomics database                : 7 papers
+    rat genome database                                : 7 papers
+    ddbj                                               : 6 papers
+
+  Set C (Union):
+    gxd                                                : 2 papers
+    pride                                              : 2 papers
+    mgd                                                : 2 papers
+    plaza                                              : 2 papers
+    pharmgkb                                           : 2 papers

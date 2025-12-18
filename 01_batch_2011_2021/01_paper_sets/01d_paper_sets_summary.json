@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-20T18:45:36.087332",
+  "set_a": {
+    "name": "Linguistic Only",
+    "criteria": "ling_score >= 3",
+    "paper_count": 8683,
+    "source_file": "final_classified_introductions.csv"
+  },
+  "set_b": {
+    "name": "SetFit High+Medium",
+    "criteria": "confidence >= 0.60",
+    "paper_count": 7938,
+    "high_confidence": 3783,
+    "medium_confidence": 4155,
+    "source_file": "setfit_classified_introductions.csv"
+  },
+  "set_c": {
+    "name": "Union (A + B)",
+    "criteria": "Linguistic OR SetFit",
+    "paper_count": 16605,
+    "linguistic_only": 8667,
+    "setfit_only": 7922,
+    "both": 16
+  },
+  "overlap_analysis": {
+    "linguistic_only": 8667,
+    "setfit_only": 7922,
+    "both_methods": 16,
+    "union_total": 16605,
+    "overlap_rate": 0.1
+  }
+}

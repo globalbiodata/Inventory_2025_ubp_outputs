@@ -1,0 +1,212 @@
+================================================================================
+METHODOLOGY FALSE POSITIVES - QUICK REFERENCE
+================================================================================
+
+DATASET: aggressive_novel_only.csv (7,374 papers NOT in baseline)
+
+KEY FINDINGS:
+  - 563 clear false positives (7.6%) - HIGH CONFIDENCE
+  - 2,416 potential false positives (32.8%) - 2+ methodology indicators
+
+================================================================================
+TOP 10 CLEAR FALSE POSITIVE EXAMPLES
+================================================================================
+
+1. PMID: 34184738
+   Title: DeepIPs: comprehensive assessment and computational identification
+          of phosphorylation sites of SARS-CoV-2 infection using a deep
+          learning-based approach
+   Why: Deep learning PREDICTION tool, not a phosphorylation database
+
+2. PMID: 21410990
+   Title: AnyExpress: integrated toolkit for analysis of cross-platform
+          gene expression data using a fast interval matching algorithm
+   Why: Analysis TOOLKIT that uses expression databases as input
+
+3. PMID: 26015273
+   Title: A statistical framework to predict functional non-coding regions
+          in the human genome through integrated analysis of annotation data
+   Why: PREDICTION framework using existing annotation databases
+
+4. PMID: 23088274, 26268340
+   Title: Computational tools and resources for metabolism-related property
+          predictions. 2. Application to prediction of half-life time in
+          human liver microsomes
+   Why: Computational PREDICTION tools, not a metabolite database
+
+5. PMID: 28789639
+   Entity: cipher
+   Title: CIPHER: a flexible and extensive workflow platform for integrative
+          next-generation sequencing data analysis and genomic regulatory
+          element prediction
+   Why: NGS analysis PIPELINE/WORKFLOW, not a genomic database
+
+6. PMID: 22230096
+   Title: ProFASTA: a pipeline web server for fungal protein scanning with
+          integration of cell surface prediction software
+   Why: Analysis PIPELINE for existing fungal protein data
+
+7. PMID: 27153631, 29186503
+   Title: MINTbase: a framework for the interactive exploration of
+          mitochondrial and nuclear tRNA fragments
+   Why: Exploration FRAMEWORK for tRNA data, not original tRNA collection
+
+8. PMID: 23051646
+   Title: CloudMap: a cloud-based pipeline for analysis of mutant genome
+          sequences
+   Why: Cloud PIPELINE for analyzing existing genome sequences
+
+9. PMID: 34798231
+   Title: WeBrain: A web-based brainformatics platform of computational
+          ecosystem for EEG big data analysis
+   Why: WEB PLATFORM for EEG analysis, not an EEG data collection
+
+10. PMID: 31067315
+    Entity: ilearn
+    Title: iLearn: an integrated platform and meta-learner for feature
+           engineering, machine-learning analysis and modeling of DNA, RNA
+           and protein sequence data
+    Why: ML PLATFORM using existing sequence databases
+
+================================================================================
+FALSE POSITIVE CATEGORIES (563 clear cases)
+================================================================================
+
+1. PREDICTION/CLASSIFICATION TOOLS (155, 27.5%)
+   - ML/AI models predicting biological features
+   - Use databases as training/reference data
+   - Keywords: "prediction of", "classification of", "identification of"
+
+2. PIPELINE/WORKFLOW TOOLS (133, 23.6%)
+   - Computational pipelines processing bioresource data
+   - Analysis workflows for existing databases
+   - Keywords: "pipeline for", "workflow for", "framework for"
+
+3. WEB-BASED ANALYSIS TOOLS (83, 14.7%)
+   - Web servers for analyzing existing data
+   - Online platforms for visualization/analysis
+   - Keywords: "web-based", "web server", "online platform"
+
+4. DATA INTEGRATION PLATFORMS (64, 11.4%)
+   - Platforms combining multiple existing databases
+   - Integration tools aggregating resources
+   - Keywords: "integrated platform", "comprehensive tool"
+
+5. USING/BASED ON EXISTING RESOURCES (41, 7.3%)
+   - Methods explicitly stating they use existing databases
+   - Tools based on existing resources
+   - Keywords: "using the X database", "based on Y"
+
+6. ANALYSIS PLATFORMS (30, 5.3%)
+   - General analysis platforms for biological data
+   - Keywords: "platform for analysis", "computational ecosystem"
+
+7. COMPUTATIONAL METHODS (30, 5.3%)
+   - Algorithms and computational approaches
+   - Keywords: "computational method", "algorithm for"
+
+8. MACHINE LEARNING METHODS (12, 2.1%)
+   - Explicit ML/AI approaches
+   - Keywords: "machine learning approach/method/model"
+
+9. SYSTEMATIC ANALYSIS (8, 1.4%)
+   - Systematic surveys or analyses
+   - Keywords: "systematic identification", "systematic analysis"
+
+10. META-ANALYSIS (4, 0.7%)
+    - Studies synthesizing multiple resources
+    - Keywords: "meta-analysis"
+
+11. BENCHMARKING (3, 0.5%)
+    - Performance comparison studies
+    - Keywords: "benchmark", "benchmarking"
+
+================================================================================
+WHY THESE ARE FALSE POSITIVES
+================================================================================
+
+1. CONTRIBUTION IS THE METHOD, NOT THE DATA
+   - Papers describe algorithms, tools, pipelines
+   - Bioresources are INPUT or REFERENCE, not the subject
+   - Example: "Tool X for predicting Y using database Z"
+             → Tool X is the contribution, not database Z
+
+2. PAPERS ABOUT ANALYZING/COMPARING EXISTING RESOURCES
+   - Benchmarking studies comparing databases/tools
+   - Meta-analyses synthesizing multiple sources
+   - Integration platforms combining existing data
+
+3. ENTITY EXTRACTION ERRORS
+   - Tool names extracted as "entities" (CIPHER, iLearn, etc.)
+   - These are software names, not bioresource names
+
+4. METHODOLOGY PAPERS MENTIONING RESOURCES
+   - "using database X" = X is a data source, not the subject
+   - "based on resource Y" = Y provides reference data
+   - Paper's novelty is the ANALYSIS METHOD
+
+================================================================================
+FILTERING RECOMMENDATIONS
+================================================================================
+
+EXCLUDE papers with titles containing 2+ of these patterns:
+
+STRONG METHODOLOGY INDICATORS:
+  ✗ "pipeline for"
+  ✗ "workflow for"
+  ✗ "framework for"
+  ✗ "tool for"
+  ✗ "platform for"
+  ✗ "method for"
+  ✗ "prediction of/for"
+  ✗ "classification of/for"
+  ✗ "identification of"
+  ✗ "computational [method/tool/approach]"
+  ✗ "machine learning [approach/method/model]"
+  ✗ "web-based [tool/platform/application]"
+  ✗ "integrated platform"
+  ✗ "benchmarking"
+  ✗ "comparison of"
+  ✗ "comparing X and Y"
+  ✗ "meta-analysis"
+  ✗ "systematic analysis"
+
+RESOURCE USAGE INDICATORS (combined with above):
+  ✗ "using [database name]"
+  ✗ "based on [resource name]"
+  ✗ "from [database name]"
+  ✗ "with [database name]"
+
+================================================================================
+CONTAMINATION SUMMARY
+================================================================================
+
+Confidence Level          Count    % Dataset    Criteria
+─────────────────────    ─────    ─────────    ────────────────────────
+High Confidence FP         563       7.6%      Strong patterns in title
+Medium Confidence FP       567       7.7%      3 methodology indicators
+Low Confidence FP        1,735      23.5%      2 methodology indicators
+─────────────────────    ─────    ─────────    ────────────────────────
+TOTAL POTENTIAL FP       2,416      32.8%      2+ indicators
+
+RECOMMENDATION: At minimum, remove the 563 high-confidence false positives.
+Consider reviewing medium confidence cases (3 indicators) as well.
+
+================================================================================
+OUTPUT FILES
+================================================================================
+
+1. methodology_false_positives_candidates.csv
+   - All 2,416 potential FPs with pattern counts
+
+2. clear_false_positives.csv
+   - 563 high-confidence FPs with categories
+
+3. METHODOLOGY_FALSE_POSITIVES_REPORT.md
+   - Comprehensive analysis with detailed examples
+
+4. Scripts:
+   - find_methodology_false_positives.py (broad detection)
+   - extract_clear_false_positives.py (high-confidence extraction)
+
+================================================================================

@@ -1,0 +1,564 @@
+pmid,title,primary_entity_short,category,reason
+"27153631, 29186503",MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments.,,pipeline,Pipeline/workflow tool that uses resources as input
+"23088274, 26268340",Computational tools and resources for metabolism-related property predictions. 2. Application to prediction of half-life time in human liver microsomes.,,prediction,Prediction/classification method applied to resource data
+"23180763, 25392407, 31740968",The Standard European Vector Architecture (SEVA): a coherent platform for the analysis and deployment of complex prokaryotic phenotypes.,seva,platform,Analysis platform that uses resources
+28499008,RiPPMiner: a bioinformatics resource for deciphering chemical structures of RiPPs based on prediction of cleavage and cross-links.,,prediction,Prediction/classification method applied to resource data
+23497159,Promzea: a pipeline for discovery of co-regulatory motifs in maize and other plant species and its application to the anthocyanin and phlobaphene biosynthetic pathways and the Maize Development Atlas.,,pipeline,Pipeline/workflow tool that uses resources as input
+26635364,Wasabi: An Integrated Platform for Evolutionary Sequence Analysis and Data Visualization.,wasabi,integration,Data integration platform combining multiple resources
+27519173,ISOexpresso: a web-based platform for isoform-level expression analysis in human cancer.,,web_tool,Web-based tool for analyzing resource data
+30131825,"MARVEL, a Tool for Prediction of Bacteriophage Sequences in Metagenomic Bins.",marvel,prediction,Prediction/classification method applied to resource data
+22913485,NetiNeti: discovery of scientific names from text using machine learning methods.,,ml,Machine learning method that uses resource data
+32639154,DUBS: A Framework for Developing &lt;u&gt;D&lt;/u&gt;irectory of &lt;u&gt;U&lt;/u&gt;seful &lt;u&gt;B&lt;/u&gt;enchmarking &lt;u&gt;S&lt;/u&gt;ets for Virtual Screening.,dubs,pipeline,Pipeline/workflow tool that uses resources as input
+33372147,DeepTFactor: A deep learning-based tool for the prediction of transcription factors.,,prediction,Prediction/classification method applied to resource data
+31443733,Variant Interpretation for Cancer (VIC): a computational tool for assessing clinical impacts of somatic variants.,vic,computational,Computational method applied to resource data
+"31218353, 32938368",DeepMito: accurate prediction of protein sub-mitochondrial localization using convolutional neural networks.,,prediction,Prediction/classification method applied to resource data
+23051646,CloudMap: a cloud-based pipeline for analysis of mutant genome sequences.,,pipeline,Pipeline/workflow tool that uses resources as input
+30999845,GenHap: a novel computational method based on genetic algorithms for haplotype assembly.,genhap,computational,Computational method applied to resource data
+30241466,ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature.,ecpred,prediction,Prediction/classification method applied to resource data
+28402545,ORIO (Online Resource for Integrative Omics): a web-based platform for rapid integration of next generation sequencing data.,orio,web_tool,Web-based tool for analyzing resource data
+32112578,FiRES: A computational method for the de novo identification of internal structure similarity in proteins.,fires,computational,Computational method applied to resource data
+33430993,kGCN: a graph-based deep learning framework for chemical structures.,kgcn,pipeline,Pipeline/workflow tool that uses resources as input
+25867189,"T346Hunter: a novel web-based tool for the prediction of type III, type IV and type VI secretion systems in bacterial genomes.",,prediction,Prediction/classification method applied to resource data
+"23193293, 29121237",Human Ageing Genomic Resources: integrated databases and tools for the biology and genetics of ageing.,,integration,Data integration platform combining multiple resources
+21599929,CLOTU: an online pipeline for processing and clustering of 454 amplicon reads into OTUs followed by taxonomic annotation.,clotu,pipeline,Pipeline/workflow tool that uses resources as input
+24404173,ClassyFlu: classification of influenza A viruses with Discriminatively trained profile-HMMs.,,prediction,Prediction/classification method applied to resource data
+29178837,VISPA2: a scalable pipeline for high-throughput identification and annotation of vector integration sites.,vispa2,pipeline,Pipeline/workflow tool that uses resources as input
+28789639,CIPHER: a flexible and extensive workflow platform for integrative next-generation sequencing data analysis and genomic regulatory element prediction.,cipher,platform,Analysis platform that uses resources
+25378307,DEEP: a general computational framework for predicting enhancers.,deep,pipeline,Pipeline/workflow tool that uses resources as input
+30054214,The DrugPattern tool for drug set enrichment analysis and its prediction for beneficial effects of oxLDL on type 2 diabetes.,,prediction,Prediction/classification method applied to resource data
+30815667,CAFU: a Galaxy framework for exploring unmapped RNA-Seq data.,cafu,pipeline,Pipeline/workflow tool that uses resources as input
+30212910,Spfy: an integrated graph database for real-time prediction of bacterial phenotypes and downstream comparative analyses.,spfy,prediction,Prediction/classification method applied to resource data
+26561344,COGNIZER: A Framework for Functional Annotation of Metagenomic Datasets.,cognizer,pipeline,Pipeline/workflow tool that uses resources as input
+31086982,multiPhATE: bioinformatics pipeline for functional annotation of phage isolates.,,pipeline,Pipeline/workflow tool that uses resources as input
+24555844,PathNER: a tool for systematic identification of biological pathway mentions in the literature.,,systematic,Systematic analysis using resource data
+22480273,Tav4SB: integrating tools for analysis of kinetic models of biological systems.,tav4sb,integration,Data integration platform combining multiple resources
+32035227,DeepCPI: A Deep Learning-based Framework for Large-scale in silico Drug Screening.,,pipeline,Pipeline/workflow tool that uses resources as input
+22219203,PASSion: a pattern growth algorithm-based pipeline for splice junction detection in paired-end RNA-Seq data.,,pipeline,Pipeline/workflow tool that uses resources as input
+25637560,Omics Pipe: a community-based framework for reproducible multi-omics data analysis.,,pipeline,Pipeline/workflow tool that uses resources as input
+27174940,"PASMet: a web-based platform for prediction, modelling and analyses of metabolic systems.",pasmet,web_tool,Web-based tool for analyzing resource data
+32449936,CVCDAP: an integrated platform for molecular and clinical analysis of cancer virtual cohorts.,cvcdap,integration,Data integration platform combining multiple resources
+34580179,OrtSuite: from genomes to prediction of microbial interactions within targeted ecosystem processes.,,prediction,Prediction/classification method applied to resource data
+30084867,"LncFinder: an integrated platform for long non-coding RNA identification utilizing sequence intrinsic composition, structural information and physicochemical property.",,integration,Data integration platform combining multiple resources
+23236458,CINPER: an interactive web system for pathway prediction for prokaryotes.,cinper,prediction,Prediction/classification method applied to resource data
+24927599,"High-throughput comparison, functional annotation, and metabolic modeling of plant genomes using the PlantSEED resource.",,usage,Method that uses an existing database/resource
+34370400,"JWES: a new pipeline for whole genome/exome sequence data processing, management, and gene-variant discovery, annotation, prediction, and genotyping.",jwes,pipeline,Pipeline/workflow tool that uses resources as input
+22815363,MolBioLib: a C++11 framework for rapid development and deployment of bioinformatics tasks.,,pipeline,Pipeline/workflow tool that uses resources as input
+29947803,Quokka: a comprehensive tool for rapid and accurate prediction of kinase family-specific phosphorylation sites in the human proteome.,quokka,prediction,Prediction/classification method applied to resource data
+30692979,"iVikodak-A Platform and Standard Workflow for Inferring, Analyzing, Comparing, and Visualizing the Functional Potential of Microbial Communities.",,pipeline,Pipeline/workflow tool that uses resources as input
+32249316,ShinyLearner: A containerized benchmarking tool for machine-learning classification of tabular data.,,prediction,Prediction/classification method applied to resource data
+29399725,"POTENCI: prediction of temperature, neighbor and pH-corrected chemical shifts for intrinsically disordered proteins.",potenci,prediction,Prediction/classification method applied to resource data
+34589187,PROMISed: A novel web-based tool to facilitate analysis and visualization of the molecular interaction networks from co-fractionation mass spectrometry (CF-MS) experiments.,,web_tool,Web-based tool for analyzing resource data
+28503844,TypeLoader: A fast and efficient automated workflow for the annotation and submission of novel full-length HLA alleles.,,pipeline,Pipeline/workflow tool that uses resources as input
+27302480,"ProXL (Protein Cross-Linking Database): A Platform for Analysis, Visualization, and Sharing of Protein Cross-Linking Mass Spectrometry Data.",proxl,platform,Analysis platform that uses resources
+31067315,"iLearn: an integrated platform and meta-learner for feature engineering, machine-learning analysis and modeling of DNA, RNA and protein sequence data.",ilearn,integration,Data integration platform combining multiple resources
+27997202,Peptigram: A Web-Based Application for Peptidomics Data Visualization.,,web_tool,Web-based tool for analyzing resource data
+32330239,SparkINFERNO: a scalable high-throughput pipeline for inferring molecular mechanisms of non-coding genetic variants.,,pipeline,Pipeline/workflow tool that uses resources as input
+28221024,iMet: A Network-Based Computational Tool To Assist in the Annotation of Metabolites from Tandem Mass Spectra.,imet,computational,Computational method applied to resource data
+28100700,PBrowse: a web-based platform for real-time collaborative exploration of genomic data.,,web_tool,Web-based tool for analyzing resource data
+28750104,BrEPS 2.0: Optimization of sequence pattern prediction for enzyme annotation.,breps,prediction,Prediction/classification method applied to resource data
+29062930,The secondary metabolite bioinformatics portal: Computational tools to facilitate synthetic biology of secondary metabolite production.,,computational,Computational method applied to resource data
+24503186,"CoreFlow: a computational platform for integration, analysis and modeling of complex biological data.",,platform,Analysis platform that uses resources
+34111608,Xconnector: Retrieving and visualizing metabolites and pathways information from various database resources.,,usage,Method that uses an existing database/resource
+26007653,StemChecker: a web-based tool to discover and explore stemness signatures in gene sets.,,web_tool,Web-based tool for analyzing resource data
+29718313,"UNRES server for physics-based coarse-grained simulations and prediction of protein structure, dynamics and thermodynamics.",unres,prediction,Prediction/classification method applied to resource data
+29687309,DR2DI: a powerful computational tool for predicting novel drug-disease associations.,dr2di,computational,Computational method applied to resource data
+23160411,"Developing a biocuration workflow for AgBase, a non-model organism database.",agbase,pipeline,Pipeline/workflow tool that uses resources as input
+24387194,ITEP: an integrated toolkit for exploration of microbial pan-genomes.,itep,integration,Data integration platform combining multiple resources
+32660416,MethylStar: A fast and robust pre-processing pipeline for bulk or single-cell whole-genome bisulfite sequencing data.,,pipeline,Pipeline/workflow tool that uses resources as input
+32637811,CCPRD: A Novel Analytical Framework for the Comprehensive Proteomic Reference Database Construction of NonModel Organisms.,ccprd,pipeline,Pipeline/workflow tool that uses resources as input
+31088348,anamiR: integrated analysis of MicroRNA and gene expression profiling.,anamir,integration,Data integration platform combining multiple resources
+28859620,Orthonome - a new pipeline for predicting high quality orthologue gene sets applicable to complete and draft genomes.,,pipeline,Pipeline/workflow tool that uses resources as input
+32997169,MetFID: artificial neural network-based compound fingerprint prediction for metabolite annotation.,metfid,prediction,Prediction/classification method applied to resource data
+22901092,DTome: a web-based tool for drug-target interactome construction.,dtome,web_tool,Web-based tool for analyzing resource data
+27861637,Sam2bam: High-Performance Framework for NGS Data Preprocessing Tools.,,pipeline,Pipeline/workflow tool that uses resources as input
+34184738,DeepIPs: comprehensive assessment and computational identification of phosphorylation sites of SARS-CoV-2 infection using a deep learning-based approach.,,computational,Computational method applied to resource data
+21647737,iScreen: world's first cloud-computing web server for virtual screening and de novo drug design based on TCM database@Taiwan.,,usage,Method that uses an existing database/resource
+22369237,INDUS - a composition-based approach for rapid and accurate taxonomic classification of metagenomic sequences.,indus,prediction,Prediction/classification method applied to resource data
+21646342,"CSpritz: accurate prediction of protein disorder segments with annotation for homology, secondary structure and linear motifs.",,prediction,Prediction/classification method applied to resource data
+22641854,DroPNet: a web portal for integrated analysis of Drosophila protein-protein interaction networks.,,integration,Data integration platform combining multiple resources
+31028400,"Updated MS²PIP web server delivers fast and accurate MS² peak intensity prediction for multiple fragmentation methods, instruments and labeling techniques.",ms²pip,prediction,Prediction/classification method applied to resource data
+34883995,COLAEVA: Visual Analytics and Data Mining Web-Based Tool for Virtual Coaching of Older Adult Populations.,colaeva,web_tool,Web-based tool for analyzing resource data
+32421831,ToxicoDB: an integrated database to mine and visualize large-scale toxicogenomic datasets.,,integration,Data integration platform combining multiple resources
+32061934,HMI-PRED: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry.,hmi-pred,prediction,Prediction/classification method applied to resource data
+33084862,BastionHub: a universal platform for integrating and analyzing substrates secreted by Gram-negative bacteria.,,platform,Analysis platform that uses resources
+30365025,SSRome: an integrated database and pipelines for exploring microsatellites in all organisms.,ssrome,integration,Data integration platform combining multiple resources
+28387819,SLiMSearch: a framework for proteome-wide discovery and annotation of functional modules in intrinsically disordered regions.,,pipeline,Pipeline/workflow tool that uses resources as input
+24829452,TogoTable: cross-database annotation system using the Resource Description Framework (RDF) data model.,,usage,Method that uses an existing database/resource
+32392343,Oviz-Bio: a web-based platform for interactive cancer genomics data visualization.,,web_tool,Web-based tool for analyzing resource data
+25254639,IDEPI: rapid prediction of HIV-1 antibody epitopes and other phenotypic features from sequence data using a flexible machine learning platform.,idepi,prediction,Prediction/classification method applied to resource data
+22857267,MicrobesFlux: a web platform for drafting metabolic models from the KEGG database.,,usage,Method that uses an existing database/resource
+32523402,"Mikan Genome Database (MiGD): integrated database of genome annotation, genomic diversity, and CAPS marker information for mandarin molecular breeding.",migd,integration,Data integration platform combining multiple resources
+29733379,oriTfinder: a web-based tool for the identification of origin of transfers in DNA sequences of bacterial mobile genetic elements.,,web_tool,Web-based tool for analyzing resource data
+34799678,PremPLI: a machine learning model for predicting the effects of missense mutations on protein-ligand interactions.,,ml,Machine learning method that uses resource data
+26226151,ElemeNT: a computational tool for detecting core promoter elements.,,computational,Computational method applied to resource data
+24502797,"TUIT, a BLAST-based tool for taxonomic classification of nucleotide sequences.",tuit,prediction,Prediction/classification method applied to resource data
+25627673,Aber-OWL: a framework for ontology-based data access in biology.,,pipeline,Pipeline/workflow tool that uses resources as input
+34112240,LigTMap: ligand and structure-based target identification and activity prediction for small molecular compounds.,,prediction,Prediction/classification method applied to resource data
+24949626,"IIS--Integrated Interactome System: a web-based platform for the annotation, analysis and visualization of protein-metabolite-gene-drug interactions by integrating a variety of data sources and tools.",iis,web_tool,Web-based tool for analyzing resource data
+29621297,"iCopyDAV: Integrated platform for copy number variations-Detection, annotation and visualization.",,integration,Data integration platform combining multiple resources
+26155959,iVAX: An integrated toolkit for the selection and optimization of antigens and the design of epitope-driven vaccines.,ivax,integration,Data integration platform combining multiple resources
+34240464,Ligand Binding Site Comparison - LiBiSCo - a web-based tool for analyzing interactions between proteins and ligands to explore amino acid specificity within active sites.,,web_tool,Web-based tool for analyzing resource data
+29070035,SaVanT: a web-based tool for the sample-level visualization of molecular signatures in gene expression profiles.,savant,web_tool,Web-based tool for analyzing resource data
+28389638,IMGMD: A platform for the integration and standardisation of In silico Microbial Genome-scale Metabolic Models.,imgmd,platform,Analysis platform that uses resources
+31317185,VariED: the first integrated database of gene annotation and expression profiles for variants related to human diseases.,varied,integration,Data integration platform combining multiple resources
+29854184,SpindleSphere: A Web-based Platform for Large-scale Sleep Spindle Analysis and Visualization.,,web_tool,Web-based tool for analyzing resource data
+27825033,VirusDetect: An automated pipeline for efficient virus discovery using deep sequencing of small RNAs.,,pipeline,Pipeline/workflow tool that uses resources as input
+23029291,ThioFinder: a web-based tool for the identification of thiopeptide gene clusters in DNA sequences.,,web_tool,Web-based tool for analyzing resource data
+25636267,MaxMod: a hidden Markov model based novel interface to MODELLER for improved prediction of protein 3D models.,maxmod,prediction,Prediction/classification method applied to resource data
+30657872,AllerCatPro-prediction of protein allergenicity potential from the protein sequence.,,prediction,Prediction/classification method applied to resource data
+30052959,eModel-BDB: a database of comparative structure models of drug-target interactions from the Binding Database.,,usage,Method that uses an existing database/resource
+29272359,"BioSeq-Analysis: a platform for DNA, RNA and protein sequence analysis based on machine learning approaches.",,ml,Machine learning method that uses resource data
+29106469,DFAST: a flexible prokaryotic genome annotation pipeline for faster genome publication.,dfast,pipeline,Pipeline/workflow tool that uses resources as input
+34814330,Purimeth: an integrated web-based tool for estimating and accounting for tumor purity in cancer DNA methylation studies.,,web_tool,Web-based tool for analyzing resource data
+31395072,MLMDA: a machine learning approach to predict and validate MicroRNA-disease associations by integrating of heterogenous information sources.,mlmda,ml,Machine learning method that uses resource data
+29987232,NTyroSite: Computational Identification of Protein Nitrotyrosine Sites Using Sequence Evolutionary Features.,,computational,Computational method applied to resource data
+33954706,EMNUSS: a deep learning framework for secondary structure annotation in cryo-EM maps.,emnuss,pipeline,Pipeline/workflow tool that uses resources as input
+21515632,PicXAA-Web: a web-based platform for non-progressive maximum expected accuracy alignment of multiple biological sequences.,,web_tool,Web-based tool for analyzing resource data
+25982732,PathRings: a web-based tool for exploration of ortholog and expression data in biological pathways.,,web_tool,Web-based tool for analyzing resource data
+28472340,"MiSTIC, an integrated platform for the analysis of heterogeneity in large tumour transcriptome datasets.",mistic,integration,Data integration platform combining multiple resources
+30929112,The longitudinal integrated database for health insurance and labour market studies (LISA) and its use in medical research.,lisa,integration,Data integration platform combining multiple resources
+27378292,ConsPred: a rule-based (re-)annotation framework for prokaryotic genomes.,,pipeline,Pipeline/workflow tool that uses resources as input
+21410990,AnyExpress: integrated toolkit for analysis of cross-platform gene expression data using a fast interval matching algorithm.,,integration,Data integration platform combining multiple resources
+26664458,ChemDes: an integrated web-based platform for molecular descriptor and fingerprint computation.,,web_tool,Web-based tool for analyzing resource data
+31504165,COMBAT-TB-NeoDB: fostering tuberculosis research through integrative analysis using graph database technologies.,,usage,Method that uses an existing database/resource
+31073595,INGA 2.0: improving protein function prediction for the dark proteome.,inga,prediction,Prediction/classification method applied to resource data
+32589017,MS-CleanR: A Feature-Filtering Workflow for Untargeted LC-MS Based Metabolomics.,,pipeline,Pipeline/workflow tool that uses resources as input
+25757547,SIFTER-T: a scalable and optimized framework for the SIFTER phylogenomic method of probabilistic protein domain annotation.,sifter-t,pipeline,Pipeline/workflow tool that uses resources as input
+34663069,TopProperty: Robust Metaprediction of Transmembrane and Globular Protein Features Using Deep Neural Networks.,,prediction,Prediction/classification method applied to resource data
+27835690,Vidjil: A Web Platform for Analysis of High-Throughput Repertoire Sequencing.,vidjil,platform,Analysis platform that uses resources
+32849767,rboAnalyzer: A Software to Improve Characterization of Non-coding RNAs From Sequence Database Search Output.,,usage,Method that uses an existing database/resource
+27154270,Synteny Portal: a web-based application portal for synteny block analysis.,,web_tool,Web-based tool for analyzing resource data
+27216711,Ehapp2: Estimate haplotype frequencies from pooled sequencing data with prior database information.,ehapp2,usage,Method that uses an existing database/resource
+24312246,"PIIKA 2: an expanded, web-based platform for analysis of kinome microarray data.",piika 2,web_tool,Web-based tool for analyzing resource data
+21672959,firestar--advances in the prediction of functionally important residues.,,prediction,Prediction/classification method applied to resource data
+28336542,"Seten: a tool for systematic identification and comparison of processes, phenotypes, and diseases associated with RNA-binding proteins from condition-specific CLIP-seq profiles.",seten,systematic,Systematic analysis using resource data
+31504851,"BioSeq-Analysis2.0: an updated platform for analyzing DNA, RNA and protein sequences at sequence level and residue level based on machine learning approaches.",,ml,Machine learning method that uses resource data
+33875000,A community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch.,,prediction,Prediction/classification method applied to resource data
+33552471,Establishing the South Australian Macrobenthic Traits (SAMT) database: A trait classification for functional assessments.,samt,prediction,Prediction/classification method applied to resource data
+28453649,"PMut: a web-based tool for the annotation of pathological variants on proteins, 2017 update.",pmut,web_tool,Web-based tool for analyzing resource data
+33750289,Y-LineageTracker: a high-throughput analysis framework for Y-chromosomal next-generation sequencing data.,,pipeline,Pipeline/workflow tool that uses resources as input
+26426330,Re-Annotator: Annotation Pipeline for Microarray Probe Sequences.,,pipeline,Pipeline/workflow tool that uses resources as input
+31114925,ImmuneRegulation: a web-based tool for identifying human immune regulatory elements.,,web_tool,Web-based tool for analyzing resource data
+33179738,OncoVar: an integrated database and analysis platform for oncogenic driver variants in cancers.,,integration,Data integration platform combining multiple resources
+34887386,"dbTMM: an integrated database of large-scale cohort, genome and clinical data for the Tohoku Medical Megabank Project.",dbtmm,integration,Data integration platform combining multiple resources
+34254996,ADEIP: an integrated platform of age-dependent expression and immune profiles across human tissues.,adeip,integration,Data integration platform combining multiple resources
+34037802,G2PDeep: a web-based deep-learning framework for quantitative phenotype prediction and discovery of genomic markers.,,pipeline,Pipeline/workflow tool that uses resources as input
+30565464,PPIExp: A Web-Based Platform for Integration and Visualization of Protein-Protein Interaction Data and Spatiotemporal Proteomics Data.,ppiexp,web_tool,Web-based tool for analyzing resource data
+29669011,AnnotSV: an integrated tool for structural variations annotation.,,integration,Data integration platform combining multiple resources
+23766290,INMEX--a web-based tool for integrative meta-analysis of expression data.,inmex,web_tool,Web-based tool for analyzing resource data
+25506822,VAAPA: a web platform for visualization and analysis of alternative polyadenylation.,vaapa,platform,Analysis platform that uses resources
+22073040,ClubSub-P: Cluster-Based Subcellular Localization Prediction for Gram-Negative Bacteria and Archaea.,,prediction,Prediction/classification method applied to resource data
+23515897,OrthoRBH: A streamlined pipeline for mining large gene family sequences in related species.,,pipeline,Pipeline/workflow tool that uses resources as input
+25969446,The TOPCONS web server for consensus prediction of membrane protein topology and signal peptides.,topcons,prediction,Prediction/classification method applied to resource data
+34125897,DGLinker: flexible knowledge-graph prediction of disease-gene associations.,,prediction,Prediction/classification method applied to resource data
+31100387,The EXPANDER Integrated Platform for Transcriptome Analysis.,expander,integration,Data integration platform combining multiple resources
+22190598,AnnotCompute: annotation-based exploration and meta-analysis of genomics experiments.,,meta_analysis,Meta-analysis study using multiple resources
+23628689,FUNGALOXPHOS: an integrated database for oxidative phosphorylation in fungi.,fungaloxphos,integration,Data integration platform combining multiple resources
+31649733,CEPICS: A Comparison and Evaluation Platform for Integration Methods in Cancer Subtyping.,cepics,platform,Analysis platform that uses resources
+29718114,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA-disease association.",,prediction,Prediction/classification method applied to resource data
+28082394,TSSPlant: a new tool for prediction of plant Pol II promoters.,,prediction,Prediction/classification method applied to resource data
+26956673,CoeViz: a web-based tool for coevolution analysis of protein residues.,coeviz,web_tool,Web-based tool for analyzing resource data
+25503062,ViVar: a comprehensive platform for the analysis and visualization of structural genomic variation.,vivar,platform,Analysis platform that uses resources
+26130332,'LungGENS': a web-based tool for mapping single-cell gene expression in the developing lung.,,web_tool,Web-based tool for analyzing resource data
+31907209,pVACtools: A Computational Toolkit to Identify and Visualize Cancer Neoantigens.,,computational,Computational method applied to resource data
+32501478,SnpHub: an easy-to-set-up web server framework for exploring large-scale genomic variation data in the post-genomic era with applications in wheat.,snphub,pipeline,Pipeline/workflow tool that uses resources as input
+25028726,MToolBox: a highly automated pipeline for heteroplasmy annotation and prioritization analysis of human mitochondrial variants in high-throughput sequencing.,,pipeline,Pipeline/workflow tool that uses resources as input
+24715218,CancerEST: a web-based tool for automatic meta-analysis of public EST data.,,web_tool,Web-based tool for analyzing resource data
+33999207,PERCEPTRON: an open-source GPU-accelerated proteoform identification pipeline for top-down proteomics.,perceptron,pipeline,Pipeline/workflow tool that uses resources as input
+29474519,ViCTree: an automated framework for taxonomic classification from protein sequences.,,pipeline,Pipeline/workflow tool that uses resources as input
+24493591,CellGeo: a computational platform for the analysis of shape changes in cells with complex geometries.,,platform,Analysis platform that uses resources
+28449106,"MicrobiomeAnalyst: a web-based tool for comprehensive statistical, visual and meta-analysis of microbiome data.",,web_tool,Web-based tool for analyzing resource data
+21904425,SSPred: A prediction server based on SVM for the identification and classification of proteins involved in bacterial secretion systems.,sspred,prediction,Prediction/classification method applied to resource data
+24289158,wKinMut: an integrated tool for the analysis and interpretation of mutations in human protein kinases.,,integration,Data integration platform combining multiple resources
+34622387,StackHCV: a web-based integrative machine-learning framework for large-scale identification of hepatitis C virus NS5B inhibitors.,,pipeline,Pipeline/workflow tool that uses resources as input
+32673477,Pred-Skin: A Web Portal for Accurate Prediction of Human Skin Sensitizers.,,prediction,Prediction/classification method applied to resource data
+21545712,"SNiPlay: a web-based tool for detection, management and analysis of SNPs. Application to grapevine diversity projects.",,web_tool,Web-based tool for analyzing resource data
+32160038,AptaBlocks Online: A Web-Based Toolkit for the In Silico Design of Oligonucleotide Sticky Bridges.,,web_tool,Web-based tool for analyzing resource data
+26504140,GenoWAP: GWAS signal prioritization through integrated analysis of genomic functional annotation.,,integration,Data integration platform combining multiple resources
+24338423,ReSeqTools: an integrated toolkit for large-scale next-generation sequencing based resequencing analysis.,,integration,Data integration platform combining multiple resources
+27479659,TepiTool: A Pipeline for Computational Prediction of T Cell Epitope Candidates.,,pipeline,Pipeline/workflow tool that uses resources as input
+29583068,HLPI-Ensemble: Prediction of human lncRNA-protein interactions based on ensemble strategy.,,prediction,Prediction/classification method applied to resource data
+26263006,GDSCalc: A Web-Based Application for Evaluating Discrete Graph Dynamical Systems.,,web_tool,Web-based tool for analyzing resource data
+29800349,"GDA, a web-based tool for Genomics and Drugs integrated analysis.",gda,integration,Data integration platform combining multiple resources
+27306108,GPS-Lipid: a robust tool for the prediction of multiple lipid modification sites.,,prediction,Prediction/classification method applied to resource data
+23846595,JBioWH: an open-source Java framework for bioinformatics data integration.,jbiowh,pipeline,Pipeline/workflow tool that uses resources as input
+27187206,SoFIA: a data integration framework for annotating high-throughput datasets.,sofia,pipeline,Pipeline/workflow tool that uses resources as input
+34279599,AVPIden: a new scheme for identification and functional prediction of antiviral peptides based on machine learning approaches.,,prediction,Prediction/classification method applied to resource data
+23735058,AllerTOP--a server for in silico prediction of allergens.,,prediction,Prediction/classification method applied to resource data
+26840129,"MutAid: Sanger and NGS Based Integrated Pipeline for Mutation Identification, Validation and Annotation in Human Molecular Genetics.",mutaid,pipeline,Pipeline/workflow tool that uses resources as input
+29678128,SpirPep: an in silico digestion-based platform to assist bioactive peptides discovery from a genome-wide database.,,usage,Method that uses an existing database/resource
+25150822,LRRsearch: An asynchronous server-based application for the prediction of leucine-rich repeat motifs and an integrative database of NOD-like receptors.,,prediction,Prediction/classification method applied to resource data
+32503412,PS4DR: a multimodal workflow for identification and prioritization of drugs based on pathway signatures.,ps4dr,pipeline,Pipeline/workflow tool that uses resources as input
+25797062,PTGBase: an integrated database to study tandem duplicated genes in plants.,,integration,Data integration platform combining multiple resources
+22747501,PePPER: a webserver for prediction of prokaryote promoter elements and regulons.,pepper,prediction,Prediction/classification method applied to resource data
+34037702,SimText: a text mining framework for interactive analysis and visualization of similarities among biomedical entities.,,pipeline,Pipeline/workflow tool that uses resources as input
+29897411,comoRbidity: an R package for the systematic analysis of disease comorbidities.,,systematic,Systematic analysis using resource data
+34365010,SILO: A Computational Method for Detecting Copy Number Gain in Clinical Specimens Analyzed on a Next-Generation Sequencing Platform.,silo,computational,Computational method applied to resource data
+27131357,"PHYLOViZ Online: web-based tool for visualization, phylogenetic inference, analysis and sharing of minimum spanning trees.",,web_tool,Web-based tool for analyzing resource data
+26357328,RBioCloud: A Light-Weight Framework for Bioconductor and R-based Jobs on the Cloud.,,pipeline,Pipeline/workflow tool that uses resources as input
+33381819,Padhoc: a computational pipeline for pathway reconstruction on the fly.,padhoc,pipeline,Pipeline/workflow tool that uses resources as input
+30652568,CAFE MOCHA: An Integrated Platform for Discovering Clinically Relevant Molecular Changes in Cancer-An Example of Distant Metastasis- and Recurrence-Linked Classifiers in Head and Neck Squamous Cell Carcinoma.,cafe mocha,integration,Data integration platform combining multiple resources
+34791104,Prototheca-ID: a web-based application for molecular identification of Prototheca species.,,web_tool,Web-based tool for analyzing resource data
+28619054,HGPEC: a Cytoscape app for prediction of novel disease-gene and disease-disease associations and evidence collection based on a random walk on heterogeneous network.,hgpec,prediction,Prediction/classification method applied to resource data
+21992029,Genome-wide prediction of splice-modifying SNPs in human genes using a new analysis pipeline called AASsites.,,prediction,Prediction/classification method applied to resource data
+24838562,ProTox: a web server for the in silico prediction of rodent oral toxicity.,protox,prediction,Prediction/classification method applied to resource data
+26739209,SuccinSite: a computational tool for the prediction of protein succinylation sites by exploiting the amino acid patterns and properties.,,prediction,Prediction/classification method applied to resource data
+28578698,dictyExpress: a web-based platform for sequence data management and analytics in Dictyostelium and beyond.,,web_tool,Web-based tool for analyzing resource data
+33689914,MutVis: Automated framework for analysis and visualization of mutational signatures in pathogenic bacterial strains.,mutvis,pipeline,Pipeline/workflow tool that uses resources as input
+32215567,CRiSP: accurate structure prediction of disulfide-rich peptides with cystine-specific sequence alignment and machine learning.,crisp,prediction,Prediction/classification method applied to resource data
+32117445,CHG: A Systematically Integrated Database of Cancer Hallmark Genes.,chg,integration,Data integration platform combining multiple resources
+21513519,MI-GWAS: a SAS platform for the analysis of inherited and maternal genetic effects in genome-wide association studies using log-linear models.,mi-gwas,platform,Analysis platform that uses resources
+24829450,PRISM: a web server and repository for prediction of protein-protein interactions and modeling their 3D complexes.,prism,prediction,Prediction/classification method applied to resource data
+31804670,ImPLoc: a multi-instance deep learning model for the prediction of protein subcellular localization based on immunohistochemistry images.,imploc,prediction,Prediction/classification method applied to resource data
+29106441,"Orchid: a novel management, annotation and machine learning framework for analyzing cancer mutations.",orchid,pipeline,Pipeline/workflow tool that uses resources as input
+26801957,ELASPIC web-server: proteome-wide structure-based prediction of mutation effects on protein stability and binding affinity.,elaspic,prediction,Prediction/classification method applied to resource data
+31626280,CSMD: a computational subtraction-based microbiome discovery pipeline for species-level characterization of clinical metagenomic samples.,csmd,pipeline,Pipeline/workflow tool that uses resources as input
+30825368,Aggrescan3D standalone package for structure-based prediction of protein aggregation properties.,a3d,prediction,Prediction/classification method applied to resource data
+23815231,WEP: a high-performance analysis pipeline for whole-exome data.,wep,pipeline,Pipeline/workflow tool that uses resources as input
+31106372,Yvis: antibody high-density alignment visualization and analysis platform with an integrated database.,yvis,integration,Data integration platform combining multiple resources
+32140819,i6mA-Fuse: improved and robust prediction of DNA 6 mA sites in the Rosaceae genome by fusing multiple feature representation.,,prediction,Prediction/classification method applied to resource data
+31511901,regBase: whole genome base-wise aggregation and functional prediction for human non-coding regulatory variants.,,prediction,Prediction/classification method applied to resource data
+25426929,"ALLocator: an interactive web platform for the analysis of metabolomic LC-ESI-MS datasets, enabling semi-automated, user-revised compound annotation and mass isotopomer ratio analysis.",,platform,Analysis platform that uses resources
+31373611,circMeta: a unified computational framework for genomic feature annotation and differential expression analysis of circular RNAs.,,pipeline,Pipeline/workflow tool that uses resources as input
+30652574,"TQuest, A Web-Based Platform to Enable Precision Medicine by Linking a Tumor's Genetic Defects to Therapeutic Options.",tquest,web_tool,Web-based tool for analyzing resource data
+27706202,PubMedPortable: A Framework for Supporting the Development of Text Mining Applications.,,pipeline,Pipeline/workflow tool that uses resources as input
+34020551,TERL: classification of transposable elements by convolutional neural networks.,terl,prediction,Prediction/classification method applied to resource data
+23311574,MAPI: a software framework for distributed biomedical applications.,mapi,pipeline,Pipeline/workflow tool that uses resources as input
+34944842,Mapping the Melanoma Plasma Proteome (MPP) Using Single-Shot Proteomics Interfaced with the WiMT Database.,wimt,usage,Method that uses an existing database/resource
+27153588,Ferret: a user-friendly Java tool to extract data from the 1000 Genomes Project.,ferret,usage,Method that uses an existing database/resource
+30416498,PredT4SE-Stack: Prediction of Bacterial Type IV Secreted Effectors From Protein Sequences Using a Stacked Ensemble Method.,,prediction,Prediction/classification method applied to resource data
+27071849,Fast and sensitive taxonomic classification for metagenomics with Kaiju.,kaiju,prediction,Prediction/classification method applied to resource data
+34108470,R2DT is a framework for predicting and visualising RNA secondary structure using templates.,r2dt,pipeline,Pipeline/workflow tool that uses resources as input
+23292636,TargetHunter: an in silico target identification tool for predicting therapeutic potential of small organic molecules based on chemogenomic database.,,usage,Method that uses an existing database/resource
+22533540,XCMS Online: a web-based platform to process untargeted metabolomic data.,,web_tool,Web-based tool for analyzing resource data
+23800136,MetaPathways: a modular pipeline for constructing pathway/genome databases from environmental sequence information.,,pipeline,Pipeline/workflow tool that uses resources as input
+30825371,MetaMarker: a pipeline for de novo discovery of novel metagenomic biomarkers.,,pipeline,Pipeline/workflow tool that uses resources as input
+28108657,RIsearch2: suffix array-based large-scale prediction of RNA-RNA interactions and siRNA off-targets.,,prediction,Prediction/classification method applied to resource data
+25931457,"Follicle Online: an integrated database of follicle assembly, development and ovulation.",,integration,Data integration platform combining multiple resources
+33993206,"ConsRM: collection and large-scale prediction of the evolutionarily conserved RNA methylation sites, with implications for the functional epitranscriptome.",consrm,prediction,Prediction/classification method applied to resource data
+22953731,CTen: a web-based platform for identifying enriched cell types from heterogeneous microarray data.,cten,web_tool,Web-based tool for analyzing resource data
+28028736,Fast H-DROP: A thirty times accelerated version of H-DROP for interactive SVM-based prediction of helical domain linkers.,rop,prediction,Prediction/classification method applied to resource data
+30873536,phylostratr: a framework for phylostratigraphy.,,pipeline,Pipeline/workflow tool that uses resources as input
+28904183,"The TB Portals: an Open-Access, Web-Based Platform for Global Drug-Resistant-Tuberculosis Data Sharing and Analysis.",,web_tool,Web-based tool for analyzing resource data
+30295728,DIGREM: an integrated web-based platform for detecting effective multi-drug combinations.,digrem,web_tool,Web-based tool for analyzing resource data
+34478499,Peptipedia: a user-friendly web application and a comprehensive database for peptide research supported by Machine Learning approach.,,ml,Machine learning method that uses resource data
+31366358,HUPAN: a pan-genome analysis pipeline for human genomes.,hupan,pipeline,Pipeline/workflow tool that uses resources as input
+23729504,CNVinspector: a web-based tool for the interactive evaluation of copy number variations in single patients and in cohorts.,,web_tool,Web-based tool for analyzing resource data
+29718322,CoNekT: an open-source framework for comparative genomic and transcriptomic network analyses.,conekt,pipeline,Pipeline/workflow tool that uses resources as input
+30789283,CuMiDa: An Extensively Curated Microarray Database for Benchmarking and Testing of Machine Learning Approaches in Cancer Research.,cumida,ml,Machine learning method that uses resource data
+33045361,tRFTar: Prediction of tRF-target gene interactions via systemic re-analysis of Argonaute CLIP-seq datasets.,trftar,prediction,Prediction/classification method applied to resource data
+26576653,JSpeciesWS: a web server for prokaryotic species circumscription based on pairwise genome comparison.,,usage,Method that uses an existing database/resource
+32692571,DIA-DB: A Database and Web Server for the Prediction of Diabetes Drugs.,dia-db,prediction,Prediction/classification method applied to resource data
+33216895,GPCR-PEnDB: a database of protein sequences and derived features to facilitate prediction and classification of G protein-coupled receptors.,,prediction,Prediction/classification method applied to resource data
+27288497,RTFBSDB: an integrated framework for transcription factor binding site analysis.,,pipeline,Pipeline/workflow tool that uses resources as input
+22545727,T3DB: an integrated database for bacterial type III secretion system.,t3db,integration,Data integration platform combining multiple resources
+29942087,Pan4Draft: A Computational Tool to Improve the Accuracy of Pan-Genomic Analysis Using Draft Genomes.,,computational,Computational method applied to resource data
+22319563,ECOMICS: a web-based toolkit for investigating the biomolecular web in ecosystems using a trans-omics approach.,ecomics,web_tool,Web-based tool for analyzing resource data
+31839973,MGeND: an integrated database for Japanese clinical and genomic information.,mgend,integration,Data integration platform combining multiple resources
+28764727,EMQIT: a machine learning approach for energy based PWM matrix quality improvement.,emqit,ml,Machine learning method that uses resource data
+27303447,IDAAPM: integrated database of ADMET and adverse effects of predictive modeling based on FDA approved drug data.,idaapm,integration,Data integration platform combining multiple resources
+27307005,HLAsupE: an integrated database of HLA supertype-specific epitopes to aid in the development of vaccines with broad coverage of the human population.,,integration,Data integration platform combining multiple resources
+33776956,AMRmap: An Interactive Web Platform for Analysis of Antimicrobial Resistance Surveillance Data in Russia.,amrmap,platform,Analysis platform that uses resources
+33175089,COVID-KOP: integrating emerging COVID-19 data with the ROBOKOP database.,covid-kop,usage,Method that uses an existing database/resource
+26002883,pwOmics: an R package for pathway-based integration of time-series omics data using public database knowledge.,,usage,Method that uses an existing database/resource
+25863133,PlantMirnaT: miRNA and mRNA integrated analysis fully utilizing characteristics of plant sequencing data.,,integration,Data integration platform combining multiple resources
+29106667,"MicrobiomeDB: a systems biology platform for integrating, mining and analyzing microbiome experiments.",,platform,Analysis platform that uses resources
+22576177,CPSS: a computational platform for the analysis of small RNA deep sequencing data.,cpss,platform,Analysis platform that uses resources
+34048569,IUPred3: prediction of protein disorder enhanced with unambiguous experimental annotation and visualization of evolutionary conservation.,iupred,prediction,Prediction/classification method applied to resource data
+26248465,BioWardrobe: an integrated platform for analysis of epigenomics and transcriptomics data.,,integration,Data integration platform combining multiple resources
+28334977,sCLIP-an integrated platform to study RNA-protein interactomes in biomedical research: identification of CSTF2tau in alternative processing of small nuclear RNAs.,sclip,integration,Data integration platform combining multiple resources
+33581338,rePROBE: Workflow for Revised Probe Assignment and Updated Probe-set Annotation in Microarrays.,,pipeline,Pipeline/workflow tool that uses resources as input
+24037212,CruzDB: software for annotation of genomic intervals with UCSC genome-browser database.,cruzdb,usage,Method that uses an existing database/resource
+26571275,"CentiServer: A Comprehensive Resource, Web-Based Application and R Package for Centrality Analysis.",,web_tool,Web-based tool for analyzing resource data
+33691770,gapseq: informed prediction of bacterial metabolic pathways and reconstruction of accurate metabolic models.,gapseq,prediction,Prediction/classification method applied to resource data
+34388468,ChAlPred: A web server for prediction of allergenicity of chemical compounds.,,prediction,Prediction/classification method applied to resource data
+34019646,OmicsAnalyst: a comprehensive web-based platform for visual analytics of multi-omics data.,,web_tool,Web-based tool for analyzing resource data
+33576798,OpenContami: a web-based application for detecting microbial contaminants in next-generation sequencing data.,,web_tool,Web-based tool for analyzing resource data
+32683454,GeoBoost2: a natural languageprocessing pipeline for GenBank metadata enrichment for virus phylogeography.,,pipeline,Pipeline/workflow tool that uses resources as input
+30445432,gmRAD: an integrated SNP calling pipeline for genetic mapping with RADseq across a hybrid population.,gmrad,pipeline,Pipeline/workflow tool that uses resources as input
+24573480,Prediction of intrinsic disorder in proteins using MFDp2.,mfdp2,prediction,Prediction/classification method applied to resource data
+25316677,SNPsnap: a Web-based tool for identification and annotation of matched SNPs.,,web_tool,Web-based tool for analyzing resource data
+26490503,Web-based Gene Pathogenicity Analysis (WGPA): a web platform to interpret gene pathogenicity from personal genome data.,wgpa,usage,Method that uses an existing database/resource
+26139635,LDlink: a web-based application for exploring population-specific haplotype structure and linking correlated alleles of possible functional variants.,ldlink,web_tool,Web-based tool for analyzing resource data
+25294921,FungiFun2: a comprehensive online resource for systematic analysis of gene lists from fungal species.,,systematic,Systematic analysis using resource data
+28004786,GPS-PAIL: prediction of lysine acetyltransferase-specific modification sites from protein sequences.,gps-pail,prediction,Prediction/classification method applied to resource data
+30562930,miRNAmotif-A Tool for the Prediction of Pre-miRNA⁻Protein Interactions.,,prediction,Prediction/classification method applied to resource data
+32600310,NASQAR: a web-based platform for high-throughput sequencing data analysis and visualization.,nasqar,web_tool,Web-based tool for analyzing resource data
+32638008,ProVision: a web-based platform for rapid analysis of proteomics data processed by MaxQuant.,,web_tool,Web-based tool for analyzing resource data
+29562347,"GraftM: a tool for scalable, phylogenetically informed classification of genes within metagenomes.",graftm,prediction,Prediction/classification method applied to resource data
+22893372,omniBiomarker: A Web-Based Application for Knowledge-Driven Biomarker Identification.,,web_tool,Web-based tool for analyzing resource data
+27907142,IBiSA_Tools: A Computational Toolkit for Ion-Binding State Analysis in Molecular Dynamics Trajectories of Ion Channels.,,computational,Computational method applied to resource data
+33067876,HDAC3i-Finder: A Machine Learning-based Computational Tool to Screen for HDAC3 Inhibitors.,,computational,Computational method applied to resource data
+28873253,"TomExpress, a unified tomato RNA-Seq platform for visualization of expression data, clustering and correlation networks.",,platform,Analysis platform that uses resources
+27577860,3D-Lab: a collaborative web-based platform for molecular modeling.,3d-lab,web_tool,Web-based tool for analyzing resource data
+21636893,X-CHIP: an integrated platform for high-throughput protein crystallization and on-the-chip X-ray diffraction data collection.,x-chip,integration,Data integration platform combining multiple resources
+26333163,Classification of Amino Acid Substitutions in Mismatch Repair Proteins Using PON-MMR2.,pon-mmr2,prediction,Prediction/classification method applied to resource data
+"22684505, 25969450","IMP: a multi-species functional genomics portal for integration, visualization and prediction of protein functions and networks.",imp,prediction,Prediction/classification method applied to resource data
+23661305,NanoPad: an integrated platform for bacterial production of camel nanobodies aimed at detecting environmental biomarkers.,,integration,Data integration platform combining multiple resources
+23896518,PepBind: a comprehensive database and computational tool for analysis of protein-peptide interactions.,,computational,Computational method applied to resource data
+24330401,iMir: an integrated pipeline for high-throughput analysis of small non-coding RNA data obtained by smallRNA-Seq.,imir,pipeline,Pipeline/workflow tool that uses resources as input
+21777475,GPS-Prot: a web-based visualization platform for integrating host-pathogen interaction data.,,platform,Analysis platform that uses resources
+31513641,uORF-Tools-Workflow for the determination of translation-regulatory upstream open reading frames.,,pipeline,Pipeline/workflow tool that uses resources as input
+32743661,Gliome database: a comprehensive web-based tool to access and analyze glia secretome data.,gliome,web_tool,Web-based tool for analyzing resource data
+31510921,CytoConverter: a web-based tool to convert karyotypes to genomic coordinates.,,web_tool,Web-based tool for analyzing resource data
+34208327,"Deep-Framework: A Distributed, Scalable, and Edge-Oriented Framework for Real-Time Analysis of Video Streams.",,pipeline,Pipeline/workflow tool that uses resources as input
+32399567,FastTargetPred: a program enabling the fast prediction of putative protein targets for input chemical databases.,,prediction,Prediction/classification method applied to resource data
+22335941,BLANNOTATOR: enhanced homology-based function prediction of bacterial proteins.,blannotator,prediction,Prediction/classification method applied to resource data
+30864317,PLATYPUS: A Multiple-View Learning Predictive Framework for Cancer Drug Sensitivity Prediction.,platypus,pipeline,Pipeline/workflow tool that uses resources as input
+23761453,The FunFOLD2 server for the prediction of protein-ligand interactions.,,prediction,Prediction/classification method applied to resource data
+29688376,GEOMetaCuration: a web-based application for accurate manual curation of Gene Expression Omnibus metadata.,,web_tool,Web-based tool for analyzing resource data
+32427338,RiboToolkit: an integrated platform for analysis and annotation of ribosome profiling data to decode mRNA translation at codon resolution.,,integration,Data integration platform combining multiple resources
+33856212,DiagnoTop: A Computational Pipeline for Discriminating Bacterial Pathogens without Database Search.,,pipeline,Pipeline/workflow tool that uses resources as input
+32226594,NanoSolveIT Project: Driving nanoinformatics research to develop innovative and integrated tools for <i>in silico</i> nanosafety assessment.,,integration,Data integration platform combining multiple resources
+28187412,Omics Fusion - A Platform for Integrative Analysis of Omics Data.,,platform,Analysis platform that uses resources
+32117417,NG-Tax 2.0: A Semantic Framework for High-Throughput Amplicon Analysis.,ng-tax,pipeline,Pipeline/workflow tool that uses resources as input
+21421552,SplamiR--prediction of spliced miRNAs in plants.,,prediction,Prediction/classification method applied to resource data
+34384353,Comprior: facilitating the implementation and automated benchmarking of prior knowledge-based feature selection approaches on gene expression data sets.,,benchmark,Benchmarking study evaluating resource performance
+30382842,ISU FLUture: a veterinary diagnostic laboratory web-based platform to monitor the temporal genetic patterns of Influenza A virus in swine.,,web_tool,Web-based tool for analyzing resource data
+30717659,BioReader: a text mining tool for performing classification of biomedical literature.,,prediction,Prediction/classification method applied to resource data
+28807046,A comprehensive evaluation of the sl1p pipeline for 16S rRNA gene sequencing analysis.,sl1p,pipeline,Pipeline/workflow tool that uses resources as input
+27910954,Mal-Lys: prediction of lysine malonylation sites in proteins integrated sequence-based features with mRMR feature selection.,,prediction,Prediction/classification method applied to resource data
+22689388,synbreed: a framework for the analysis of genomic prediction data using R.,,pipeline,Pipeline/workflow tool that uses resources as input
+31116383,C-InterSecture-a computational tool for interspecies comparison of genome architecture.,,computational,Computational method applied to resource data
+28921375,Convex-PL: a novel knowledge-based potential for protein-ligand interactions deduced from structural databases using convex optimization.,,usage,Method that uses an existing database/resource
+31929521,VAMPr: VAriant Mapping and Prediction of antibiotic resistance via explainable features and machine learning.,vampr,prediction,Prediction/classification method applied to resource data
+24771560,WebProtégé: a collaborative Web-based platform for editing biomedical ontologies.,,web_tool,Web-based tool for analyzing resource data
+33335023,CanRisk Tool-A Web Interface for the Prediction of Breast and Ovarian Cancer Risk and the Likelihood of Carrying Genetic Pathogenic Variants.,,prediction,Prediction/classification method applied to resource data
+30993345,WHISTLE: a high-accuracy map of the human N6-methyladenosine (m6A) epitranscriptome predicted using a machine learning approach.,whistle,ml,Machine learning method that uses resource data
+28719658,OptisampleTM: Open web-based application to optimize sampling strategies for active surveillance activities at the herd level illustrated using Porcine Respiratory Reproductive Syndrome (PRRS).,,web_tool,Web-based tool for analyzing resource data
+34037798,CPA: a web-based platform for consensus pathway analysis and interactive visualization.,cpa,web_tool,Web-based tool for analyzing resource data
+33972022,RiPPMiner-Genome: A Web Resource for Automated Prediction of Crosslinked Chemical Structures of RiPPs by Genome Mining.,,prediction,Prediction/classification method applied to resource data
+21586583,Taxonomic classification of metagenomic shotgun sequences with CARMA3.,carma3,prediction,Prediction/classification method applied to resource data
+33027502,LipidFinder 2.0: advanced informatics pipeline for lipidomics discovery applications.,,pipeline,Pipeline/workflow tool that uses resources as input
+28975713,PepSweetener: A Web-Based Tool to Support Manual Annotation of Intact Glycopeptide MS Spectra.,,web_tool,Web-based tool for analyzing resource data
+31856718,Knowledge Base Commons (KBCommons) v1.1: a universal framework for multi-omics data integration and biological discoveries.,,pipeline,Pipeline/workflow tool that uses resources as input
+32756566,A high-throughput imaging and quantification pipeline for the EVOS imaging platform.,evos,pipeline,Pipeline/workflow tool that uses resources as input
+25319962,GeneNet Toolbox for MATLAB: a flexible platform for the analysis of gene connectivity in biological networks.,,platform,Analysis platform that uses resources
+"23424620, 24136997",Improving microbial genome annotations in an integrated database context.,img,integration,Data integration platform combining multiple resources
+28155670,ESAP plus: a web-based server for EST-SSR marker development.,esap,web_tool,Web-based tool for analyzing resource data
+27061206,Exploring novel candidate genes from the Mouse Genome Informatics database: Potential implications for avian migration research.,,usage,Method that uses an existing database/resource
+28561835,vhfRNAi: a web-platform for analysis of host genes involved in viral infections discovered by genome wide RNAi screens.,,platform,Analysis platform that uses resources
+27013077,HNdb: an integrated database of gene and protein information on head and neck squamous cell carcinoma.,hndb,integration,Data integration platform combining multiple resources
+31529041,PPNID: a reference database and molecular identification pipeline for plant-parasitic nematodes.,ppnid,pipeline,Pipeline/workflow tool that uses resources as input
+23930810,NGSPE: A pipeline for end-to-end analysis of DNA sequencing data and comparison between different platforms.,ngspe,pipeline,Pipeline/workflow tool that uses resources as input
+24799431,PredictProtein--an open resource for online prediction of protein structural and functional features.,,prediction,Prediction/classification method applied to resource data
+26981382,LmSmdB: an integrated database for metabolic and gene regulatory network in Leishmania major and Schistosoma mansoni.,lmsmdb,integration,Data integration platform combining multiple resources
+"28525607, 33835435",RNA-MoIP: prediction of RNA secondary structure and local 3D motifs from sequence data.,,prediction,Prediction/classification method applied to resource data
+30306900,Enhancing Nationwide Medico-Administrative Databases Analysis with SAF4SUHAD: A Statistical Analysis Framework for Secondary Use of Healthcare Administrative Databases.,saf4suhad,pipeline,Pipeline/workflow tool that uses resources as input
+30670918,HEATSTER: A Database and Web Server for Identification and Classification of Heat Stress Transcription Factors in Plants.,heatster,prediction,Prediction/classification method applied to resource data
+29209195,The Patient Repository for EEG Data + Computational Tools (PRED+CT).,pred+ct,computational,Computational method applied to resource data
+25029978,"RD-Connect: an integrated platform connecting databases, registries, biobanks and clinical bioinformatics for rare disease research.",,integration,Data integration platform combining multiple resources
+30419809,WebNetCoffee: a web-based application to identify functionally conserved proteins from Multiple PPI networks.,,web_tool,Web-based tool for analyzing resource data
+24453961,PredictSNP: robust and accurate consensus classifier for prediction of disease-related mutations.,,prediction,Prediction/classification method applied to resource data
+33239857,vcfView: An Extensible Data Visualization and Quality Assurance Platform for Integrated Somatic Variant Analysis.,,platform,Analysis platform that uses resources
+27284060,InteractoMIX: a suite of computational tools to exploit interactomes in biological and clinical research.,,computational,Computational method applied to resource data
+29092947,"An Image Analysis Resource for Cancer Research: PIIP-Pathology Image Informatics Platform for Visualization, Analysis, and Management.",piip,platform,Analysis platform that uses resources
+22689387,SAAP-RRBS: streamlined analysis and annotation pipeline for reduced representation bisulfite sequencing.,saap-rrbs,pipeline,Pipeline/workflow tool that uses resources as input
+22583976,miRFANs: an integrated database for Arabidopsis thaliana microRNA function annotations.,,integration,Data integration platform combining multiple resources
+21324190,Meta-analysis of muscle transcriptome data using the MADMuscle database reveals biologically relevant gene patterns.,,meta_analysis,Meta-analysis study using multiple resources
+23812847,HERMES: towards an integrated toolbox to characterize functional and effective brain connectivity.,hermes,integration,Data integration platform combining multiple resources
+23740741,DIGEP-Pred: web service for in silico prediction of drug-induced gene expression profiles based on structural formula.,,prediction,Prediction/classification method applied to resource data
+34478489,FORUM: building a Knowledge Graph from public databases and scientific literature to extract associations between chemicals and diseases.,forum,usage,Method that uses an existing database/resource
+31539030,TASUKE+: a web-based platform for exploring genome-wide association studies results and large-scale resequencing data.,tasuke,web_tool,Web-based tool for analyzing resource data
+27153674,PhamDB: a web-based application for building Phamerator databases.,phamdb,web_tool,Web-based tool for analyzing resource data
+34352070,NetControl4BioMed: a web-based platform for controllability analysis of protein-protein interaction networks.,,web_tool,Web-based tool for analyzing resource data
+23720488,"COPRED: prediction of fold, GO molecular function and functional residues at the domain level.",copred,prediction,Prediction/classification method applied to resource data
+30066633,NetControl4BioMed: a pipeline for biomedical data acquisition and analysis of network controllability.,,pipeline,Pipeline/workflow tool that uses resources as input
+30953525,GNE: a deep learning framework for gene network inference by aggregating biological information.,gne,pipeline,Pipeline/workflow tool that uses resources as input
+29186333,"FUn: a framework for interactive visualizations of large, high-dimensional datasets on the web.",fun,pipeline,Pipeline/workflow tool that uses resources as input
+24993579,Polar profile of antiviral peptides from AVPpred Database.,,usage,Method that uses an existing database/resource
+33833745,Forensic Microbiome Database: A Tool for Forensic Geolocation Meta-Analysis Using Publicly Available 16S rRNA Microbiome Sequencing.,,meta_analysis,Meta-analysis study using multiple resources
+25220945,nuMap: a web platform for accurate prediction of nucleosome positioning.,numap,prediction,Prediction/classification method applied to resource data
+34706638,ANAT 3.0: a framework for elucidating functional protein subnetworks using graph-theoretic and machine learning approaches.,anat,pipeline,Pipeline/workflow tool that uses resources as input
+27904975,RayPlus: a Web-Based Platform for Medical Image Processing.,,web_tool,Web-based tool for analyzing resource data
+31885041,DTI-CDF: a cascade deep forest model towards the prediction of drug-target interactions based on hybrid features.,dti-cdf,prediction,Prediction/classification method applied to resource data
+22070195,"PESCADOR, a web-based tool to assist text-mining of biointeractions extracted from PubMed queries.",pescador,web_tool,Web-based tool for analyzing resource data
+29579071,HMMER Cut-off Threshold Tool (HMMERCTTER): Supervised classification of superfamily protein sequences with a reliable cut-off threshold.,hmmerctter,prediction,Prediction/classification method applied to resource data
+31778148,Struo: a pipeline for building custom databases for common metagenome profilers.,struo,pipeline,Pipeline/workflow tool that uses resources as input
+33909569,PAN: Personalized Annotation-Based Networks for the Prediction of Breast Cancer Relapse.,pan,prediction,Prediction/classification method applied to resource data
+22199388,Artemis: an integrated platform for visualization and analysis of high-throughput sequence-based experimental data.,,integration,Data integration platform combining multiple resources
+29036289,VICTOR: genome-based phylogeny and classification of prokaryotic viruses.,victor,prediction,Prediction/classification method applied to resource data
+28505334,DIRECTION: a machine learning framework for predicting and characterizing DNA methylation and hydroxymethylation in mammalian genomes.,direction,pipeline,Pipeline/workflow tool that uses resources as input
+32375409,EffHunter: A Tool for Prediction of Effector Protein Candidates in Fungal Proteomic Databases.,,prediction,Prediction/classification method applied to resource data
+24573880,TSLP signaling pathway map: a platform for analysis of TSLP-mediated signaling.,tslp,platform,Analysis platform that uses resources
+27153664,Combenefit: an interactive platform for the analysis and visualization of drug combinations.,,platform,Analysis platform that uses resources
+33904719,Cheetah: A Computational Toolkit for Cybergenetic Control.,,computational,Computational method applied to resource data
+22768229,MetaboSearch: tool for mass-based metabolite identification using multiple databases.,,usage,Method that uses an existing database/resource
+29037173,"TaxMapper: an analysis tool, reference database and workflow for metatranscriptome analysis of eukaryotic microorganisms.",,pipeline,Pipeline/workflow tool that uses resources as input
+21635747,"ngs_backbone: a pipeline for read cleaning, mapping and SNP calling using next generation sequence.",,pipeline,Pipeline/workflow tool that uses resources as input
+25701574,Annocript: a flexible pipeline for the annotation of transcriptomes able to identify putative long noncoding RNAs.,,pipeline,Pipeline/workflow tool that uses resources as input
+22693437,"Exploring massive, genome scale datasets with the GenometriCorr package.",,usage,Method that uses an existing database/resource
+29344888,Perseus: A Bioinformatics Platform for Integrative Analysis of Proteomics Data in Cancer Research.,,platform,Analysis platform that uses resources
+33320180,Novel methods included in SpolLineages tool for fast and precise prediction of Mycobacterium tuberculosis complex spoligotype families.,,prediction,Prediction/classification method applied to resource data
+32241255,EpiMOLAS: an intuitive web-based framework for genome-wide DNA methylation analysis.,,pipeline,Pipeline/workflow tool that uses resources as input
+32871007,SARS2020: an integrated platform for identification of novel coronavirus by a consensus sequence-function model.,sars2020,integration,Data integration platform combining multiple resources
+30963208,Mapping the diversity of microbial lignin catabolism: experiences from the eLignin database.,,usage,Method that uses an existing database/resource
+33227814,GP4: an integrated Gram-Positive Protein Prediction Pipeline for subcellular localization mimicking bacterial sorting.,gp4,pipeline,Pipeline/workflow tool that uses resources as input
+31219564,"AmyloWiki: an integrated database for Bacillus velezensis FZB42, the model strain for plant growth-promoting Bacilli.",,integration,Data integration platform combining multiple resources
+27384127,aMAP is a validated pipeline for registration and segmentation of high-resolution mouse brain data.,amap,pipeline,Pipeline/workflow tool that uses resources as input
+30219839,Drug Target Commons 2.0: a community platform for systematic analysis of drug-target interaction profiles.,,systematic,Systematic analysis using resource data
+22555647,AMS 4.0: consensus prediction of post-translational modifications in protein sequences.,ams,prediction,Prediction/classification method applied to resource data
+32155235,Modeling Infectious Diseases in Healthcare Network (MInD-Healthcare) Framework for Describing and Reporting Multidrug-resistant Organism and Healthcare-Associated Infections Agent-based Modeling Methods.,,pipeline,Pipeline/workflow tool that uses resources as input
+28476106,Geminivirus data warehouse: a database enriched with machine learning approaches.,,ml,Machine learning method that uses resource data
+24475928,geneCommittee: a web-based tool for extensively testing the discriminatory power of biologically relevant gene sets in microarray data classification.,,web_tool,Web-based tool for analyzing resource data
+32463383,Fungal metabarcoding data integration framework for the MycoDiversity DataBase (MDDB).,,pipeline,Pipeline/workflow tool that uses resources as input
+21775309,coMOTIF: a mixture framework for identifying transcription factor and a coregulator motif in ChIP-seq data.,,pipeline,Pipeline/workflow tool that uses resources as input
+34641400,"MetaClass, a Comprehensive Classification System for Predicting the Occurrence of Metabolic Reactions Based on the MetaQSAR Database.",,usage,Method that uses an existing database/resource
+22720055,Leukemia gene atlas--a public platform for integrative exploration of genome-wide molecular data.,,platform,Analysis platform that uses resources
+25495537,solGS: a web-based tool for genomic selection.,solgs,web_tool,Web-based tool for analyzing resource data
+33926379,GPrimer: a fast GPU-based pipeline for primer design for qPCR experiments.,,pipeline,Pipeline/workflow tool that uses resources as input
+30059974,DiscoverSL: an R package for multi-omic data driven prediction of synthetic lethality in cancers.,,prediction,Prediction/classification method applied to resource data
+25512690,SNPAAMapperT2K: A genome-wide SNP downstream analysis and annotation pipeline for species annotated with NCBI.tbl data files.,,pipeline,Pipeline/workflow tool that uses resources as input
+30165587,RepeatCraft: a meta-pipeline for repetitive element de-fragmentation and annotation.,,pipeline,Pipeline/workflow tool that uses resources as input
+32726559,"Xcellerate Investigator Portal: A New Web-Based Tool for Online Delivery of Central Laboratory Data, Reports, and Communications to Clinical Sites.",,web_tool,Web-based tool for analyzing resource data
+31060512,BacTag - a pipeline for fast and accurate gene and allele typing in bacterial sequencing data based on database preprocessing.,,pipeline,Pipeline/workflow tool that uses resources as input
+32034905,HAMAP as SPARQL rules-A portable annotation pipeline for genomes and proteomes.,hamap,pipeline,Pipeline/workflow tool that uses resources as input
+23978768,Community-analyzer: a platform for visualizing and comparing microbial community structure across microbiomes.,,platform,Analysis platform that uses resources
+25270639,BioVLAB-MMIA-NGS: microRNA-mRNA integrated analysis using high-throughput sequencing data.,,integration,Data integration platform combining multiple resources
+33072049,T4SE-XGB: Interpretable Sequence-Based Prediction of Type IV Secreted Effectors Using eXtreme Gradient Boosting Algorithm.,se-xgb,prediction,Prediction/classification method applied to resource data
+30216353,Improving classification of pollen grain images of the POLEN23E dataset through three different applications of deep learning convolutional neural networks.,polen23e,prediction,Prediction/classification method applied to resource data
+31349743,WeReview: CRISPR Tools-Live Repository of Computational Tools for Assisting CRISPR/Cas Experiments.,,computational,Computational method applied to resource data
+32401021,GalaxySagittarius: Structure- and Similarity-Based Prediction of Protein Targets for Druglike Compounds.,,prediction,Prediction/classification method applied to resource data
+34086933,catRAPID omics v2.0: going deeper and wider in the prediction of protein-RNA interactions.,,prediction,Prediction/classification method applied to resource data
+22437851,MDWeb and MDMoby: an integrated web-based platform for molecular dynamics simulations.,mdmoby,web_tool,Web-based tool for analyzing resource data
+28902397,Using SQL Databases for Sequence Similarity Searching and Analysis.,search,usage,Method that uses an existing database/resource
+27153579,ARGs-OAP: online analysis pipeline for antibiotic resistance genes detection from metagenomic data using an integrated structured ARG-database.,oap,pipeline,Pipeline/workflow tool that uses resources as input
+33784300,Orchestrating privacy-protected big data analyses of data from different resources with R and DataSHIELD.,,usage,Method that uses an existing database/resource
+27301453,ProInflam: a webserver for the prediction of proinflammatory antigenicity of peptides and proteins.,,prediction,Prediction/classification method applied to resource data
+24532370,Cystic fibrosis database (CFDB): a new web-based tool for cystic fibrosis specialists.,cfdb,web_tool,Web-based tool for analyzing resource data
+29220456,RampDB: a web application and database for the exploration and prediction of receptor activity modifying protein interactions.,rampdb,prediction,Prediction/classification method applied to resource data
+22638580,AVPpred: collection and prediction of highly effective antiviral peptides.,,prediction,Prediction/classification method applied to resource data
+23196990,PLI: a web-based tool for the comparison of protein-ligand interactions observed on PDB structures.,pli,web_tool,Web-based tool for analyzing resource data
+29688361,"TransAtlasDB: an integrated database connecting expression data, metadata and variants.",,integration,Data integration platform combining multiple resources
+27082112,Infinity: An In-Silico Tool for Genome-Wide Prediction of Specific DNA Matrices in miRNA Genomic Loci.,,prediction,Prediction/classification method applied to resource data
+29688387,SNPversity: a web-based tool for visualizing diversity.,,web_tool,Web-based tool for analyzing resource data
+33136473,"A Web-Based Platform on Coronavirus Disease-19 to Maintain Predicted Diagnostic, Drug, and Vaccine Candidates.",,web_tool,Web-based tool for analyzing resource data
+"28073756, 28130242",Feature selection using a one dimensional naïve Bayes' classifier increases the accuracy of support vector machine classification of CDR3 repertoires.,h,prediction,Prediction/classification method applied to resource data
+25787233,Functional dissection of virus-human crosstalk mediated by miRNAs based on the VmiReg database.,vmireg,usage,Method that uses an existing database/resource
+27837568,"Psynteract: A flexible, cross-platform, open framework for interactive experiments.",,pipeline,Pipeline/workflow tool that uses resources as input
+27295093,DrugQuest - a text mining workflow for drug association discovery.,,pipeline,Pipeline/workflow tool that uses resources as input
+27573308,Insight: An ontology-based integrated database and analysis platform for epilepsy self-management research.,,integration,Data integration platform combining multiple resources
+31442673,Variant Call Format-Diagnostic Annotation and Reporting Tool: A Customizable Analysis Pipeline for Identification of Clinically Relevant Genetic Variants in Next-Generation Sequencing Data.,,pipeline,Pipeline/workflow tool that uses resources as input
+32657410,TopicNet: a framework for measuring transcriptional regulatory network change.,,pipeline,Pipeline/workflow tool that uses resources as input
+25127889,SPARQLGraph: a web-based platform for graphically querying biological Semantic Web databases.,,web_tool,Web-based tool for analyzing resource data
+25758402,Hi-Jack: a novel computational framework for pathway-based inference of host-pathogen interactions.,ack,pipeline,Pipeline/workflow tool that uses resources as input
+26628587,IKAP: A heuristic framework for inference of kinase activities from Phosphoproteomics data.,ikap,pipeline,Pipeline/workflow tool that uses resources as input
+26559506,WormExp: a web-based application for a Caenorhabditis elegans-specific gene expression enrichment analysis.,,web_tool,Web-based tool for analyzing resource data
+33897984,AMR-Diag: Neural network based genotype-to-phenotype prediction of resistance towards β-lactams in <i>Escherichia coli</i> and <i>Klebsiella pneumoniae</i>.,,prediction,Prediction/classification method applied to resource data
+26122086,A user-friendly workflow for analysis of Illumina gene expression bead array data available at the arrayanalysis.org portal.,,pipeline,Pipeline/workflow tool that uses resources as input
+29236977,gene2drug: a computational tool for pathway-based rational drug repositioning.,,computational,Computational method applied to resource data
+30873531,Lemon: a framework for rapidly mining structural information from the Protein Data Bank.,lemon,pipeline,Pipeline/workflow tool that uses resources as input
+30414112,The GFF3toolkit: QC and Merge Pipeline for Genome Annotation.,,pipeline,Pipeline/workflow tool that uses resources as input
+24223923,Viral IRES prediction system - a web server for prediction of the IRES secondary structure in silico.,,prediction,Prediction/classification method applied to resource data
+22434839,A hybrid human and machine resource curation pipeline for the Neuroscience Information Framework.,,pipeline,Pipeline/workflow tool that uses resources as input
+29036616,DeepLoc: prediction of protein subcellular localization using deep learning.,,prediction,Prediction/classification method applied to resource data
+34020544,Ori-Finder 3: a web server for genome-wide prediction of replication origins in Saccharomyces cerevisiae.,,prediction,Prediction/classification method applied to resource data
+24792048,A protocol for visual analysis of alternative splicing in RNA-Seq data using integrated genome browser.,,usage,Method that uses an existing database/resource
+22291167,Mining Arabidopsis thaliana RNA-seq data with Integrated Genome Browser reveals stress-induced alternative splicing of the putative splicing regulator SR45a.,,usage,Method that uses an existing database/resource
+33592504,TAP 1.0: A robust immunoinformatic tool for the prediction of tumor T-cell antigens based on AAindex properties.,tap 1,prediction,Prediction/classification method applied to resource data
+"25717196, 30014462",Automated benchmarking of peptide-MHC class I binding predictions.,i,benchmark,Benchmarking study evaluating resource performance
+27603574,Palindrome analyser - A new web-based server for predicting and evaluating inverted repeats in nucleotide sequences.,,web_tool,Web-based tool for analyzing resource data
+29264813,"Discovery of Surface Target Proteins Linking Drugs, Molecular Markers, Gene Regulation, Protein Networks, and Disease by Using a Web-Based Platform Targets-search.",,web_tool,Web-based tool for analyzing resource data
+31706268,Genome-wide prediction and prioritization of human aging genes by data fusion: a machine learning approach.,p,ml,Machine learning method that uses resource data
+22171319,A framework for intelligent data acquisition and real-time database searching for shotgun proteomics.,time,pipeline,Pipeline/workflow tool that uses resources as input
+25528148,"Two Blast-independent tools, CyPerl and CyExcel, for harvesting hundreds of novel cyclotides and analogues from plant genomes and protein databases.",cyperl,usage,Method that uses an existing database/resource
+31504171,New insights on human essential genes based on integrated analysis and the construction of the HEGIAP web-based platform.,hegiap,integration,Data integration platform combining multiple resources
+30988492,Sixty years of tracking conservation progress using the World Database on Protected Areas.,,usage,Method that uses an existing database/resource
+31212742,Systematic Analysis of a Military Wearable Device Based on a Multi-Level Fusion Framework: Research Directions.,,systematic,Systematic analysis using resource data
+30654742,Peptimapper: proteogenomics workflow for the expert annotation of eukaryotic genomes.,,pipeline,Pipeline/workflow tool that uses resources as input
+26664034,Contingency Table Browser - prediction of early stage protein structure.,,prediction,Prediction/classification method applied to resource data
+23091307,Prediction of microbial infection of cultured cells using DNA microarray gene-expression profiles of host responses.,,prediction,Prediction/classification method applied to resource data
+23427990,"Motif discovery with data mining in 3D protein structure databases: discovery, validation and prediction of the U-shape zinc binding (""Huf-Zinc"") motif.",,prediction,Prediction/classification method applied to resource data
+26721732,Development of a large urban longitudinal HIV clinical cohort using a web-based platform to merge electronically and manually abstracted data from disparate medical record systems: technical challenges and innovative solutions.,cohort,web_tool,Web-based tool for analyzing resource data
+23970545,Automated classification of RNA 3D motifs and the RNA 3D Motif Atlas.,motif,prediction,Prediction/classification method applied to resource data
+24325762,Molecule database framework: a framework for creating database applications with chemical structure search capability.,,pipeline,Pipeline/workflow tool that uses resources as input
+27288496,The Glycome Analytics Platform: an integrative framework for glycobioinformatics.,,pipeline,Pipeline/workflow tool that uses resources as input
+34509701,Prediction of Mannheimia haemolytica serotypes based on whole genomic sequences.,b,prediction,Prediction/classification method applied to resource data
+30892876,Lipid Species Annotation at Double Bond Position Level with Custom Databases by Extension of the MZmine 2 Open-Source Software Package.,mzmine,usage,Method that uses an existing database/resource
+23815072,Jenner-predict server: prediction of protein vaccine candidates (PVCs) in bacteria based on host-pathogen interactions.,redict,prediction,Prediction/classification method applied to resource data
+29098713,Large-scale automated function prediction of protein sequences and an experimental case study validation on PTEN transcript variants.,,prediction,Prediction/classification method applied to resource data
+33206960,OCCAM: prediction of small ORFs in bacterial genomes by means of a target-decoy database approach and machine learning techniques.,occam,prediction,Prediction/classification method applied to resource data
+31891586,A framework for the development of a global standardised marine taxon reference image database (SMarTaR-ID) to support image-based analyses.,,pipeline,Pipeline/workflow tool that uses resources as input
+22984983,A pipeline for automated annotation of yeast genome sequences by a conserved-synteny approach.,ygap,pipeline,Pipeline/workflow tool that uses resources as input
+31418763,AntiHIV-Pred: web-resource for in silico prediction of anti-HIV/AIDS activity.,,prediction,Prediction/classification method applied to resource data
+34735112,Carboxypeptidase Y Assisted Disulfide-Bond Identification with Linearized Database Search.,cadi,usage,Method that uses an existing database/resource
+22054246,TOFSIMS-P: a web-based platform for analysis of large-scale TOF-SIMS data.,tofsims-p,web_tool,Web-based tool for analyzing resource data
+26527148,MeshAndCollect: an automated multi-crystal data-collection workflow for synchrotron macromolecular crystallography beamlines.,,pipeline,Pipeline/workflow tool that uses resources as input
+29220468,EUCANEXT: an integrated database for the exploration of genomic and transcriptomic data from Eucalyptus species.,eucanext,integration,Data integration platform combining multiple resources
+31088857,Interactive Peptide Spectral Annotator: A Versatile Web-based Tool for Proteomic Applications.,,web_tool,Web-based tool for analyzing resource data
+32401319,Ewastools: Infinium Human Methylation BeadChip pipeline for population epigenetics integrated into Galaxy.,,pipeline,Pipeline/workflow tool that uses resources as input
+27987163,PGSB/MIPS PlantsDB Database Framework for the Integration and Analysis of Plant Genome Data.,,pipeline,Pipeline/workflow tool that uses resources as input
+33003197,"A computational toolset for rapid identification of SARS-CoV-2, other viruses and microorganisms from sequencing data.",fastv,computational,Computational method applied to resource data
+26015273,A statistical framework to predict functional non-coding regions in the human genome through integrated analysis of annotation data.,,integration,Data integration platform combining multiple resources
+31645567,Large scale and integrated platform for digital mass culture of anchorage dependent cells.,lisccp,integration,Data integration platform combining multiple resources
+34876593,A computational approach for the discovery of significant cancer genes by weighted mutation and asymmetric spreading strength in networks.,,computational,Computational method applied to resource data
+31971579,Network-based prediction of drug-target interactions using an arbitrary-order proximity embedded deep forest.,aopedf,prediction,Prediction/classification method applied to resource data
+25413436,A framework for generalized subspace pattern mining in high-dimensional datasets.,gabi,pipeline,Pipeline/workflow tool that uses resources as input
+26185615,A framework for ontology-based question answering with application to parasite immunology.,,pipeline,Pipeline/workflow tool that uses resources as input
+22343432,Meta-analysis of untargeted metabolomic data from multiple profiling experiments.,,meta_analysis,Meta-analysis study using multiple resources
+26508759,Detecting dispersed duplications in high-throughput sequencing data using a database-free approach.,dd_detection,usage,Method that uses an existing database/resource
+21414989,Structure-based de novo prediction of zinc-binding sites in proteins of unknown function.,temsp,prediction,Prediction/classification method applied to resource data
+34411131,An adaptive spark-based framework for querying large-scale NoSQL and relational databases.,cqns,pipeline,Pipeline/workflow tool that uses resources as input
+34702851,Accurate prediction of protein torsion angles using evolutionary signatures and recurrent neural network.,esiden,prediction,Prediction/classification method applied to resource data
+24405700,Quantitative prediction of the effect of genetic variation using hidden Markov models.,hmmvar,prediction,Prediction/classification method applied to resource data
+23846744,An integrated toolkit for accurate prediction and analysis of cis-regulatory motifs at a genome scale.,bobro2,integration,Data integration platform combining multiple resources
+30441365,"A Clinical Decision Support Platform for the Risk Stratification, Diagnosis, and Prediction of Coronary Artery Disease Evolution.",,prediction,Prediction/classification method applied to resource data
+23840574,"In silico platform for prediction of N-, O- and C-glycosites in eukaryotic protein sequences.",,prediction,Prediction/classification method applied to resource data
+26717407,Prediction of Intra-Species Protein-Protein Interactions in Enteropathogens Facilitating Systems Biology Study.,,prediction,Prediction/classification method applied to resource data
+23514199,Prediction of conformational epitopes with the use of a knowledge-based energy function and geometrically related neighboring residue characteristics.,ce-keg,prediction,Prediction/classification method applied to resource data
+28025199,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy.,,prediction,Prediction/classification method applied to resource data
+31714956,Comprehensive review and assessment of computational methods for predicting RNA post-transcriptional modification sites from RNA sequences.,,computational,Computational method applied to resource data
+22689763,Towards 3D structure prediction of large RNA molecules: an integer programming framework to insert local 3D motifs in RNA secondary structure.,,prediction,Prediction/classification method applied to resource data
+23443684,Protein complex-based analysis framework for high-throughput data sets.,compleat,pipeline,Pipeline/workflow tool that uses resources as input
+32860044,Prediction of protein-binding residues: dichotomy of sequence-based methods developed using structured complexes versus disordered proteins.,,prediction,Prediction/classification method applied to resource data
+29161266,Knowledge-based prediction of protein backbone conformation using a structural alphabet.,,prediction,Prediction/classification method applied to resource data
+21729923,In silico analysis of transcription factor repertoires and prediction of stress-responsive transcription factors from six major gramineae plants.,,prediction,Prediction/classification method applied to resource data
+26080082,Computational Identification of Protein Pupylation Sites by Using Profile-Based Composition of k-Spaced Amino Acid Pairs.,pbpup,computational,Computational method applied to resource data
+30010718,A parallel computational framework for ultra-large-scale sequence clustering analysis.,slad,pipeline,Pipeline/workflow tool that uses resources as input
+29907888,Reengineering Workflow for Curation of DICOM Datasets.,posda,pipeline,Pipeline/workflow tool that uses resources as input
+22262672,Construction and completion of flux balance models from pathway databases.,,usage,Method that uses an existing database/resource
+25402006,In silico prediction of physical protein interactions and characterization of interactome orphans.,,prediction,Prediction/classification method applied to resource data
+32969786,Universal whole-sequence-based plasmid typing and its utility to prediction of host range and epidemiological surveillance.,mob,prediction,Prediction/classification method applied to resource data
+28451969,From Gene Annotation to Function Prediction for Metagenomics.,fun4me,prediction,Prediction/classification method applied to resource data
+31007293,From source code to test cases: A comprehensive benchmark for resource leak detection in Android apps.,,benchmark,Benchmarking study evaluating resource performance
+24478935,Manipulating In-House Designed Drug Databases For The Prediction of pH-Dependent Aqueous Drug Solubility.,mysql,prediction,Prediction/classification method applied to resource data
+33902433,Advantages of using graph databases to explore chromatin conformation capture experiments.,neohic,usage,Method that uses an existing database/resource
+22359446,A structure-similarity-based software for the cardiovascular toxicity prediction of traditional chinese medicine.,,prediction,Prediction/classification method applied to resource data
+34167460,A comprehensive database for integrated analysis of omics data in autoimmune diseases.,,integration,Data integration platform combining multiple resources
+33462239,A database framework for rapid screening of structure-function relationships in PFAS chemistry.,,pipeline,Pipeline/workflow tool that uses resources as input
+21309043,Prediction of single-nucleotide substitutions that result in exon skipping: identification of a splicing silencer in BRCA1 exon 6.,hot-skip,prediction,Prediction/classification method applied to resource data
+23633602,Integrated database of information from structural genomics experiments.,,integration,Data integration platform combining multiple resources
+33159146,Better understanding and prediction of antiviral peptides through primary and secondary structure feature importance.,firm-avp,prediction,Prediction/classification method applied to resource data
+23742129,Computational framework to support integration of biomolecular and clinical data within a translational approach.,,computational,Computational method applied to resource data
+23281624,A computational tool for the design of live attenuated virus vaccine based on microRNA-mediated gene silencing.,,computational,Computational method applied to resource data
+23812986,A context-sensitive framework for the analysis of human signalling pathways in molecular interaction networks.,,pipeline,Pipeline/workflow tool that uses resources as input
+30130366,Kinomics toolbox-A web platform for analysis and viewing of kinomic peptide array data.,,platform,Analysis platform that uses resources
+29360996,Feature specific quantile normalization enables cross-platform classification of molecular subtypes using gene expression data.,fsqn,prediction,Prediction/classification method applied to resource data
+29859055,Sequence-based prediction of physicochemical interactions at protein functional sites using a function-and-interaction-annotated domain profile database.,fidpd,prediction,Prediction/classification method applied to resource data
+34136100,"Making fundamental scientific discoveries by combining information from literature, databases, and computational tools - An example.",samd1,computational,Computational method applied to resource data
+27069468,A Collaborative Location Based Travel Recommendation System through Enhanced Rating Prediction for the Group of Users.,,prediction,Prediction/classification method applied to resource data
+25937880,Making species checklists understandable to machines - a shift from relational databases to ontologies.,,usage,Method that uses an existing database/resource
+21258063,Automated validation of genetic variants from large databases: ensuring that variant references refer to the same genomic locations.,,usage,Method that uses an existing database/resource
+27342196,Systematic identification and analysis of frequent gene fusion events in metabolic pathways.,,systematic,Systematic analysis using resource data
+27125735,"The RNA 3D Motif Atlas: Computational methods for extraction, organization and evaluation of RNA motifs.",pdb | ndb,computational,Computational method applied to resource data
+"28911111, 29788132",Combinatorial ensemble miRNA target prediction of co-regulation networks with non-prediction data.,,prediction,Prediction/classification method applied to resource data
+21791094,Bayesian semi-supervised classification of bacterial samples using MLST databases.,,prediction,Prediction/classification method applied to resource data
+27787817,Consensus Prediction of Charged Single Alpha-Helices with CSAHserver.,,prediction,Prediction/classification method applied to resource data
+25003610,An integrated SNP mining and utilization (ISMU) pipeline for next generation sequencing data.,,pipeline,Pipeline/workflow tool that uses resources as input
+21990165,Classification of missense substitutions in the BRCA genes: a database dedicated to Ex-UVs.,,prediction,Prediction/classification method applied to resource data
+32214380,Stochastic simulation and statistical inference platform for visualization and estimation of transcriptional kinetics.,,platform,Analysis platform that uses resources
+25236462,Proteomic analysis and prediction of human phosphorylation sites in subcellular level reveal subcellular specificity.,,prediction,Prediction/classification method applied to resource data
+21668950,A computational approach to candidate gene prioritization for X-linked mental retardation using annotation-based binary filtering and motif-based linear discriminatory analysis.,,computational,Computational method applied to resource data
+32778839,Combined proximity labeling and affinity purification-mass spectrometry workflow for mapping and visualizing protein interaction networks.,,pipeline,Pipeline/workflow tool that uses resources as input
+28358862,Comprehensive framework for visualizing and analyzing spatio-temporal dynamics of racial diversity in the entire United States.,,pipeline,Pipeline/workflow tool that uses resources as input
+26755347,Systematic Analysis of Sex-Linked Molecular Alterations and Therapies in Cancer.,,systematic,Systematic analysis using resource data
+32096630,Breaking Down Structural Diversity for Comprehensive Prediction of Ion-Neutral Collision Cross Sections.,,prediction,Prediction/classification method applied to resource data
+24265775,Using a web-based application to define the accuracy of diagnostic tests when the gold standard is imperfect.,,web_tool,Web-based tool for analyzing resource data
+25544807,Prediction of Gene Activity in Early B Cell Development Based on an Integrative Multi-Omics Analysis.,,prediction,Prediction/classification method applied to resource data
+31870293,An improved catalogue of putative synaptic genes defined exclusively by temporal transcription profiles through an ensemble machine learning approach.,,ml,Machine learning method that uses resource data
+30102367,Review and comparative assessment of similarity-based methods for prediction of drug-protein interactions in the druggable human proteome.,,prediction,Prediction/classification method applied to resource data
+32528441,Prediction of Antimicrobial Resistance in Gram-Negative Bacteria From Whole-Genome Sequencing Data.,,prediction,Prediction/classification method applied to resource data
+27029637,An integrated analysis tool for analyzing hybridization intensities and genotypes using new-generation population-optimized human arrays.,,integration,Data integration platform combining multiple resources
+30541929,A Statistical Procedure for Genome-Wide Detection of QTL Hotspots Using Public Databases with Application to Rice.,,usage,Method that uses an existing database/resource
+33656437,Validation strategy of a bioinformatics whole genome sequencing workflow for Shiga toxin-producing <i>Escherichia coli</i> using a reference collection extensively characterized with conventional methods.,,pipeline,Pipeline/workflow tool that uses resources as input
+33560568,"Update of the Pompe variant database for the prediction of clinical phenotypes: Novel disease-associated variants, common sequence variants, and results from newborn screening.",,prediction,Prediction/classification method applied to resource data
