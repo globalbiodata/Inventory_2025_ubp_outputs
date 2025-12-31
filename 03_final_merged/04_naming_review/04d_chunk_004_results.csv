@@ -1,0 +1,201 @@
+row_num,best_name,paper_titles,best_name_updated,full_name_updated,confidence,notes
+1,StreptomycesInforSys,StreptomycesInforSys: A web-enabled information repository.,StreptomycesInforSys,StreptomycesInforSys,HIGH,No expansion in title
+2,World Spider Trait,The World Spider Trait database: a centralized global open repository for curated data on spider traits.,World Spider Trait,World Spider Trait,HIGH,Full name explicitly in title
+3,Cell-culture Database,Cell-culture Database: Literature-based reference tool for human and mammalian experimentallybased cell culture applications.,Cell-culture Database,Cell-culture Database,HIGH,No expansion in title
+4,CR10,CR10-A PUBLIC DATABASE OF COSMIC RADIATION MEASUREMENTS AT AVIATION ALTITUDES OF ABOUT 10 KM.,CR10,CR10,HIGH,No expansion in title
+5,GETC,An informatics research platform to make public gene expression time-course datasets reusable for more scientific discoveries.,GETC,GETC,HIGH,No expansion in title
+6,Icpagdb,An atlas connecting shared genetic architecture of human diseases and molecular phenotypes provides insight into COVID-19 susceptibility.,Icpagdb,Icpagdb,HIGH,No expansion in title
+7,Cancercellnet,Evaluating the transcriptional fidelity of cancer models.,Cancercellnet,Cancercellnet,HIGH,No expansion in title
+8,Deepfri,Structure-based protein function prediction using graph convolutional networks.,Deepfri,Deepfri,HIGH,No expansion in title
+9,Cocomac,Hundreds of brain maps in one atlas: registering coordinate-independent primate neuro-anatomical data to a standard brain.,Cocomac,Cocomac,HIGH,No expansion in title
+10,SEEK,Targeted exploration and analysis of large cross-platform human transcriptomic compendia.,SEEK,SEEK,HIGH,No expansion in title
+11,Orfeome,Generating genomic platforms to study Candida albicans pathogenesis.,Orfeome,Orfeome,HIGH,No expansion in title
+12,K-scd,Database of synesthetic color associations for Japanese kanji.,K-scd,K-scd,HIGH,No expansion in title
+13,RENIS,"Patients with advanced and metastatic renal cell carcinoma treated with targeted therapy in the Czech Republic: twenty cancer centres, six agents, one database.",RENIS,RENIS,HIGH,No expansion in title
+14,Meta-inventory,A deep database of medical abbreviations and acronyms for natural language processing.,Meta-inventory,Meta-inventory,HIGH,No expansion in title
+15,CCTOP,The human transmembrane proteome.,CCTOP,CCTOP,HIGH,No expansion in title
+16,Gotrack,Monitoring changes in the Gene Ontology and their impact on genomic data analysis.,Gotrack,Gotrack,HIGH,No expansion in title
+17,FUSION,A Genome-wide Functional Signature Ontology Map and Applications to Natural Product Mechanism of Action Discovery.,FUSION,FUSION,HIGH,No expansion in title
+18,Vactarbac,A Web Resource for Designing Subunit Vaccine Against Major Pathogenic Species of Bacteria.,Vactarbac,Vactarbac,HIGH,No expansion in title
+19,Vertion,Integrated querying and version control of context-specific biological networks.,Vertion,Vertion,HIGH,No expansion in title
+20,Harvestmen,"Harvestmen occurrence database (Arachnida, Opiliones) of the Museu Paraense Emílio Goeldi, Brazil.",Harvestmen,Harvestmen,HIGH,No expansion in title
+21,GEMSE,Explorative visual analytics on interval-based genomic data and their metadata.,GEMSE,GEMSE,HIGH,No expansion in title
+22,PUFAS,An Approach to Function Annotation for Proteins of Unknown Function (PUFs) in the Transcriptome of Indian Mulberry.,PUFAS,PUFAS,HIGH,No expansion in title
+23,Natcatservice,A global database of historic and real-time flood events based on social media.,Natcatservice,Natcatservice,HIGH,No expansion in title
+24,GLYMAP,A glycogene mutation map for discovery of diseases of glycosylation.,GLYMAP,GLYMAP,HIGH,No expansion in title
+25,Compleat,Protein complex-based analysis framework for high-throughput data sets.,Compleat,Compleat,HIGH,No expansion in title
+26,CGCN,Large-scale gene co-expression network as a source of functional annotation for cattle genes.,CGCN,CGCN,HIGH,No expansion in title
+27,Scanfold,A map of the SARS-CoV-2 RNA structurome.,Scanfold,Scanfold,HIGH,No expansion in title
+28,Kinomefeature,Computational analysis of kinase inhibitor selectivity using structural knowledge.,Kinomefeature,Kinomefeature,HIGH,No expansion in title
+29,OHDSI,Bridging islands of information to establish an integrated knowledge base of drugs and health outcomes of interest.,OHDSI,OHDSI,HIGH,No expansion in title
+30,Triticeae-genetribe,A Collinearity-Incorporating Homology Inference Strategy for Connecting Emerging Assemblies in the Triticeae Tribe as a Pilot Practice in the Plant Pangenomic Era.,Triticeae-genetribe,Triticeae-genetribe,HIGH,No expansion in title
+31,Covid Trial Monitor,Semantic and Geographical Analysis of COVID-19 Trials Reveals a Fragmented Clinical Research Landscape Likely to Impair Informativeness.,Covid Trial Monitor,Covid Trial Monitor,HIGH,Full name explicitly in title
+32,Developing Mouse Brain Atlas,A high-resolution spatiotemporal atlas of gene expression of the developing mouse brain.,Developing Mouse Brain Atlas,Developing Mouse Brain Atlas,HIGH,Full name explicitly in title
+33,IMAGEJ,Open Source Tools for Biological Image Analysis.,IMAGEJ,IMAGEJ,HIGH,No expansion in title
+34,Mozatlas,"A comprehensive gene expression atlas of sex- and tissue-specificity in the malaria vector, Anopheles gambiae.",Mozatlas,Mozatlas,HIGH,No expansion in title
+35,INBO,A database on the distribution of butterflies (Lepidoptera) in northern Belgium (Flanders and the Brussels Capital Region).,INBO,INBO,HIGH,No expansion in title
+36,DNA G,DNA G-quadruplexes for native mass spectrometry in potassium: a database of validated structures in electrospray-compatible conditions.,DNA G,DNA G,HIGH,No expansion in title
+37,Lepidodb,<i>De novo</i> genome and transcriptome resources of the Adzuki bean borer <i>Ostrinia scapulalis</i> (Lepidoptera: Crambidae).,Lepidodb,Lepidodb,HIGH,No expansion in title
+38,Transcriptome Variation Analysis,A high resolution map of the Arabidopsis thaliana developmental transcriptome based on RNA-seq profiling.,Transcriptome Variation Analysis,Transcriptome Variation Analysis,HIGH,Full name explicitly in title
+39,IAT,Improving biocuration of microRNAs in diseases: a case study in idiopathic pulmonary fibrosis.,IAT,IAT,HIGH,No expansion in title
+40,Eurexpress Atlas,A high-resolution anatomical atlas of the transcriptome in the mouse embryo.,Eurexpress Atlas,Eurexpress Atlas,HIGH,Full name explicitly in title
+41,3d-pdf,Review of the main surgical and angiographic-oriented classifications of the course of the internal carotid artery through a novel interactive 3D model.,3d-pdf,3d-pdf,HIGH,No expansion in title
+42,Rodent Brain Workbench,Workflow and atlas system for brain-wide mapping of axonal connectivity in rat.,Rodent Brain Workbench,Rodent Brain Workbench,HIGH,Full name explicitly in title
+43,Cancer Therapeutics Response Portal,An interactive resource to identify cancer genetic and lineage dependencies targeted by small molecules.,Cancer Therapeutics Response Portal,Cancer Therapeutics Response Portal,HIGH,Full name explicitly in title
+44,Hemiptera,An online global database of Hemiptera-Phytoplasma-Plant biological interactions.,Hemiptera,Hemiptera,HIGH,No expansion in title
+45,Spot-seq,Prediction and validation of the unexplored RNA-binding protein atlas of the human proteome.,Spot-seq,Spot-seq,HIGH,No expansion in title
+46,Fyco1,Dynamic data-driven meta-analysis for prioritisation of host genes implicated in COVID-19.,Fyco1,Fyco1,HIGH,No expansion in title
+47,Challenge,Massive Online Crowdsourced Study of Subjective and Objective Picture Quality.,Challenge,Challenge,HIGH,No expansion in title
+48,EBISC,Development of a fully human assay combining NGN2-inducible neurons co-cultured with iPSC-derived astrocytes amenable for electrophysiological studies.,EBISC,EBISC,HIGH,No expansion in title
+49,Covalent Interactions Atlas Benchmark Data Sets,Non-Covalent Interactions Atlas Benchmark Data Sets 2: Hydrogen Bonding in an Extended Chemical Space.,Covalent Interactions Atlas Benchmark Data Sets,Covalent Interactions Atlas Benchmark Data Sets,HIGH,No expansion in title
+50,MOODLE,[The inter-university learning website: a national university network for online teaching of pathology].,MOODLE,MOODLE,HIGH,No expansion in title
+51,GREEKC,A GO catalogue of human DNA-binding transcription factors.,GREEKC,GREEKC,HIGH,No expansion in title
+52,Tumormap,A molecular map of lung neuroendocrine neoplasms.,Tumormap,Tumormap,HIGH,No expansion in title
+53,Demeter2,Improved estimation of cancer dependencies from large-scale RNAi screens using model-based normalization and data integration.,Demeter2,Demeter2,HIGH,No expansion in title
+54,Spl-adr-200db,A dataset of 200 structured product labels annotated for adverse drug reactions.,Spl-adr-200db,Spl-adr-200db,HIGH,No expansion in title
+55,OFTCON,"UV/Vis&lt;sup&gt;+&lt;/sup&gt; photochemistry database: Structure, content and applications.",OFTCON,OFTCON,HIGH,No expansion in title
+56,Australian Phytoplankton Database,"A database of marine phytoplankton abundance, biomass and species composition in Australian waters.",Australian Phytoplankton Database,Australian Phytoplankton Database,HIGH,No expansion in title
+57,A Large-scale,A Landscape of Metabolic Variation across Tumor Types.,Australian Phytoplankton Database,Australian Phytoplankton Database,HIGH,Full name explicitly in title
+58,Project Score,Project Score database: a resource for investigating cancer cell dependencies and prioritizing therapeutic targets.,Project Score,Project Score,HIGH,No expansion in title
+59,uniprotkb | proteomexchange,"A repository of assays to quantify 10,000 human proteins by SWATH-MS.",uniprotkb | proteomexchange,uniprotkb | proteomexchange,HIGH,No expansion in title
+60,HIV,"The study of HIV and antenatal care integration in pregnancy in Kenya: design, methods, and baseline results of a cluster-randomized controlled trial. | Cost Effectiveness of Support for People Starting a New Medication for a Long-Term Condition Through Community Pharmacies: An Economic Evaluation of the New Medicine Service (NMS) Compared with Normal Practice. | An Update on Glutamatergic System in Suicidal Depression and on the Role of Esketamine. | Implementation of an electronic patient-reported measure of barriers to antiretroviral therapy adherence with the Opal patient portal: Protocol for a mixed method type 3 hybrid pilot study at a large Montreal HIV clinic.",HIV,HIV,HIGH,No expansion in title
+61,Display_record.asp,Effect of cervical cancer education and provider recommendation for screening on screening rates: A systematic review and meta-analysis. | Comparative effectiveness of different transarterial embolization therapies alone or in combination with local ablative or adjuvant systemic treatments for unresectable hepatocellular carcinoma: A network meta-analysis of randomized controlled trials. | What are the mechanisms of action of anti-inflammatory agents in adipose tissue?: A protocol for systematic review and meta-analysis.,Display_record.asp,Display_record.asp,HIGH,No expansion in title
+62,COVID-19,Using the PhenX Toolkit to Add Standard Measures to a Study. | Research standardization tools: pregnancy measures in the PhenX Toolkit. | The PhenX Toolkit: Establishing Standard Measures for COVID-19 Research.,COVID-19,COVID-19,HIGH,No expansion in title
+63,Breast-cancer-database,A Dataset for Breast Cancer Histopathological Image Classification. | Phasic dopamine release identification using convolutional neural network.,Breast-cancer-database,Breast-cancer-database,HIGH,No expansion in title
+64,Connectivity_scores,Reconciling multiple connectivity scores for drug repurposing.,Connectivity_scores,Connectivity_scores,HIGH,No expansion in title
+65,MLST,Bayesian semi-supervised classification of bacterial samples using MLST databases.,MLST,MLST,HIGH,No expansion in title
+66,Ctndatashare,"The national drug abuse treatment clinical trials network data share project: website design, usage, challenges, and future directions.",Ctndatashare,Ctndatashare,HIGH,No expansion in title
+67,Aquariumtradedata,Expanding our understanding of the trade in marine aquarium animals.,Aquariumtradedata,Aquariumtradedata,HIGH,No expansion in title
+68,Databases,Comprehensive database of human E3 ubiquitin ligases: application to aquaporin-2 regulation.,Databases,Databases,HIGH,No expansion in title
+69,BiologicalNetworks,BiologicalNetworks--tools enabling the integration of multi-scale data for the host-pathogen studies.,BiologicalNetworks,BiologicalNetworks,HIGH,No expansion in title
+70,HPTT,Whole-Genome-Based <i>Helicobacter pylori</i> Geographic Surveillance: A Visualized and Expandable Webtool.,HPTT,HPTT,HIGH,No expansion in title
+71,Human-embryology,Two Web Resources Linking Major Human Embryology Collections Worldwide.,Human-embryology,Human-embryology,HIGH,No expansion in title
+72,BRCA,Classification of missense substitutions in the BRCA genes: a database dedicated to Ex-UVs.,BRCA,BRCA,HIGH,No expansion in title
+73,CALIBER,UK phenomics platform for developing and validating electronic health record phenotypes: CALIBER.,CALIBER,CALIBER,HIGH,No expansion in title
+74,Redline72,Regulation of Expression and Evolution of Genes in Plastids of Rhodophytic Branch.,Redline72,Redline72,HIGH,No expansion in title
+75,COVID-19,The COVID-19 Drug and Gene Set Library.,COVID-19,COVID-19,HIGH,No expansion in title
+76,Childrensheartsurgery,Understanding Children's Heart Surgery Data: A Cross-Disciplinary Approach to Codevelop a Website.,Childrensheartsurgery,Childrensheartsurgery,HIGH,No expansion in title
+77,Mtguide,What's the target: understanding two decades of in silico microRNA-target prediction.,Mtguide,Mtguide,HIGH,No expansion in title
+78,PRO,The representation of protein complexes in the Protein Ontology (PRO).,PRO,Protein Ontology,HIGH,Expansion found: Protein Ontology (PRO)
+79,HIV,Sankofa pediatric HIV disclosure intervention cyber data management: building capacity in a resource-limited setting and ensuring data quality.,HIV,HIV,HIGH,No expansion in title
+80,HLA,HLA Ligand Atlas: a benign reference of HLA-presented peptides to improve T-cell-based cancer immunotherapy.,HLA,HLA,HIGH,No expansion in title
+81,Verjolab,Atlas of Schistosoma mansoni long non-coding RNAs and their expression correlation to protein-coding genes.,Verjolab,Verjolab,HIGH,No expansion in title
+82,COVID-19,The EU one-stop-shop collection of publicly available information on COVID-19 <i>in vitro</i> diagnostic medical devices.,COVID-19,COVID-19,HIGH,No expansion in title
+83,DNA-,A plasmid DNA-launched SARS-CoV-2 reverse genetics system and coronavirus toolkit for COVID-19 research.,DNA-,DNA-,HIGH,No expansion in title
+84,CMIP5,High-resolution and bias-corrected CMIP5 projections for climate change impact assessments.,CMIP5,CMIP5,HIGH,No expansion in title
+85,Neuroviisas.shtml,Connectome verification: inter-rater and connection reliability of tract-tracing-based intrinsic hypothalamic connectivity.,Neuroviisas.shtml,Neuroviisas.shtml,HIGH,No expansion in title
+86,RNA,Deep single-cell RNA sequencing data of individual T cells from treatment-naïve colorectal cancer patients.,RNA,RNA,HIGH,No expansion in title
+87,Lsnorms,"The Lancaster Sensorimotor Norms: multidimensional measures of perceptual and action strength for 40,000 English words.",Lsnorms,Lsnorms,HIGH,No expansion in title
+88,Regulatorycircuits,Tissue-specific regulatory circuits reveal variable modular perturbations across complex diseases.,Regulatorycircuits,Regulatorycircuits,HIGH,No expansion in title
+89,SexLinked,Systematic Analysis of Sex-Linked Molecular Alterations and Therapies in Cancer.,SexLinked,SexLinked,HIGH,No expansion in title
+90,Diatom-portal,Pan-transcriptomic analysis identifies coordinated and orthologous functional modules in the diatoms Thalassiosira pseudonana and Phaeodactylum tricornutum.,Diatom-portal,Diatom-portal,HIGH,No expansion in title
+91,Asteroidea,Global diversity and phylogeny of the Asteroidea (Echinodermata).,Asteroidea,Asteroidea,HIGH,No expansion in title
+92,Non-muscle-invasive-bladder-cancer,European Association of Urology Guidelines on Non-muscle-invasive Bladder Cancer (TaT1 and Carcinoma In Situ) - 2019 Update.,Non-muscle-invasive-bladder-cancer,Non-muscle-invasive-bladder-cancer,HIGH,No expansion in title
+93,Synapticgenes,An improved catalogue of putative synaptic genes defined exclusively by temporal transcription profiles through an ensemble machine learning approach.,Synapticgenes,Synapticgenes,HIGH,No expansion in title
+94,cutaneousNF,A high-throughput molecular data resource for cutaneous neurofibromas.,cutaneousNF,cutaneousNF,HIGH,No expansion in title
+95,Cetaf-stable-identifiers,"Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects.",Cetaf-stable-identifiers,Cetaf-stable-identifiers,HIGH,No expansion in title
+96,CPIC,Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update.,CPIC,Clinical Pharmacogenetics Implementation Consortium,HIGH,Expansion found: Clinical Pharmacogenetics Implementation Consortium (CPIC)
+97,Photochemcad,Absorption and Fluorescence Spectral Database of Chlorophylls and Analogues.,Photochemcad,Photochemcad,HIGH,No expansion in title
+98,JGI,Sequencing and functional validation of the JGI Brachypodium distachyon T-DNA collection.,JGI,JGI,HIGH,No expansion in title
+99,Jhubiobank,A clinically and genomically annotated nerve sheath tumor biospecimen repository.,Jhubiobank,Jhubiobank,HIGH,No expansion in title
+100,Peptaibiotics-database,The comprehensive peptaibiotics database.,Peptaibiotics-database,Peptaibiotics-database,HIGH,No expansion in title
+101,Curatopes,Curatopes Melanoma: A Database of Predicted T-cell Epitopes from Overly Expressed Proteins in Metastatic Cutaneous Melanoma.,Curatopes,Curatopes,HIGH,No expansion in title
+102,IKBKG,Insight into IKBKG/NEMO locus: report of new mutations and complex genomic rearrangements leading to incontinentia pigmenti disease.,IKBKG,IKBKG,HIGH,No expansion in title
+103,skin,Spatially and cell-type resolved quantitative proteomic atlas of healthy human skin.,skin,skin,HIGH,No expansion in title
+104,eelsdb,A Complete Overhaul of the Electron Energy-Loss Spectroscopy and X-Ray Absorption Spectroscopy Database: eelsdb.eu.,eelsdb,eelsdb,HIGH,No expansion in title
+105,Carcinogenome,The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity.,Carcinogenome,Carcinogenome,HIGH,No expansion in title
+106,RIKEN,Establishment and application of information resource of mutant mice in RIKEN BioResource Research Center.,RIKEN,RIKEN,HIGH,No expansion in title
+107,COVID-19,"COVID-19 pandemic: SARS-CoV-2 specific vaccines and challenges, protection via BCG trained immunity, and clinical trials.",COVID-19,COVID-19,HIGH,No expansion in title
+108,Worldmap,Online community collaborative map: A geospatial and data visualization tool for cancer data.,Worldmap,Worldmap,HIGH,No expansion in title
+109,qj6cfZg57g6qwzN,Creation of an Online Platform for Identification of Microorganisms: Peak Picking or Full-Spectrum Analysis.,qj6cfZg57g6qwzN,qj6cfZg57g6qwzN,HIGH,No expansion in title
+110,Dc-optimization,Network- and systems-based re-engineering of dendritic cells with non-coding RNAs for cancer immunotherapy.,Dc-optimization,Dc-optimization,HIGH,No expansion in title
+111,GALAXY,Validation strategy of a bioinformatics whole genome sequencing workflow for Shiga toxin-producing <i>Escherichia coli</i> using a reference collection extensively characterized with conventional methods.,GALAXY,GALAXY,HIGH,No expansion in title
+112,AMC,<i>AMC Datasets</i>-a resource for analytical scientists.,AMC,AMC,HIGH,No expansion in title
+113,Pompevariantdatabase,"Update of the Pompe variant database for the prediction of clinical phenotypes: Novel disease-associated variants, common sequence variants, and results from newborn screening.",Pompevariantdatabase,Pompevariantdatabase,HIGH,No expansion in title
+114,Emodnet-biology,"Fishing for data and sorting the catch: assessing the data quality, completeness and fitness for use of data in marine biogeographic databases.",Emodnet-biology,Emodnet-biology,HIGH,No expansion in title
+115,ID-TaxER,Beyond Taxonomic Identification: Integration of Ecological Responses to a Soil Bacterial 16S rRNA Gene Database.,ID-TaxER,ID-TaxER,HIGH,No expansion in title
+116,GFP,Proteome-wide screens in Saccharomyces cerevisiae using the yeast GFP collection.,GFP,GFP,HIGH,No expansion in title
+117,Flygutseq,Regional Cell-Specific Transcriptome Mapping Reveals Regulatory Complexity in the Adult Drosophila Midgut.,Flygutseq,Flygutseq,HIGH,No expansion in title
+118,Aflowlib,High-throughput combinatorial database of electronic band structures for inorganic scintillator materials.,Aflowlib,Aflowlib,HIGH,No expansion in title
+119,mouse,A metabolome atlas of the aging mouse brain.,mouse,mouse,HIGH,No expansion in title
+120,BioCyc,Update notifications for the BioCyc collection of databases.,BioCyc,BioCyc,HIGH,No expansion in title
+121,Frequencymap,"Vibrational Spectroscopic Map, Vibrational Spectroscopy, and Intermolecular Interaction.",Frequencymap,Frequencymap,HIGH,No expansion in title
+122,Taiwancancermap,An Online Atlas for Exploring Spatio-Temporal Patterns of Cancer Mortality (1972-2011) and Incidence (1995-2008) in Taiwan.,Taiwancancermap,Taiwancancermap,HIGH,No expansion in title
+123,Healthy-worm-database,"Health and longevity studies in C. elegans: the ""healthy worm database"" reveals strengths, weaknesses and gaps of test compound-based studies.",Healthy-worm-database,Healthy-worm-database,HIGH,No expansion in title
+124,Allergen,Update of the WHO/IUIS Allergen Nomenclature Database based on analysis of allergen sequences.,Allergen,Allergen,HIGH,No expansion in title
+125,Soyfungigcn,Integration of genome-wide association studies and gene coexpression networks unveils promising soybean resistance genes against five common fungal pathogens.,Soyfungigcn,Soyfungigcn,HIGH,No expansion in title
+126,Rust-expression,Rust expression browser: an open source database for simultaneous analysis of host and pathogen gene expression profiles with expVIP.,Rust-expression,Rust-expression,HIGH,No expansion in title
+127,G-DIRT,G-DIRT: a web server for identification and removal of duplicate germplasms based on identity-by-state analysis using single nucleotide polymorphism genotyping data.,G-DIRT,G-DIRT,HIGH,No expansion in title
+128,OpenPIP,"OpenPIP: An Open-source Platform for Hosting, Visualizing and Analyzing Protein Interaction Data.",OpenPIP,OpenPIP,HIGH,No expansion in title
+129,Genome Nexus,Genome Nexus: A Comprehensive Resource for the Annotation and Interpretation of Genomic Variants in Cancer.,Genome Nexus,Genome Nexus,HIGH,No expansion in title
+130,BakRep,"BakRep - a searchable large-scale web repository for bacterial genomes, characterizations and metadata.",Genome Nexus,Genome Nexus,HIGH,Full name explicitly in title
+131,Reproductive chemical database,Reproductive chemical database: a curated database of chemicals that modulate protein targets regulating important reproductive biological processes.,Reproductive chemical database,Reproductive chemical database,HIGH,No expansion in title
+132,IDLaS-NL,IDLaS-NL - A platform for running customized studies on individual differences in Dutch language skills via the Internet.,Reproductive chemical database,Reproductive chemical database,HIGH,Full name explicitly in title
+133,PhageTailFinder,PhageTailFinder: A tool for phage tail module detection and annotation.,PhageTailFinder,PhageTailFinder,HIGH,No expansion in title
+134,Inxight Drugs,NCATS Inxight Drugs: a comprehensive and curated portal for translational research.,Inxight Drugs,Inxight Drugs,HIGH,No expansion in title
+135,Playbook workflow builder,Playbook workflow builder: Interactive construction of bioinformatics workflows.,Inxight Drugs,Inxight Drugs,HIGH,Full name explicitly in title
+136,Gene Loss DB,Gene Loss DB: a curated database for gene loss in mammals-the cetacean collection.,Playbook workflow builder,Playbook workflow builder,HIGH,Full name explicitly in title
+137,sORFdb,"sORFdb - a database for sORFs, small proteins, and small protein families in bacteria.",Gene Loss DB,Gene Loss DB,HIGH,Full name explicitly in title
+138,Kinase-associated neural phospho-signaling,KANPHOS: Kinase-associated neural phospho-signaling database for data-driven research.,Kinase-associated neural phospho-signaling,Kinase-associated neural phospho-signaling,HIGH,No expansion in title
+139,Circadian ontogenetic metabolomics atlas,"Circadian ontogenetic metabolomics atlas: an interactive resource with insights from rat plasma, tissues, and feces.",Kinase-associated neural phospho-signaling,Kinase-associated neural phospho-signaling,HIGH,Full name explicitly in title
+140,eDAVE,"eDAVE - Extension of GDC data analysis, visualization, and exploration tools.",Circadian ontogenetic metabolomics atlas,Circadian ontogenetic metabolomics atlas,HIGH,Full name explicitly in title
+141,Goose multi-omics database,Goose multi-omics database: A comprehensive multi-omics database for goose genomics.,Goose multi-omics database,Goose multi-omics database,HIGH,No expansion in title
+142,IsoVis,IsoVis - a webserver for visualization and annotation of alternative RNA isoforms.,Goose multi-omics database,Goose multi-omics database,HIGH,Full name explicitly in title
+143,OSADHI,OSADHI - An online structural and analytics based database for herbs of India.,OSADHI,OSADHI,HIGH,No expansion in title
+144,Protein interaction explorer,Protein interaction explorer (PIE): a comprehensive platform for navigating protein-protein interactions and ligand binding pockets.,Protein interaction explorer,Protein interaction explorer,HIGH,No expansion in title
+145,Conserved unique peptide patterns,Conserved unique peptide patterns (CUPP) online platform 2.0: implementation of +1000 JGI fungal genomes.,Protein interaction explorer,Protein interaction explorer,HIGH,Full name explicitly in title
+146,Global Jukebox,The Global Jukebox: A public database of performing arts and culture.,Conserved unique peptide patterns,Conserved unique peptide patterns,HIGH,Full name explicitly in title
+147,Wolfberry genome database,Wolfberry genome database: integrated genomic datasets for studying molecular biology.,Global Jukebox,Global Jukebox,HIGH,Full name explicitly in title
+148,CORDAX,CORDAX web server: an online platform for the prediction and 3D visualization of aggregation motifs in protein sequences.,Wolfberry genome database,Wolfberry genome database,HIGH,Full name explicitly in title
+149,MASH Native,MASH Native: a unified solution for native top-down proteomics data processing.,MASH Native,MASH Native,HIGH,No expansion in title
+150,Pocketome,ELIOT: A platform to navigate the E3 pocketome and aid the design of new PROTACs.,MASH Native,MASH Native,HIGH,Full name explicitly in title
+151,Vivarium,Vivarium: an interface and engine for integrative multiscale modeling in computational biology.,Vivarium,Vivarium,HIGH,No expansion in title
+152,Atomevo-odor,Atomevo-odor: A database for understanding olfactory receptor-odorant pairs with multi-artificial intelligence methods.,Atomevo-odor,Atomevo-odor,HIGH,No expansion in title
+153,Be-dataHIVE,Be-dataHIVE: a base editing database.,Be-dataHIVE,Be-dataHIVE,HIGH,No expansion in title
+154,B-Chrom,First Update to B-Chrom: A Database on B-Chromosomes.,B-Chrom,B-Chrom,HIGH,No expansion in title
+155,REME,REME: an integrated platform for reaction enzyme mining and evaluation.,REME,REME,HIGH,No expansion in title
+156,Therapeutic Target Database,TTD: Therapeutic Target Database describing target druggability information.,Therapeutic Target Database,Therapeutic Target Database,HIGH,No expansion in title
+157,Methylmap,Methylmap: visualization of modified nucleotides for large cohort sizes.,Therapeutic Target Database,Therapeutic Target Database,HIGH,Full name explicitly in title
+158,READRetro web,READRetro web: A user-friendly platform for predicting plant natural product biosynthesis.,READRetro web,READRetro web,HIGH,No expansion in title
+159,mOTUs,The mOTUs online database provides web-accessible genomic context to taxonomic profiling of microbial communities.,mOTUs,mOTUs,HIGH,No expansion in title
+160,Interactive Tree of Life,Interactive Tree of Life (iTOL) v6: recent updates to the phylogenetic tree display and annotation tool.,Interactive Tree of Life,Interactive Tree of Life,HIGH,"Full name explicitly in title, (iTOL) is abbreviation"
+161,Semla,Semla: a versatile toolkit for spatially resolved transcriptomics analysis and visualization.,Semla,Semla,HIGH,No expansion in title
+162,Haptools,Haptools: a toolkit for admixture and haplotype analysis.,Haptools,Haptools,HIGH,No expansion in title
+163,hGSuite HyperBrowser,hGSuite HyperBrowser: A web-based toolkit for hierarchical metadata-informed analysis of genomic tracks.,hGSuite HyperBrowser,hGSuite HyperBrowser,HIGH,No expansion in title
+164,BioExcel Building Blocks Workflows,"BioExcel Building Blocks Workflows (BioBB-Wfs), an integrated web-based platform for biomolecular simulations.",BioExcel Building Blocks Workflows,BioExcel Building Blocks Workflows,HIGH,No expansion in title
+165,Immunosenescence Inventory,Immunosenescence Inventory-a multi-omics database for immune aging research.,BioExcel Building Blocks Workflows,BioExcel Building Blocks Workflows,HIGH,Full name explicitly in title
+166,Pesticide,Digital pesticide: a comprehensive pesticide information database with dynamic web platform for artificial intelligence applications.,Immunosenescence Inventory,Immunosenescence Inventory,HIGH,Full name explicitly in title
+167,VISTA Enhancer browser,VISTA Enhancer browser: an updated database of tissue-specific developmental enhancers.,VISTA Enhancer browser,VISTA Enhancer browser,HIGH,No expansion in title
+168,Microsatellites explorer,Microsatellites explorer: A database of short tandem repeats across genomes.,VISTA Enhancer browser,VISTA Enhancer browser,HIGH,Full name explicitly in title
+169,Clc-db,Clc-db: an open-source online database of chiral ligands and catalysts.,Microsatellites explorer,Microsatellites explorer,HIGH,Full name explicitly in title
+170,An interactive online platform for photosensory and bio-functional proteins in optogenetic systems,OPTICS: An interactive online platform for photosensory and bio-functional proteins in optogenetic systems.,An interactive online platform for photosensory and bio-functional proteins in optogenetic systems,An interactive online platform for photosensory and bio-functional proteins in optogenetic systems,HIGH,No expansion in title
+171,cidalsDB,cidalsDB: an AI-empowered platform for anti-pathogen therapeutics research.,cidalsDB,cidalsDB,HIGH,No expansion in title
+172,MultifacetedProtDB,MultifacetedProtDB: a database of human proteins with multiple functions.,MultifacetedProtDB,MultifacetedProtDB,HIGH,No expansion in title
+173,Database of Therapeutic Antibody Developability,DOTAD: A Database of Therapeutic Antibody Developability.,Database of Therapeutic Antibody Developability,Database of Therapeutic Antibody Developability,HIGH,No expansion in title
+174,TFinder,TFinder: A Python Web Tool for Predicting Transcription Factor Binding Sites.,Database of Therapeutic Antibody Developability,Database of Therapeutic Antibody Developability,HIGH,Full name explicitly in title
+175,TYGS,TYGS and LPSN: a database tandem for fast and reliable genome-based classification and nomenclature of prokaryotes.,TYGS,TYGS,HIGH,No expansion in title
+176,Exome Database Of Interspersed Repeats,EDIR: exome database of interspersed repeats.,Exome Database Of Interspersed Repeats,Exome Database Of Interspersed Repeats,HIGH,No expansion in title
+177,HybridDBRpred,HybridDBRpred: improved sequence-based prediction of DNA-binding amino acids using annotations from structured complexes and disordered proteins.,HybridDBRpred,HybridDBRpred,HIGH,No expansion in title
+178,Open Targets Platform,Open Targets Platform: facilitating therapeutic hypotheses building in drug discovery.,Open Targets Platform,Open Targets Platform,HIGH,No expansion in title
+179,e-RNA,e-RNA: a collection of web-servers for the prediction and visualisation of RNA secondary structure and their functional features.,Open Targets Platform,Open Targets Platform,HIGH,Full name explicitly in title
+180,PDB-BRE,PDB-BRE: A ligand-protein interaction binding residue extractor based on Protein Data Bank.,PDB-BRE,PDB-BRE,HIGH,No expansion in title
+181,EV-COMM,EV-COMM: A database of interspecies and intercellular interactions mediated by extracellular vesicles.,EV-COMM,EV-COMM,HIGH,No expansion in title
+182,CMSSD,TCMSSD: A comprehensive database focused on syndrome standardization.,CMSSD,CMSSD,HIGH,No expansion in title
+183,PLAbDab-nano,PLAbDab-nano: a database of camelid and shark nanobodies from patents and literature.,PLAbDab-nano,PLAbDab-nano,HIGH,No expansion in title
+184,Uni-GBSA,Uni-GBSA: an open-source and web-based automatic workflow to perform MM/GB(PB)SA calculations for virtual screening.,Uni-GBSA,Uni-GBSA,HIGH,No expansion in title
+185,SCoV2-MD,SCoV2-MD: a database for the dynamics of the SARS-CoV-2 proteome and variant impact predictions.,SCoV2-MD,SCoV2-MD,HIGH,No expansion in title
+186,ChiTaRS 8.0,ChiTaRS 8.0: the comprehensive database of chimeric transcripts and RNA-seq data with applications in liquid biopsy.,ChiTaRS 8.0,ChiTaRS 8.0,HIGH,No expansion in title
+187,META-BOA,METAbolomics data Balancing with Over-sampling Algorithms (META-BOA): an online resource for addressing class imbalance.,META-BOA,METAbolomics data Balancing with Over-sampling Algorithms,HIGH,Expansion found: METAbolomics data Balancing with Over-sampling Algorithms (META-BOA)
+188,ProsmORF-pred,ProsmORF-pred: a machine learning-based method for the identification of small ORFs in prokaryotic genomes.,ProsmORF-pred,ProsmORF-pred,HIGH,No expansion in title
+189,ncRNADrug,ncRNADrug: a database for validated and predicted ncRNAs associated with drug resistance and targeted by drugs.,ncRNADrug,ncRNADrug,HIGH,No expansion in title
+190,NAIRDB,NAIRDB: a database of Fourier transform infrared (FTIR) data for nucleic acids.,NAIRDB,NAIRDB,HIGH,No expansion in title
+191,IPAD-DB,IPAD-DB: a manually curated database for experimentally verified inhibitors of proteins associated with Alzheimer's disease.,IPAD-DB,IPAD-DB,HIGH,No expansion in title
+192,anIsoNet,CanIsoNet: a database to study the functional impact of isoform switching events in diseases.,anIsoNet,anIsoNet,HIGH,No expansion in title
+193,Genome2OR,"Building the Chordata Olfactory Receptor Database using more than 400,000 receptors annotated by Genome2OR.",Genome2OR,Genome2OR,HIGH,No expansion in title
+194,INSaFLU,INSaFLU-TELEVIR: an open web-based bioinformatics suite for viral metagenomic detection and routine genomic surveillance.,INSaFLU,INSaFLU,HIGH,No expansion in title
+195,T4SEfinder,T4SEfinder: a bioinformatics tool for genome-scale prediction of bacterial type IV secreted effectors using pre-trained protein language model.,T4SEfinder,T4SEfinder,HIGH,No expansion in title
+196,Trackplot,Trackplot: A flexible toolkit for combinatorial analysis of genomic data.,Trackplot,Trackplot,HIGH,No expansion in title
+197,CASTpFold,CASTpFold: Computed Atlas of Surface Topography of the universe of protein Folds.,CASTpFold,CASTpFold,HIGH,No expansion in title
+198,OSMlanduse,OSMlanduse a dataset of European Union land use at 10 m resolution derived from OpenStreetMap and Sentinel-2.,OSMlanduse,OSMlanduse,HIGH,No expansion in title
+199,HLA3D,HLA3D: an integrated structure-based computational toolkit for immunotherapy.,HLA3D,HLA3D,HIGH,No expansion in title
+200,ORALL,FORALL: an interactive shiny/R web portal to navigate multi-omics high-throughput data of pediatric acute lymphoblastic leukemia.,ORALL,ORALL,HIGH,No expansion in title

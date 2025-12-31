@@ -1,0 +1,13 @@
+{
+  "session_id": "2025-12-02-83iwb9",
+  "timestamp": "2025-12-02T12:28:42.174138",
+  "dataset": "2022-mid2025 Fresh Run",
+  "input_file": "/Users/warren/development/GBC/inventory_2022/data/final_query_v5.1_2022_mid2025/query_results.csv",
+  "total_papers": 95393,
+  "predicted_positive": 25476,
+  "predicted_negative": 69917,
+  "positive_percentage": 26.70636210204103,
+  "processing_time_seconds": 34.18513107299805,
+  "papers_per_second": 2790.482206907449,
+  "output_file": "/Users/warren/development/GBC/inventory_2022/unified_bioresource_pipeline/data/phase1_classification/pycaret_classification_98k_2025-12-02-83iwb9.csv"
+}

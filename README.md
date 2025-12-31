@@ -10,44 +10,48 @@
 
 This repository contains the curated output files from the bioresource discovery ML pipeline, which processes scientific literature to identify new bioinformatics databases and resources.
 
----
+### Final Results
 
-## Batch 1: 2011-2021
-
-Processing outputs from 149,943 papers queried from EuropePMC (publication years 2011-2021).
-
-### Summary Statistics
-
-| Metric | Value |
-|--------|-------|
-| Input papers | 149,943 |
-| Classification positives | 34,279 (22.9%) |
-| NER entities | ~100,000 |
-| Union papers (linguistic + SetFit) | 16,605 |
-| Final resources (aggressive) | 10,822 |
-| Final resources (balanced) | 5,979 |
-| Final resources (conservative) | 4,172 |
-| High-confidence final | 964 |
+| Output | Count | Description |
+|--------|-------|-------------|
+| **Novel Resources** | 1,370 | New bioresources not in baseline inventory |
+| **Baseline Matches** | 825 | Resources matching existing inventory |
+| **Total Processed** | 248,514 papers | From EPMC V5.1 query (2011-mid2025) |
 
 ---
 
 ## Directory Structure
 
 ```
-01_batch_2011_2021/
-├── 00_input/                    # Raw EPMC query results
-├── 01_paper_sets/               # Set A/B/C paper definitions
-├── 02_entity_mappings/          # Paper → entity mappings
-├── 03_entity_inventories/       # Unique entity catalogs
-├── 04_setfit_inference/         # SetFit classification results
-├── 05_deduplication/            # Dedup by profile
-│   ├── aggressive/              # Max recall (10,822)
-│   ├── balanced/                # Recommended (5,979)
-│   └── conservative/            # Max precision (4,172)
-├── 06_url_analysis/             # URL similarity analysis
-├── 07_false_positive_analysis/  # FP detection
-└── 08_final_outputs/            # Final inventories
+Inventory_2025_ubp_outputs/
+├── 00_baseline_references/     # Papers/entities matching existing inventory
+├── 01_batch_2011_2021/         # First batch (149,943 papers)
+├── 02_batch_2022_mid2025/      # Second batch (98,571 papers)
+├── 03_final_merged/            # Combined and deduplicated outputs
+└── 04_documentation/           # Data dictionaries and guides
 ```
+
+---
+
+## Processing Batches
+
+### Batch 1: 2011-2021 (149,943 papers)
+- **Input**: EPMC V5.1 query results
+- **Classification**: V2 RoBERTa + PyCaret ensemble
+- **NER**: V2 BERT + SpaCy Hybrid
+- **Final outputs**: 964-10,822 resources (by dedup profile)
+
+### Batch 2: 2022-mid2025 (98,571 papers)
+- **Input**: EPMC V5.1 query results
+- **Classification**: V2 RoBERTa + PyCaret ensemble
+- **NER**: SpaCy (68K entities) + V2 BERT (35K entities)
+- **Final outputs**: 1,510 resources with validated URLs
+
+### Final Merged
+- **Combined**: 2,506 resources from both batches
+- **After dedup**: 2,422 unique resources
+- **After baseline filtering**: 1,597 novel resources
+- **Final filtered**: 1,370 high-quality novel bioresources
 
 ---
 
@@ -55,44 +59,41 @@ Processing outputs from 149,943 papers queried from EuropePMC (publication years
 
 | File | Location | Rows | Description |
 |------|----------|------|-------------|
-| `01_input_query_results.csv` | `00_input/` | 149,943 | Raw EPMC query |
-| `01c_set_c_union.csv` | `01_paper_sets/` | 16,623 | Union of linguistic + SetFit papers |
-| `04a_setfit_all_results.csv` | `04_setfit_inference/` | 20,879 | All SetFit predictions |
-| `05c_set_c_final.csv` | `05_deduplication/aggressive/` | 10,822 | Aggressive dedup result |
-| `08c_set_c_union_final.csv` | `08_final_outputs/` | 4,084 | Final union resources |
-| `08d_linguistic_high_conf_final.csv` | `08_final_outputs/` | 964 | **High-confidence** resources |
+| `05a_final_filtered.csv` | `03_final_merged/05_final_output/` | 1,370 | **FINAL** - Novel bioresources |
+| `03a_confirmed_baseline_matches.csv` | `00_baseline_references/` | 825 | Confirmed baseline matches |
+| `10f_final_inventory_qc_fixed.csv` | `02_batch_2022_mid2025/10_quality_control/` | 1,510 | QC-fixed 2022-mid2025 inventory |
+| `08d_linguistic_high_conf_final.csv` | `01_batch_2011_2021/08_final_outputs/` | 964 | High-confidence 2011-2021 resources |
 
 ---
 
-## Paper Sets
-
-| Set | Criteria | Papers |
-|-----|----------|--------|
-| **Set A** | Linguistic score >= 3 | 8,683 |
-| **Set B** | SetFit confidence >= 0.60 | 7,938 |
-| **Set C** | Union of A + B | 16,623 |
-
----
-
-## Pipeline Phases
+## Pipeline Flow
 
 ```
-149,943 papers (EPMC V5.1 query)
+248,514 papers (EPMC V5.1)
     ↓ Phase 1: Classification (V2 RoBERTa + PyCaret)
-34,279 positive papers
     ↓ Phase 2: NER (V2 BERT + SpaCy Hybrid)
-~100,000 entities extracted
     ↓ Phase 3: Linguistic Scoring
-8,683 high-score papers (Set A)
     ↓ Phase 4: SetFit Classification
-7,938 introduction papers (Set B)
     ↓ Phase 5: Entity Mapping
-16,623 union papers (Set C)
     ↓ Phase 6: URL Scanning
     ↓ Phase 7: Deduplication (3 profiles)
-    ↓ Phase 8: Finalization
-    → 964 high-confidence resources
+    ↓ Phase 8: URL Recovery
+    ↓ Phase 9: Finalization
+    ↓ Cross-batch deduplication
+    ↓ Baseline filtering
+    → 1,370 novel bioresources
 ```
+
+---
+
+## Baseline Reference Files
+
+Papers and entities that match the existing baseline inventory are stored separately in `00_baseline_references/`. These can be used to:
+- Update existing inventory entries with new information
+- Track citations to known resources
+- Identify papers for literature reviews
+
+See `00_baseline_references/README.md` for details.
 
 ---
 
@@ -100,18 +101,21 @@ Processing outputs from 149,943 papers queried from EuropePMC (publication years
 
 Three deduplication stringency levels are available:
 
-| Profile | Strategy | Resources |
-|---------|----------|-----------|
-| **Aggressive** | Max recall | 10,822 |
-| **Balanced** | Recommended | 5,979 |
-| **Conservative** | Max precision | 4,172 |
+| Profile | Strategy | 2011-2021 | 2022-mid2025 |
+|---------|----------|-----------|--------------|
+| **Aggressive** | Max recall | 10,822 | 5,096 |
+| **Balanced** | Recommended | 5,979 | 1,708 |
+| **Conservative** | Max precision | 4,172 | 1,163 |
 
 ---
 
 ## Data Storage
 
-This repository uses Git LFS for large files (>50MB):
-- `01_input_query_results.csv` (~284 MB) - Raw EPMC query results
+This repository uses Git LFS for large files (>50MB). Key large files include:
+- Input query results (~284 MB, ~158 MB)
+- Classification results (~165 MB each)
+- NER results (~129 MB)
+- Fulltext cache (~107 MB)
 
 ---
 

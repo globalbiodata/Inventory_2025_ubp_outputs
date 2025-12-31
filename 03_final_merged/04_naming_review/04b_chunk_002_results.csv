@@ -1,0 +1,201 @@
+row_num,best_name,paper_titles,best_name_updated,full_name_updated,confidence,notes
+2,DRUMS,DRUMS: Disk Repository with Update Management and Select option for high throughput sequencing data.,DRUMS,Disk Repository with Update Management and Select option,HIGH,Explicit expansion: 'DRUMS: Disk Repository with Update Management and Select option'
+3,Pathos,Pathos: a web facility that uses metabolic maps to display experimental changes in metabolites identified by mass spectrometry.,Pathos,Pathos,HIGH,No explicit expansion in title
+4,ChromoZoom,"ChromoZoom: a flexible, fluid, web-based genome browser.",ChromoZoom,ChromoZoom,HIGH,No explicit expansion in title
+5,SIDER,The SIDER database of drugs and side effects.,SIDER,SIDER,HIGH,No explicit expansion in title
+6,RaptorX,RaptorX server: a resource for template-based protein structure modeling.,RaptorX,RaptorX,HIGH,No explicit expansion in title
+7,EDGAR,EDGAR 2.0: an enhanced software platform for comparative gene content analyses.,EDGAR,EDGAR,HIGH,No explicit expansion in title
+8,BioMart,"The BioMart community portal: an innovative alternative to large, centralized data repositories.",BioMart,BioMart,HIGH,No explicit expansion in title
+9,RDmap,RDmap: a map for exploring rare diseases.,RDmap,RDmap,HIGH,No explicit expansion in title
+10,ConsRM,"ConsRM: collection and large-scale prediction of the evolutionarily conserved RNA methylation sites, with implications for the functional epitranscriptome.",ConsRM,ConsRM,HIGH,No explicit expansion in title
+11,InteractoMIX,Galaxy InteractoMIX: An Integrated Computational Platform for the Study of Protein-Protein Interaction Data.,InteractoMIX,InteractoMIX,HIGH,No explicit expansion in title
+12,RDMLdb,RDML-Ninja and RDMLdb for standardized exchange of qPCR data.,RDMLdb,RDMLdb,HIGH,No explicit expansion in title
+13,Kakila,"Kakila database: Towards a FAIR community approved database of cetacean presence in the waters of the Guadeloupe Archipelago, based on citizen science.",Kakila,Kakila,HIGH,No explicit expansion in title
+14,lycositeAtlas,<i>N</i>-GlycositeAtlas: a database resource for mass spectrometry-based human N-linked glycoprotein and glycosylation site mapping.,lycositeAtlas,lycositeAtlas,HIGH,No explicit expansion in title
+15,Metabolomics Workbench,"Metabolomics Workbench: An international repository for metabolomics data and metadata, metabolite standards, protocols, tutorials and training, and analysis tools.",Metabolomics Workbench,Metabolomics Workbench,HIGH,No explicit expansion in title
+16,CHRS,"The CHRS Data Portal, an easily accessible public repository for PERSIANN global satellite precipitation data.",CHRS,CHRS,HIGH,No explicit expansion in title
+17,EnhancerDB,EnhancerDB: a resource of transcriptional regulation in the context of enhancers.,EnhancerDB,EnhancerDB,HIGH,No explicit expansion in title
+18,MalarImDB,MalarImDB: an open-access literature-based malaria immunology database.,MalarImDB,MalarImDB,HIGH,No explicit expansion in title
+19,VDJbase,VDJbase: an adaptive immune receptor genotype and haplotype database.,VDJbase,VDJbase,HIGH,No explicit expansion in title
+20,RVDB-prot,"RVDB-prot, a reference viral protein database and its HMM profiles.",RVDB-prot,RVDB-prot,HIGH,No explicit expansion in title
+21,EORNA,"EORNA, a barley gene and transcript abundance database.",EORNA,EORNA,HIGH,No explicit expansion in title
+22,ATtRACT,ATtRACT-a database of RNA-binding proteins and associated motifs.,ATtRACT,ATtRACT,HIGH,No explicit expansion in title
+23,BIONDA,BIONDA: a free database for a fast information on published biomarkers.,BIONDA,BIONDA,HIGH,No explicit expansion in title
+24,GPCRmd,GPCRmd uncovers the dynamics of the 3D-GPCRome.,GPCRmd,GPCRmd,HIGH,No explicit expansion in title
+25,ConjuPepDB,ConjuPepDB: a database of peptide-drug conjugates.,ConjuPepDB,ConjuPepDB,HIGH,No explicit expansion in title
+26,MassIVE.quant,MassIVE.quant: a community resource of quantitative mass spectrometry-based proteomics datasets.,MassIVE.quant,MassIVE.quant,HIGH,No explicit expansion in title
+27,OncoCis,OncoCis: annotation of cis-regulatory mutations in  cancer.,OncoCis,OncoCis,HIGH,No explicit expansion in title
+28,PaIntDB,PaIntDB: network-based omics integration and visualization using protein-protein interactions in Pseudomonas aeruginosa.,PaIntDB,PaIntDB,HIGH,No explicit expansion in title
+29,eSkip-Finder,eSkip-Finder: a machine learning-based web application and database to identify the optimal sequences of antisense oligonucleotides for exon skipping.,eSkip-Finder,eSkip-Finder,HIGH,No explicit expansion in title
+30,DIA-DB,DIA-DB: A Database and Web Server for the Prediction of Diabetes Drugs.,DIA-DB,DIA-DB,HIGH,No explicit expansion in title
+31,PolyTB,PolyTB: a genomic variation map for Mycobacterium tuberculosis.,PolyTB,PolyTB,HIGH,No explicit expansion in title
+32,CCMRD,CCMRD: a solid-state NMR database for complex carbohydrates.,CCMRD,CCMRD,HIGH,No explicit expansion in title
+33,ExportAid,ExportAid: database of RNA elements regulating nuclear RNA export in mammals.,ExportAid,ExportAid,HIGH,No explicit expansion in title
+34,Mitimpact (bioinformatics),MitImpact: an exhaustive collection of pre-computed pathogenicity predictions of human mitochondrial non-synonymous variants.,Mitimpact (bioinformatics),Mitimpact (bioinformatics),HIGH,No explicit expansion in title
+35,CORDITE,CORDITE: The Curated CORona Drug InTERactions Database for SARS-CoV-2.,CORDITE,CORDITE,HIGH,No explicit expansion in title
+36,EffectorK,"EffectorK, a comprehensive resource to mine for Ralstonia, Xanthomonas, and other published effector interactors in the Arabidopsis proteome.",EffectorK,EffectorK,HIGH,No explicit expansion in title
+37,IMNGS,IMNGS: A comprehensive open resource of processed 16S rRNA microbial profiles for ecology and diversity studies.,IMNGS,IMNGS,HIGH,No explicit expansion in title
+38,CRISPRminer,CRISPRminer is a knowledge base for exploring CRISPR-Cas systems in microbe and phage interactions.,CRISPRminer,CRISPRminer,HIGH,No explicit expansion in title
+39,OverCOVID,Bioinformatics resources facilitate understanding and harnessing clinical research of SARS-CoV-2. | OverCOVID: an integrative web portal for SARS-CoV-2 bioinformatics resources.,OverCOVID,OverCOVID,HIGH,No explicit expansion in title
+40,piRNA-IPdb,piRNA-IPdb: a PIWI-bound piRNAs database to mining NGS sncRNA data and beyond.,piRNA-IPdb,piRNA-IPdb,HIGH,No explicit expansion in title
+41,S2RSLDB,"S2RSLDB: a comprehensive manually curated, internet-accessible database of the sigma-2 receptor selective ligands.",S2RSLDB,S2RSLDB,HIGH,No explicit expansion in title
+42,openSNP,openSNP--a crowdsourced web resource for personal genomics.,openSNP,openSNP,HIGH,No explicit expansion in title
+43,SCAN360,"SCAN360: A Resource for a 360-Degree View of Cancer Prevention, Risk, and Survival.",SCAN360,SCAN360,HIGH,No explicit expansion in title
+44,iGMDR,iGMDR: Integrated Pharmacogenetic Resource Guide to Cancer Therapy and Research.,iGMDR,iGMDR,HIGH,No explicit expansion in title
+45,LeishInDB,LeishInDB: A web-accessible resource for small molecule inhibitors against Leishmania sp.,LeishInDB,LeishInDB,HIGH,No explicit expansion in title
+46,EK3D,EK3D: an E. coli K antigen 3-dimensional structure database.,EK3D,EK3D,HIGH,No explicit expansion in title
+47,HelexKids,HelexKids: A word frequency database for Greek and Cypriot primary school children.,HelexKids,HelexKids,HIGH,No explicit expansion in title
+48,MetaPhOrs,"MetaPhOrs 2.0: integrative, phylogeny-based inference of orthology and paralogy across the tree of life.",MetaPhOrs,MetaPhOrs,HIGH,No explicit expansion in title
+49,sdAb-DB,sdAb-DB: The Single Domain Antibody Database.,sdAb-DB,sdAb-DB,HIGH,No explicit expansion in title
+50,AMRmap,AMRmap: An Interactive Web Platform for Analysis of Antimicrobial Resistance Surveillance Data in Russia.,AMRmap,AMRmap,HIGH,No explicit expansion in title
+51,COVID-KOP,COVID-KOP: integrating emerging COVID-19 data with the ROBOKOP database.,COVID-KOP,COVID-KOP,HIGH,No explicit expansion in title
+52,MaveQuest,MaveQuest: a web resource for planning experimental tests of human variant effects.,MaveQuest,MaveQuest,HIGH,No explicit expansion in title
+53,EpigenCentral,EpigenCentral: Portal for DNA methylation data analysis and classification in rare diseases.,EpigenCentral,EpigenCentral,HIGH,No explicit expansion in title
+54,iModulonDB,iModulonDB: a knowledgebase of microbial transcriptional regulation derived from machine learning.,iModulonDB,iModulonDB,HIGH,No explicit expansion in title
+55,TOFF,"TOFF, a database of traits of fish to promote advances in fish aquaculture.",TOFF,TOFF,HIGH,No explicit expansion in title
+56,BASS,A new type of pictorial database: The Bicolor Affective Silhouettes and Shapes (BASS).,BASS,Bicolor Affective Silhouettes and Shapes,HIGH,Explicit expansion: 'Bicolor Affective Silhouettes and Shapes (BASS)'
+57,CoV-AbDab,CoV-AbDab: the coronavirus antibody database.,CoV-AbDab,CoV-AbDab,HIGH,No explicit expansion in title
+58,MicrobiomeDB,"MicrobiomeDB: a systems biology platform for integrating, mining and analyzing microbiome experiments.",MicrobiomeDB,MicrobiomeDB,HIGH,No explicit expansion in title
+59,G4RNA,G4RNA: an RNA G-quadruplex database.,G4RNA,G4RNA,HIGH,No explicit expansion in title
+60,DiseaseConnect,DiseaseConnect: a comprehensive web server for mechanism-based disease-disease connections.,DiseaseConnect,DiseaseConnect,HIGH,No explicit expansion in title
+61,MBKbase,MBKbase for rice: an integrated omics knowledgebase for molecular breeding in rice.,MBKbase,MBKbase,HIGH,No explicit expansion in title
+62,RBPTD,RBPTD: a database of cancer-related RNA-binding proteins in humans.,RBPTD,RBPTD,HIGH,No explicit expansion in title
+63,BioWardrobe,BioWardrobe: an integrated platform for analysis of epigenomics and transcriptomics data.,BioWardrobe,BioWardrobe,HIGH,No explicit expansion in title
+64,AlloRep,"AlloRep: A Repository of Sequence, Structural and Mutagenesis Data for the LacI/GalR Transcription Regulators. | Data on publications, structural analyses, and queries used to build and utilize the AlloRep database.",AlloRep,AlloRep,HIGH,No explicit expansion in title
+65,HormoneBase,"HormoneBase, a population-level database of steroid hormone levels across vertebrates.",HormoneBase,HormoneBase,HIGH,No explicit expansion in title
+66,WAUC,WAUC: A Multi-Modal Database for Mental Workload Assessment Under Physical Activity.,WAUC,WAUC,HIGH,No explicit expansion in title
+67,FaceBase,The FaceBase Consortium: a comprehensive program to facilitate craniofacial research.,FaceBase,FaceBase,HIGH,No explicit expansion in title
+68,NeuroElectro,NeuroElectro: a window to the world's neuron electrophysiology data.,NeuroElectro,NeuroElectro,HIGH,No explicit expansion in title
+69,KrillDB,KrillDB: A de novo transcriptome database for the Antarctic krill (Euphausia superba).,KrillDB,KrillDB,HIGH,No explicit expansion in title
+70,InterRNA,InterRNA: a database of base interactions in RNA structures.,InterRNA,InterRNA,HIGH,No explicit expansion in title
+71,TASmania,TASmania: A bacterial Toxin-Antitoxin Systems database.,TASmania,TASmania,HIGH,No explicit expansion in title
+72,PopAmaranth,PopAmaranth: a population genetic genome browser for grain amaranths and their wild relatives.,PopAmaranth,PopAmaranth,HIGH,No explicit expansion in title
+73,GWIPS-viz,GWIPS-viz: development of a ribo-seq genome browser.,GWIPS-viz,GWIPS-viz,HIGH,No explicit expansion in title
+74,PopHuman,PopHuman: the human population genomics browser.,PopHuman,PopHuman,HIGH,No explicit expansion in title
+75,LANaPD,Towards a unified Latin American Natural Products Database: LANaPD.,LANaPD,LANaPD,HIGH,No explicit expansion in title
+76,PrionScan,PrionScan: an online database of predicted prion domains in complete proteomes.,PrionScan,PrionScan,HIGH,No explicit expansion in title
+77,YummyData,YummyData: providing high-quality open life science data.,YummyData,YummyData,HIGH,No explicit expansion in title
+78,WellExplorer,WellExplorer: an integrative resource linking hydraulic fracturing chemicals with hormonal pathways and geographic location.,WellExplorer,WellExplorer,HIGH,No explicit expansion in title
+79,CUPP,Conserved unique peptide patterns (CUPP) online platform: peptide-based functional annotation of carbohydrate active enzymes.,CUPP,Conserved unique peptide patterns,HIGH,Explicit expansion: 'Conserved unique peptide patterns (CUPP)'
+80,ADAPTABLE,ADAPTABLE: a comprehensive web platform of antimicrobial peptides tailored to the user's research.,ADAPTABLE,ADAPTABLE,HIGH,No explicit expansion in title
+81,LDlink,LDlink: a web-based application for exploring population-specific haplotype structure and linking correlated alleles of possible functional variants.,LDlink,LDlink,HIGH,No explicit expansion in title
+82,e!DAL,"e!DAL--a framework to store, share and publish research data.",e!DAL,e!DAL,HIGH,No explicit expansion in title
+83,STOREFISH,STOREFISH 2.0: a database on the reproductive strategies of teleost fishes.,STOREFISH,STOREFISH,HIGH,No explicit expansion in title
+84,RMgmDB,Standardization in generating and reporting genetically modified rodent malaria parasites: the RMgmDB database.,RMgmDB,RMgmDB,HIGH,No explicit expansion in title
+85,Cydrasil 3,"Cydrasil 3, a curated 16S rRNA gene reference package and web app for cyanobacterial phylogenetic placement.",Cydrasil 3,Cydrasil 3,HIGH,No explicit expansion in title
+86,LUMINOUS,LUMINOUS database: lumbar multifidus muscle segmentation from ultrasound images.,LUMINOUS,LUMINOUS,HIGH,No explicit expansion in title
+87,multiMiR,The multiMiR R package and database: integration of microRNA-target interactions along with their disease and drug associations.,multiMiR,multiMiR,HIGH,No explicit expansion in title
+88,AQUA-MER,The AQUA-MER databases and aqueous speciation server: A web resource for multiscale modeling of mercury speciation.,AQUA-MER,AQUA-MER,HIGH,No explicit expansion in title
+89,Intensification,Intensification: A Resource for Amplifying Population-Genetic Signals with Protein Repeats.,Intensification,Intensification,HIGH,No explicit expansion in title
+90,DVH Analytics,DVH Analytics: A DVH database for clinicians and researchers.,DVH Analytics,DVH Analytics,HIGH,No explicit expansion in title
+91,PepBind,PepBind: a comprehensive database and computational tool for analysis of protein-peptide interactions.,PepBind,PepBind,HIGH,No explicit expansion in title
+92,scRNA-tools,Exploring the single-cell RNA-seq analysis landscape with the scRNA-tools database.,scRNA-tools,scRNA-tools,HIGH,No explicit expansion in title
+93,Ligandbook,Ligandbook: an online repository for small and drug-like molecule force field parameters.,Ligandbook,Ligandbook,HIGH,No explicit expansion in title
+94,ImmtorLig_DB,ImmtorLig_DB: repertoire of virtually screened small molecules against immune receptors to bolster host immunity.,ImmtorLig_DB,ImmtorLig_DB,HIGH,No explicit expansion in title
+95,Cpf1-Database,Cpf1-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cpf1.,Cpf1-Database,Cpf1-Database,HIGH,No explicit expansion in title
+96,MorphDB,MorphDB: Prioritizing Genes for Specialized Metabolism Pathways and Gene Ontology Categories in Plants.,MorphDB,MorphDB,HIGH,No explicit expansion in title
+97,IrGO,IrGO: Iranian traditional medicine General Ontology and knowledge base.,IrGO,Iranian traditional medicine General Ontology and knowledge base,HIGH,Explicit expansion: 'IrGO: Iranian traditional medicine General Ontology and knowledge base'
+98,ANDI,Advanced Neuropsychological Diagnostics Infrastructure (ANDI): A Normative Database Created from Control Datasets.,ANDI,Advanced Neuropsychological Diagnostics Infrastructure,HIGH,Explicit expansion: 'Advanced Neuropsychological Diagnostics Infrastructure (ANDI)'
+99,LexiRumah,LexiRumah: An online lexical database of the Lesser Sunda Islands.,LexiRumah,LexiRumah,HIGH,No explicit expansion in title
+100,Oncopression,Oncopression: gene expression compendium for cancer with matched normal tissues.,Oncopression,Oncopression,HIGH,No explicit expansion in title
+101,STRidER,Recommendations of the DNA Commission of the International Society for Forensic Genetics (ISFG) on quality control of autosomal Short Tandem Repeat allele frequency databasing (STRidER).,STRidER,STRidER,HIGH,No explicit expansion in title
+102,CiteAb,CiteAb: a searchable antibody database that ranks antibodies by the number of times they have been cited.,CiteAb,CiteAb,HIGH,No explicit expansion in title
+103,GenColors,GenColors-based comparative genome databases for small eukaryotic genomes.,GenColors,GenColors,HIGH,No explicit expansion in title
+104,PlanNET,PlanNET: homology-based predicted interactome for multiple planarian transcriptomes.,PlanNET,PlanNET,HIGH,No explicit expansion in title
+105,HPVomics,HPVomics: An integrated resource for the human papillomavirus epitome and therapeutics.,HPVomics,HPVomics,HIGH,No explicit expansion in title
+106,ABCkb,The Aliment to Bodily Condition knowledgebase (ABCkb): a database connecting plants and human health.,ABCkb,Aliment to Bodily Condition knowledgebase,HIGH,Explicit expansion: 'Aliment to Bodily Condition knowledgebase (ABCkb)'
+107,PlantRegMap,PlantRegMap: charting functional regulatory maps in plants.,PlantRegMap,PlantRegMap,HIGH,No explicit expansion in title
+108,miRTargetLink,miRTargetLink 2.0-interactive miRNA target gene and target pathway networks.,miRTargetLink,miRTargetLink,HIGH,No explicit expansion in title
+109,IPSI,"Database of Italian present-day stress indicators, IPSI 1.4.",IPSI,IPSI,HIGH,No explicit expansion in title
+110,TheCellMap.org,TheCellMap.org: A Web-Accessible Database for Visualizing and Mining the Global Yeast Genetic Interaction Network.,TheCellMap.org,TheCellMap.org,HIGH,No explicit expansion in title
+111,THE-DB,THE-DB: a threading model database for comparative protein structure analysis of the E. coli K12 and human proteomes.,THE-DB,THE-DB,HIGH,No explicit expansion in title
+112,Interactome INSIDER,Interactome INSIDER: a structural interactome browser for genomic studies.,Interactome INSIDER,Interactome INSIDER,HIGH,No explicit expansion in title
+113,ISU FLUture,ISU FLUture: a veterinary diagnostic laboratory web-based platform to monitor the temporal genetic patterns of Influenza A virus in swine.,ISU FLUture,ISU FLUture,HIGH,No explicit expansion in title
+114,PhyloFish,Gene evolution and gene expression after whole genome duplication in fish: the PhyloFish database.,PhyloFish,PhyloFish,HIGH,No explicit expansion in title
+115,Kinase Atlas,Kinase Atlas: Druggability Analysis of Potential Allosteric Sites in Kinases.,Kinase Atlas,Kinase Atlas,HIGH,No explicit expansion in title
+116,foodDB,"Nutrient composition databases in the age of big data: foodDB, a comprehensive, real-time database infrastructure.",foodDB,foodDB,HIGH,No explicit expansion in title
+117,ReconMap,ReconMap: an interactive visualization of human metabolism.,ReconMap,ReconMap,HIGH,No explicit expansion in title
+118,art.pics,art.pics Database: An Open Access Database for Art Stimuli for Experimental Research.,art.pics,art.pics,HIGH,No explicit expansion in title
+119,molecular epidemiology database,A public HTLV-1 molecular epidemiology database for sequence management and data mining.,molecular epidemiology database,molecular epidemiology database,HIGH,No explicit expansion in title
+120,CART-WHEEL.org,CART-WHEEL.org: An Ethically Approved Online Database for Patient-Entered Data to Facilitate Rare Cancer Research.,CART-WHEEL.org,CART-WHEEL.org,HIGH,No explicit expansion in title
+121,BCommons,Knowledge Base Commons (KBCommons) v1.1: a universal framework for multi-omics data integration and biological discoveries.,BCommons,BCommons,HIGH,No explicit expansion in title
+122,IMG,Improving microbial genome annotations in an integrated database context. | IMG/M 4 version of the integrated metagenome comparative analysis system.,IMG,IMG,HIGH,No explicit expansion in title
+123,Plant PTM Viewer,"The Plant PTM Viewer, a central resource for exploring plant protein modifications.",Plant PTM Viewer,Plant PTM Viewer,HIGH,No explicit expansion in title
+124,HExpoChem,HExpoChem: a systems biology resource to explore human exposure to chemicals.,HExpoChem,HExpoChem,HIGH,No explicit expansion in title
+125,DREIMT,DREIMT: a drug repositioning database and prioritization tool for immunomodulation.,DREIMT,DREIMT,HIGH,No explicit expansion in title
+126,NaPLeS,NaPLeS: a natural products likeness scorer-web application and database.,NaPLeS,NaPLeS,HIGH,No explicit expansion in title
+127,OpenTrials,OpenTrials: towards a collaborative open database of all available information on all clinical trials.,OpenTrials,OpenTrials,HIGH,No explicit expansion in title
+128,TOXiTAXi,TOXiTAXi: a web resource for toxicity of Bacillus thuringiensis protein compositions towards species of various taxonomic groups.,TOXiTAXi,TOXiTAXi,HIGH,No explicit expansion in title
+129,Phi-Lex,Phi-square Lexical Competition Database (Phi-Lex): an online tool for quantifying auditory and visual lexical competition.,Phi-Lex,Phi-Lex,HIGH,No explicit expansion in title
+130,VIRmiRNA,VIRmiRNA: a comprehensive resource for experimentally validated viral miRNAs and their targets.,VIRmiRNA,VIRmiRNA,HIGH,No explicit expansion in title
+131,Pofatu,"Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials.",Pofatu,Pofatu,HIGH,No explicit expansion in title
+132,DALIA,DALIA- a comprehensive resource of Disease Alleles in Arab population.,DALIA,DALIA,HIGH,No explicit expansion in title
+133,CELL5M,CELL5M: A geospatial database of agricultural indicators for Africa South of the Sahara.,CELL5M,CELL5M,HIGH,No explicit expansion in title
+134,Gene2Function,Gene2Function: An Integrated Online Resource for Gene Function Discovery.,Gene2Function,Gene2Function,HIGH,No explicit expansion in title
+135,OpenNeuro,The OpenNeuro resource for sharing of neuroscience data.,OpenNeuro,OpenNeuro,HIGH,No explicit expansion in title
+136,LmSmdB,LmSmdB: an integrated database for metabolic and gene regulatory network in Leishmania major and Schistosoma mansoni.,LmSmdB,LmSmdB,HIGH,No explicit expansion in title
+137,PlasmoView,PlasmoView: a web-based resource to visualise global Plasmodium falciparum genomic variation.,PlasmoView,PlasmoView,HIGH,No explicit expansion in title
+138,ReCCaP,The Repository for Caribbean Cancer Publications (ReCCaP): Database Development and Publication Trends 2004-2019.,ReCCaP,ReCCaP,HIGH,No explicit expansion in title
+139,ViralZone,ViralZone: recent updates to the virus knowledge resource.,ViralZone,ViralZone,HIGH,No explicit expansion in title
+140,AmpuBase,AmpuBase: a transcriptome database for eight species of apple snails (Gastropoda: Ampullariidae).,AmpuBase,AmpuBase,HIGH,No explicit expansion in title
+141,SilkOrganPDB,Proteomic Identification of <i>Bombyx mori</i> Organelles Using the Engineered Ascorbate Peroxidase APEX and Development of Silkworm Organelle Proteome Database (SilkOrganPDB).,SilkOrganPDB,SilkOrganPDB,HIGH,No explicit expansion in title
+142,TGIF-DB,TGIF-DB: terse genomics interface for developing botany.,TGIF-DB,terse genomics interface,HIGH,Explicit expansion: 'TGIF-DB: terse genomics interface'
+143,NeuroTransDB,NeuroTransDB: highly curated and structured transcriptomic metadata for neurodegenerative diseases.,NeuroTransDB,NeuroTransDB,HIGH,No explicit expansion in title
+144,KCGS,The Kinase Chemogenomic Set (KCGS): An Open Science Resource for Kinase Vulnerability Identification.,KCGS,Kinase Chemogenomic Set,HIGH,Explicit expansion: 'Kinase Chemogenomic Set (KCGS)'
+145,HEATSTER,HEATSTER: A Database and Web Server for Identification and Classification of Heat Stress Transcription Factors in Plants.,HEATSTER,HEATSTER,HIGH,No explicit expansion in title
+146,MIMIC-III,"MIMIC-III, a freely accessible critical care database.",MIMIC-III,MIMIC-III,HIGH,No explicit expansion in title
+147,Myo-REG,Myo-REG: A Portal for Signaling Interactions in Muscle Regeneration.,Myo-REG,Myo-REG,HIGH,No explicit expansion in title
+148,PRED+CT,The Patient Repository for EEG Data + Computational Tools (PRED+CT).,PRED+CT,Patient Repository for EEG Data + Computational Tools,HIGH,Explicit expansion: 'Patient Repository for EEG Data + Computational Tools (PRED+CT)'
+149,PRECISE,"The PRECISE (PREgnancy Care Integrating translational Science, Everywhere) database: open-access data collection in maternal and newborn health.",PRECISE,PRECISE,HIGH,No explicit expansion in title
+150,UnoViS,UnoViS: the MedIT public unobtrusive vital signs database.,UnoViS,UnoViS,HIGH,No explicit expansion in title
+151,ZikaVR,"ZikaVR: An Integrated Zika Virus Resource for Genomics, Proteomics, Phylogenetic and Therapeutic Analysis.",ZikaVR,ZikaVR,HIGH,No explicit expansion in title
+152,SYNS,The Southampton-York Natural Scenes (SYNS) dataset: Statistics of surface attitude.,SYNS,Southampton-York Natural Scenes,HIGH,Explicit expansion: 'Southampton-York Natural Scenes (SYNS)'
+153,MIMIC-CXR,"MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports.",MIMIC-CXR,MIMIC-CXR,HIGH,No explicit expansion in title
+154,NeuroCirc,NeuroCirc: an integrative resource of circular RNA expression in the human brain.,NeuroCirc,NeuroCirc,HIGH,No explicit expansion in title
+155,PolyprOnline,PolyprOnline: polyproline helix II and secondary structure assignment database.,PolyprOnline,PolyprOnline,HIGH,No explicit expansion in title
+156,BioSWR,BioSWR--semantic web services registry for bioinformatics.,BioSWR,BioSWR,HIGH,No explicit expansion in title
+157,MiTPeptideDB,MiTPeptideDB: a proteogenomic resource for the discovery of novel peptides.,MiTPeptideDB,MiTPeptideDB,HIGH,No explicit expansion in title
+158,EcRBPome,EcRBPome: a comprehensive database of all known E. coli RNA-binding proteins.,EcRBPome,EcRBPome,HIGH,No explicit expansion in title
+159,U-Limb,"U-Limb: A multi-modal, multi-center database on arm motion control in healthy and post-stroke conditions.",U-Limb,U-Limb,HIGH,No explicit expansion in title
+160,BloodSpot,BloodSpot: a database of gene expression profiles and transcriptional programs for healthy and malignant haematopoiesis. | BloodSpot: a database of healthy and malignant haematopoiesis updated with purified and single cell mRNA sequencing profiles.,BloodSpot,BloodSpot,HIGH,No explicit expansion in title
+161,MUSTARD,MUSTARD-a comprehensive resource of mutation-specific therapies in cancer.,MUSTARD,MUSTARD,HIGH,No explicit expansion in title
+162,SpliceSeq,SpliceSeq: a resource for analysis and visualization of RNA-Seq data on alternative splicing and its functional impacts.,SpliceSeq,SpliceSeq,HIGH,No explicit expansion in title
+163,REACHES,Construction of the REACHES climate database based on historical documents of China.,REACHES,REACHES,HIGH,No explicit expansion in title
+164,NeuroVault,NeuroVault.org: a web-based repository for collecting and sharing unthresholded statistical maps of the human brain.,NeuroVault,NeuroVault,HIGH,No explicit expansion in title
+165,GoMAP,The Geogenomic Mutational Atlas of Pathogens (GoMAP) web system.,GoMAP,GoMAP,HIGH,No explicit expansion in title
+166,TransNewGuinea.org,TransNewGuinea.org: An Online Database of New Guinea Languages.,TransNewGuinea.org,TransNewGuinea.org,HIGH,No explicit expansion in title
+167,PANGAEA,The PANGAEA mineralogical database.,PANGAEA,PANGAEA,HIGH,No explicit expansion in title
+168,FORUM,FORUM: building a Knowledge Graph from public databases and scientific literature to extract associations between chemicals and diseases.,FORUM,FORUM,HIGH,No explicit expansion in title
+169,TASUKE,TASUKE+: a web-based platform for exploring genome-wide association studies results and large-scale resequencing data.,TASUKE,TASUKE,HIGH,No explicit expansion in title
+170,EFI,"The EFI Web Resource for Genomic Enzymology Tools: Leveraging Protein, Genome, and Metagenome Databases to Discover Novel Enzymes and Metabolic Pathways.",EFI,EFI,HIGH,No explicit expansion in title
+171,SoyCSN,SoyCSN: Soybean context-specific network analysis and prediction based on tissue-specific transcriptome data.,SoyCSN,SoyCSN,HIGH,No explicit expansion in title
+172,CHOmine,CHOmine: an integrated data warehouse for CHO systems biology and modeling.,CHOmine,CHOmine,HIGH,No explicit expansion in title
+173,SRMAtlas,Human SRMAtlas: A Resource of Targeted Assays to Quantify the Complete Human Proteome.,SRMAtlas,SRMAtlas,HIGH,No explicit expansion in title
+174,MGOB,The Methylotroph Gene Order Browser (MGOB) reveals conserved synteny and ancestral centromere locations in the yeast family Pichiaceae.,MGOB,Methylotroph Gene Order Browser,HIGH,Explicit expansion: 'Methylotroph Gene Order Browser (MGOB)'
+175,HuPSON,HuPSON: the human physiology simulation ontology.,HuPSON,HuPSON,HIGH,No explicit expansion in title
+176,HIT-COVID,"HIT-COVID, a global database tracking public health interventions to COVID-19.",HIT-COVID,HIT-COVID,HIGH,No explicit expansion in title
+177,ProteomeTools,Building ProteomeTools based on a complete synthetic human proteome.,ProteomeTools,ProteomeTools,HIGH,No explicit expansion in title
+178,PlateletWeb,PlateletWeb: a systems biologic analysis of signaling networks in human platelets.,PlateletWeb,PlateletWeb,HIGH,No explicit expansion in title
+179,CPSYMAP,Computational Psychiatry Research Map (CPSYMAP): A New Database for Visualizing Research Papers.,CPSYMAP,CPSYMAP,HIGH,No explicit expansion in title
+180,Mouse Intestinal Bacterial Collection,The Mouse Intestinal Bacterial Collection (miBC) provides host-specific insight into cultured diversity and functional potential of the gut microbiota.,Mouse Intestinal Bacterial Collection,Mouse Intestinal Bacterial Collection,HIGH,No explicit expansion in title
+181,PICS,"Factor Xa subsite mapping by proteome-derived peptide libraries improved using WebPICS, a resource for proteomic identification of cleavage sites.",PICS,PICS,HIGH,No explicit expansion in title
+182,UniBind,A map of direct TF-DNA interactions in the human genome. | UniBind: maps of high-confidence direct TF-DNA interactions across nine species.,UniBind,UniBind,HIGH,No explicit expansion in title
+183,BaAMPs,BaAMPs: the database of biofilm-active antimicrobial peptides.,BaAMPs,BaAMPs,HIGH,No explicit expansion in title
+184,Plant editosome database,Plant editosome database: a curated database of RNA editosome in plants.,Plant editosome database,Plant editosome database,HIGH,No explicit expansion in title
+185,JCGA,JCGA: the Japanese version of the Cancer Genome Atlas and its contribution to the interpretation of gene alterations detected in clinical cancer genome sequencing.,JCGA,JCGA,HIGH,No explicit expansion in title
+186,Veterans Affairs Precision Oncology Data Repository,"The Veterans Affairs Precision Oncology Data Repository, a Clinical, Genomic, and Imaging Research Database.",Veterans Affairs Precision Oncology Data Repository,Veterans Affairs Precision Oncology Data Repository,HIGH,No explicit expansion in title
+187,Y-STR Poland,[Y-STR Poland--a database for evaluation of evidence value in forensic genetics].,Y-STR Poland,Y-STR Poland,HIGH,No explicit expansion in title
+188,VianniaTopes,VianniaTopes: a database of predicted immunogenic peptides for Leishmania (Viannia) species.,VianniaTopes,VianniaTopes,HIGH,No explicit expansion in title
+189,SFARI Gene,SFARI Gene 2.0: a community-driven knowledgebase for the autism spectrum disorders (ASDs).,SFARI Gene,SFARI Gene,HIGH,No explicit expansion in title
+190,FORMIDABEL,FORMIDABEL: The Belgian Ants Database.,FORMIDABEL,FORMIDABEL,HIGH,No explicit expansion in title
+191,miRSystem,miRSystem: an integrated system for characterizing enriched functions and pathways of microRNA targets.,miRSystem,miRSystem,HIGH,No explicit expansion in title
+192,ClimCKmap,"ClimCKmap, a spatially, temporally and climatically explicit distribution database for the Italian fauna.",ClimCKmap,ClimCKmap,HIGH,No explicit expansion in title
+193,ChemMaps.com,Exploring drug space with ChemMaps.com.,ChemMaps.com,ChemMaps.com,HIGH,No explicit expansion in title
+194,DEST,Drosophila Evolution over Space and Time (DEST): A New Population Genomics Resource.,DEST,Drosophila Evolution over Space and Time,HIGH,Explicit expansion: 'Drosophila Evolution over Space and Time (DEST)'
+195,ReproGenomics Viewer,The ReproGenomics Viewer: an integrative cross-species toolbox for the reproductive science community. | The ReproGenomics Viewer: a multi-omics and cross-species resource compatible with single-cell studies for the reproductive science community.,ReproGenomics Viewer,ReproGenomics Viewer,HIGH,No explicit expansion in title
+196,Cam-CAN,"The Cambridge Centre for Ageing and Neuroscience (Cam-CAN) data repository: Structural and functional MRI, MEG, and cognitive data from a cross-sectional adult lifespan sample.",Cam-CAN,Cam-CAN,HIGH,No explicit expansion in title
+197,AACT,The database for aggregate analysis of ClinicalTrials.gov (AACT) and subsequent regrouping by clinical specialty.,AACT,AACT,HIGH,No explicit expansion in title
+198,BioAcoustica,BioAcoustica: a free and open repository and analysis platform for bioacoustics.,BioAcoustica,BioAcoustica,HIGH,No explicit expansion in title
+199,Drug/Cell-line Browser,Drug/Cell-line Browser: interactive canvas visualization of cancer drug/cell-line viability assay datasets.,Drug/Cell-line Browser,Drug/Cell-line Browser,HIGH,No explicit expansion in title
+200,SPDI,SPDI: data model for variants and applications at NCBI.,SPDI,SPDI,HIGH,No explicit expansion in title
+201,NeuroGT,NeuroGT: A brain atlas of neurogenic tagging CreER drivers for birthdate-based classification and manipulation of mouse neurons.,NeuroGT,NeuroGT,HIGH,No explicit expansion in title

@@ -1,0 +1,201 @@
+row_num,best_name,paper_titles,best_name_updated,full_name_updated,confidence,notes
+1,MINTbase,MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments. | MINTbase v2.0: a comprehensive database for tRNA-derived fragments that includes nuclear and mitoch...,MINTbase,MINTbase,HIGH,No expansion in title - using short name
+2,NCBI,Fungal genome resources at NCBI. | Database Resources of the National Center for Biotechnology Information. | Database resources of the National Center for Biotechnology Information. | Database resour...,NCBI,NCBI,HIGH,No expansion in title - using short name
+3,DEG,"DEG 10, an update of the database of essential genes that includes both protein-coding genes and noncoding genomic elements. | Gene essentiality analysis based on DEG 10, an updated database of essent...",DEG,DEG,HIGH,No expansion in title - using short name
+4,pHLA3D,"pHLA3D: An online database of predicted three-dimensional structures of HLA molecules. | pHLA3D: Updating the database of predicted three-dimensional structures of HLA with HLA-DR, HLA-DQ and HLA-DP m...",pHLA3D,pHLA3D,HIGH,No expansion in title - using short name
+5,zfRegeneration,zfRegeneration: a database for gene expression profiling during regeneration. | zfRegeneration: a database for gene expression profiling during regeneration.,zfRegeneration,zfRegeneration,HIGH,No expansion in title - using short name
+6,EMBL-EBI,The European Bioinformatics Institute's data resources 2014. | The EMBL-EBI search and sequence analysis tools APIs in 2019.,EMBL-EBI,EMBL-EBI,HIGH,No expansion in title - using short name
+7,LC-MS,"Label-free LC-MS/MS identification of phosphatidylglycerol-regulated proteins in Synechocystis sp. PCC6803. | Integrated approach using multistep enzyme digestion, TiO2 enrichment, and database search...",LC-MS,LC-MS,HIGH,No expansion in title - using short name
+8,braingraph.org ,The braingraph.org database of high resolution structural connectomes and the brain graph tools. | Mapping correlations of psychological and structural connectome properties of the dataset of the huma...,braingraph.org,braingraph.org,HIGH,No expansion in title - using short name
+9,CSCS,CSCS: a chromatin state interface for Chinese Spring bread wheat.,CSCS,CSCS,HIGH,No expansion in title - using short name
+10,ORFik,ORFik: a comprehensive R toolkit for the analysis of translation.,ORFik,ORFik,HIGH,No expansion in title - using short name
+11,SAROTUP,SAROTUP: a suite of tools for finding potential target-unrelated peptides from phage display data.,SAROTUP,SAROTUP,HIGH,No expansion in title - using short name
+12,OncoPaD,Rational design of cancer gene panels with OncoPaD.,OncoPaD,OncoPaD,HIGH,No expansion in title - using short name
+13,Proxl,"Proxl (Protein Cross-Linking Database): A Public Server, QC Tools, and Other Major Updates.",Proxl,Protein Cross-Linking,HIGH,Explicit expansion: NAME (Full Name)
+14,UGENE,Shared bioinformatics databases within the Unipro UGENE platform. | Flexible design of multiple metagenomics classification pipelines with UGENE.,UGENE,UGENE,HIGH,No expansion in title - using short name
+15,LIVECAT,Introduction to the LIVECAT web-based computerized adaptive testing platform.,LIVECAT,LIVECAT,HIGH,No expansion in title - using short name
+16,PSICQUIC,A new reference implementation of the PSICQUIC web service.,PSICQUIC,PSICQUIC,HIGH,No expansion in title - using short name
+17,OASIS,Introducing the Open Affective Standardized Image Set (OASIS).,OASIS,Open Affective Standardized Image Set,HIGH,Explicit expansion: Full Name (NAME)
+18,ProteinHistorian,ProteinHistorian: tools for the comparative analysis of eukaryote protein origin.,ProteinHistorian,ProteinHistorian,HIGH,No expansion in title - using short name
+19,CDAO-store,CDAO-store: ontology-driven data integration for phylogenetic analysis.,CDAO-store,CDAO-store,HIGH,No expansion in title - using short name
+20,MetaboAnalyst,MetaboAnalyst 4.0: towards more transparent and integrative metabolomics analysis.,MetaboAnalyst,MetaboAnalyst,HIGH,No expansion in title - using short name
+21,AusTraits,"AusTraits, a curated plant trait database for the Australian flora.",AusTraits,AusTraits,HIGH,No expansion in title - using short name
+22,GloNAF,The Global Naturalized Alien Flora (GloNAF) database.,GloNAF,Global Naturalized Alien Flora,HIGH,Explicit expansion: Full Name (NAME)
+23,ORIO,ORIO (Online Resource for Integrative Omics): a web-based platform for rapid integration of next generation sequencing data.,ORIO,Online Resource for Integrative Omics,HIGH,Explicit expansion: NAME (Full Name)
+24,ConnecTF,ConnecTF: A platform to integrate transcription factor-gene interactions and validate regulatory networks.,ConnecTF,ConnecTF,HIGH,No expansion in title - using short name
+25,MaizeSNPDB,MaizeSNPDB: A comprehensive database for efficient retrieve and analysis of SNPs among 1210 maize lines.,MaizeSNPDB,MaizeSNPDB,HIGH,No expansion in title - using short name
+26,APICURON,APICURON: a database to credit and acknowledge the work of biocurators.,APICURON,APICURON,HIGH,No expansion in title - using short name
+27,SolRgene,SolRgene: an online database to explore disease resistance genes in tuber-bearing Solanum species.,SolRgene,SolRgene,HIGH,No expansion in title - using short name
+28,RegenBase,RegenBase: a knowledge base of spinal cord injury biology for translational research.,RegenBase,RegenBase,HIGH,No expansion in title - using short name
+29,Ontobee,"Ontobee: A linked ontology data server to support ontology term dereferencing, linkage, query and integration.",Ontobee,Ontobee,HIGH,No expansion in title - using short name
+30,Vaxvec,Vaxvec: The first web-based recombinant vaccine vector database and its data analysis.,Vaxvec,Vaxvec,HIGH,No expansion in title - using short name
+31,WHONDRS,WHONDRS: a Community Resource for Studying Dynamic River Corridors.,WHONDRS,WHONDRS,HIGH,No expansion in title - using short name
+32,BADERI,BADERI: an online database to coordinate handsearching activities of controlled clinical trials for their potential inclusion in systematic reviews.,BADERI,BADERI,HIGH,No expansion in title - using short name
+33,FishNET,FishNET: An automated relational database for zebrafish colony management.,FishNET,FishNET,HIGH,No expansion in title - using short name
+34,BindingDB,"BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology.",BindingDB,BindingDB,HIGH,No expansion in title - using short name
+35,PINOT,PINOT: an intuitive resource for integrating protein-protein interactions.,PINOT,PINOT,HIGH,No expansion in title - using short name
+36,HAMAP,"HAMAP in 2013, new developments in the protein family classification and annotation system. | HAMAP in 2015: updates to the protein family classification and annotation system.",HAMAP,HAMAP,HIGH,No expansion in title - using short name
+37,Colil,Colil: a database and search service for citation contexts in the life sciences domain.,Colil,Colil,HIGH,No expansion in title - using short name
+38,CDEK,CDEK: Clinical Drug Experience Knowledgebase.,CDEK,CDEK,HIGH,No expansion in title - using short name
+39,circ2GO,circ2GO: A Database Linking Circular RNAs to Gene Function.,circ2GO,circ2GO,HIGH,No expansion in title - using short name
+40,ZEBrA,ZEBrA: Zebra finch Expression Brain Atlas-A resource for comparative molecular neuroanatomy and brain evolution studies.,ZEBrA,ZEBrA,HIGH,No expansion in title - using short name
+41,SEAweb,SEAweb: the small RNA Expression Atlas web application.,SEAweb,SEAweb,HIGH,No expansion in title - using short name
+42,HIPPIE,HIPPIE v2.0: enhancing meaningfulness and reliability of protein-protein interaction networks.,HIPPIE,HIPPIE,HIGH,No expansion in title - using short name
+43,WholeCellSimDB,WholeCellSimDB: a hybrid relational/HDF database for whole-cell model predictions.,WholeCellSimDB,WholeCellSimDB,HIGH,No expansion in title - using short name
+44,NoCoCoDa,Novel Coronavirus Cough Database: NoCoCoDa.,NoCoCoDa,NoCoCoDa,HIGH,No expansion in title - using short name
+45,SASBDB,"SASBDB, a repository for biological small-angle scattering data. | SASBDB: Towards an automatically curated and validated repository for biological scattering data.",SASBDB,SASBDB,HIGH,No expansion in title - using short name
+46,PACSY,"PACSY, a relational database management system for protein structure and chemical shift analysis.",PACSY,PACSY,HIGH,No expansion in title - using short name
+47,VIRMISCO,VIRMISCO - The Virtual Microscope Slide Collection.,VIRMISCO,VIRMISCO,HIGH,No expansion in title - using short name
+48,NDEx,NDEx: Accessing Network Models and Streamlining Network Biology Workflows.,NDEx,NDEx,HIGH,No expansion in title - using short name
+49,Sci-Hub,Sci-Hub provides access to nearly all scholarly literature.,Sci-Hub,Sci-Hub,HIGH,No expansion in title - using short name
+50,ProXL,"ProXL (Protein Cross-Linking Database): A Platform for Analysis, Visualization, and Sharing of Protein Cross-Linking Mass Spectrometry Data.",ProXL,Protein Cross-Linking,HIGH,Explicit expansion: NAME (Full Name)
+51,ExpressHeart,ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-Cardiomyocyte Cells.,ExpressHeart,ExpressHeart,HIGH,No expansion in title - using short name
+52,PathBank,PathBank: a comprehensive pathway database for model organisms.,PathBank,PathBank,HIGH,No expansion in title - using short name
+53,SMID,"The Socio-Moral Image Database (SMID): A novel stimulus set for the study of social, moral and affective processes.",SMID,Socio-Moral Image Database,HIGH,Explicit expansion: Full Name (NAME)
+54,Epistemonikos,"Epistemonikos: a free, relational, collaborative, multilingual database of health evidence.",Epistemonikos,Epistemonikos,HIGH,No expansion in title - using short name
+55,Microgreen-23sdatabase,µgreen-db: a reference database for the 23S rRNA gene of eukaryotic plastids and cyanobacteria.,Microgreen-23sdatabase,Microgreen-23sdatabase,HIGH,No expansion in title - using short name
+56,WGE,WGE: a CRISPR database for genome engineering.,WGE,WGE,HIGH,No expansion in title - using short name
+57,OpenDose,OpenDose: Open-Access Resource for Nuclear Medicine Dosimetry.,OpenDose,OpenDose,HIGH,No expansion in title - using short name
+58,PROGgeneV2,PROGgeneV2: enhancements on the existing database.,PROGgeneV2,PROGgeneV2,HIGH,No expansion in title - using short name
+59,NAChRDB,NAChRDB: A Web Resource of Structure-Function Annotations to Unravel the Allostery of Nicotinic Acetylcholine Receptors.,NAChRDB,NAChRDB,HIGH,No expansion in title - using short name
+60,PreMedKB,"PreMedKB: an integrated precision medicine knowledgebase for interpreting relationships between diseases, genes, variants and drugs.",PreMedKB,PreMedKB,HIGH,No expansion in title - using short name
+61,RJunBase,RJunBase: a database of RNA splice junctions in human normal and cancerous tissues.,RJunBase,RJunBase,HIGH,No expansion in title - using short name
+62,PncStress,PncStress: a manually curated database of experimentally validated stress-responsive non-coding RNAs in plants.,PncStress,PncStress,HIGH,No expansion in title - using short name
+63,PlantPepDB,PlantPepDB: A manually curated plant peptide database.,PlantPepDB,PlantPepDB,HIGH,No expansion in title - using short name
+64,EvoDB,"EvoDB: a database of evolutionary rate profiles, associated protein domains and phylogenetic trees for PFAM-A.",EvoDB,EvoDB,HIGH,No expansion in title - using short name
+65,BioUML,BioUML: an integrated environment for systems biology and collaborative analysis of biomedical data.,BioUML,BioUML,HIGH,No expansion in title - using short name
+66,RMDisease,"RMDisease: a database of genetic variants that affect RNA modifications, with implications for epitranscriptome pathogenesis.",RMDisease,RMDisease,HIGH,No expansion in title - using short name
+67,RadishGD,The radish genome database (RadishGD): an integrated information resource for radish genomics.,RadishGD,radish genome database,HIGH,Explicit expansion: Full Name (NAME)
+68,RegenDbase,RegenDbase: a comparative database of noncoding RNA regulation of tissue regeneration circuits across multiple taxa.,RegenDbase,RegenDbase,HIGH,No expansion in title - using short name
+69,AnnoTree,AnnoTree: visualization and exploration of a functionally annotated microbial tree of life.,AnnoTree,AnnoTree,HIGH,No expansion in title - using short name
+70,BastionHub,BastionHub: a universal platform for integrating and analyzing substrates secreted by Gram-negative bacteria.,BastionHub,BastionHub,HIGH,No expansion in title - using short name
+71,PhenCards,PhenCards: a data resource linking human phenotype information to biomedical knowledge.,PhenCards,PhenCards,HIGH,No expansion in title - using short name
+72,BRC4Env,"BRC4Env, a network of Biological Resource Centres for research in environmental and agricultural sciences.",BRC4Env,BRC4Env,HIGH,No expansion in title - using short name
+73,LEAFDATA,LEAFDATA: a literature-curated database for Arabidopsis leaf development.,LEAFDATA,LEAFDATA,HIGH,No expansion in title - using short name
+74,INFRAFRONTIER,INFRAFRONTIER: a European resource for studying the functional basis of human disease.,INFRAFRONTIER,INFRAFRONTIER,HIGH,No expansion in title - using short name
+75,Cov19VaxKB,Cov19VaxKB: A Web-based Integrative COVID-19 Vaccine Knowledge Base.,Cov19VaxKB,Cov19VaxKB,HIGH,No expansion in title - using short name
+76,Plana,Planarian Anatomy Ontology: a resource to connect data within and across experimental platforms.,Plana,Plana,HIGH,No expansion in title - using short name
+77,Gephebase,"Gephebase, a database of genotype-phenotype relationships for natural and domesticated variation in Eukaryotes.",Gephebase,Gephebase,HIGH,No expansion in title - using short name
+78,FoldAtlas,FoldAtlas: a repository for genome-wide RNA structure probing data.,FoldAtlas,FoldAtlas,HIGH,No expansion in title - using short name
+79,COMODI,COMODI: an ontology to characterise differences in versions of computational models in biology.,COMODI,COMODI,HIGH,No expansion in title - using short name
+80,KinaMetrix,KinaMetrix: a web resource to investigate kinase conformations and inhibitor space.,KinaMetrix,KinaMetrix,HIGH,No expansion in title - using short name
+81,rPredictorDB,rPredictorDB: a predictive database of individual secondary structures of RNAs and their formatted plots.,rPredictorDB,rPredictorDB,HIGH,No expansion in title - using short name
+82,PROTICdb,Management and dissemination of MS proteomic data with PROTICdb: example of a quantitative comparison between methods of protein extraction.,PROTICdb,PROTICdb,HIGH,No expansion in title - using short name
+83,Taxallnomy,Taxallnomy: an extension of NCBI Taxonomy that produces a hierarchically complete taxonomic tree.,Taxallnomy,Taxallnomy,HIGH,No expansion in title - using short name
+84,VariED,VariED: the first integrated database of gene annotation and expression profiles for variants related to human diseases.,VariED,VariED,HIGH,No expansion in title - using short name
+85,BaMBa,BaMBa: towards the integrated management of Brazilian marine environmental data.,BaMBa,BaMBa,HIGH,No expansion in title - using short name
+86,iPSCORE,iPSCORE: A Resource of 222 iPSC Lines Enabling Functional Characterization of Genetic Variation across a Variety of Cell Types.,iPSCORE,iPSCORE,HIGH,No expansion in title - using short name
+87,BioDataome,BioDataome: a collection of uniformly preprocessed and automatically annotated datasets for data-driven biology.,BioDataome,BioDataome,HIGH,No expansion in title - using short name
+88,BrainLiner,BrainLiner: A Neuroinformatics Platform for Sharing Time-Aligned Brain-Behavior Data.,BrainLiner,BrainLiner,HIGH,No expansion in title - using short name
+89,Pulotu,Pulotu: Database of Austronesian Supernatural Beliefs and Practices.,Pulotu,Pulotu,HIGH,No expansion in title - using short name
+90,KoVariome,"KoVariome: Korean National Standard Reference Variome database of whole genomes with comprehensive SNV, indel, CNV, and SV analyses.",KoVariome,KoVariome,HIGH,No expansion in title - using short name
+91,LM-GlycomeAtlas,LM-GlycomeAtlas Ver. 2.0: An Integrated Visualization for Lectin Microarray-based Mouse Tissue Glycome Mapping Data with Lectin Histochemistry.,LM-GlycomeAtlas,LM-GlycomeAtlas,HIGH,No expansion in title - using short name
+92,EDGAR3.0,EDGAR3.0: comparative genomics and phylogenomics on a scalable infrastructure.,EDGAR3.0,EDGAR3.0,HIGH,No expansion in title - using short name
+93,mzIdentML,"The mzIdentML Data Standard Version 1.2, Supporting Advances in Proteome Informatics.",mzIdentML,mzIdentML,HIGH,No expansion in title - using short name
+94,HCOP,Updates to HCOP: the HGNC comparison of orthology predictions tool.,HCOP,HCOP,HIGH,No expansion in title - using short name
+95,EudraVigilance,EudraVigilance Medicines Safety Database: Publicly Accessible Data for Research and Public Health Protection.,EudraVigilance,EudraVigilance,HIGH,No expansion in title - using short name
+96,C-It-Loci,C-It-Loci: a knowledge database for tissue-enriched loci.,C-It-Loci,C-It-Loci,HIGH,No expansion in title - using short name
+97,ChloroMitoSSRDB,"ChloroMitoSSRDB: open source repository of perfect and imperfect repeats in organelle genomes for evolutionary genomics. | ChloroMitoSSRDB 2.00: more genomes, more repeats, unifying SSRs search patter...",ChloroMitoSSRDB,ChloroMitoSSRDB,HIGH,No expansion in title - using short name
+98,Synteny Portal,Synteny Portal: a web-based application portal for synteny block analysis.,Synteny Portal,Synteny Portal,HIGH,No expansion in title - using short name
+99,PIIKA 2,"PIIKA 2: an expanded, web-based platform for analysis of kinome microarray data.",PIIKA 2,PIIKA 2,HIGH,No expansion in title - using short name
+100,expVIP,expVIP: a Customizable RNA-seq Data Analysis and Visualization Platform.,expVIP,expVIP,HIGH,No expansion in title - using short name
+101,AVIA,AVIA 3.0: interactive portal for genomic variant and sample level analysis.,AVIA,AVIA,HIGH,No expansion in title - using short name
+102,PanDrugs2,PanDrugs: a novel method to prioritize anticancer drug treatments according to individual genomic data.,PanDrugs2,PanDrugs2,HIGH,No expansion in title - using short name
+103,COVID-ONE-hi,COVID-ONE-hi: The One-stop Database for COVID-19-specific Humoral Immunity and Clinical Parameters.,COVID-ONE-hi,COVID-ONE-hi,HIGH,No expansion in title - using short name
+104,GigaTON,GigaTON: an extensive publicly searchable database providing a new reference transcriptome in the pacific oyster Crassostrea gigas.,GigaTON,GigaTON,HIGH,No expansion in title - using short name
+105,Pathogenwatch,A community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch.,Pathogenwatch,Pathogenwatch,HIGH,No expansion in title - using short name
+106,Iranome,Iranome: A catalog of genomic variations in the Iranian population.,Iranome,Iranome,HIGH,No expansion in title - using short name
+107,Glutantase,Glutantβase: a database for improving the rational design of glucose-tolerant β-glucosidases.,Glutantase,Glutantase,HIGH,No expansion in title - using short name
+108,BioTextQuest,BioTextQuest(+): a knowledge integration platform for literature mining and concept discovery.,BioTextQuest,BioTextQuest,HIGH,No expansion in title - using short name
+109,harmonizome,The harmonizome: a collection of processed datasets gathered to serve and mine knowledge about genes and proteins.,harmonizome,harmonizome,HIGH,No expansion in title - using short name
+110,COSMOS,COSMOS next generation - A public knowledge base leveraging chemical and biological data to support the regulatory assessment of chemicals.,COSMOS,COSMOS,HIGH,No expansion in title - using short name
+111,NEPdb,NEPdb: A Database of T-Cell Experimentally-Validated Neoantigens and Pan-Cancer Predicted Neoepitopes for Cancer Immunotherapy.,NEPdb,NEPdb,HIGH,No expansion in title - using short name
+112,ClinEpiDB,ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies.,ClinEpiDB,ClinEpiDB,HIGH,No expansion in title - using short name
+113,IRNdb,IRNdb: the database of immunologically relevant non-coding RNAs.,IRNdb,IRNdb,HIGH,No expansion in title - using short name
+114,BacFITBase,BacFITBase: a database to assess the relevance of bacterial genes during host infection.,BacFITBase,BacFITBase,HIGH,No expansion in title - using short name
+115,OncoVar,OncoVar: an integrated database and analysis platform for oncogenic driver variants in cancers.,OncoVar,OncoVar,HIGH,No expansion in title - using short name
+116,dbTMM,"dbTMM: an integrated database of large-scale cohort, genome and clinical data for the Tohoku Medical Megabank Project.",dbTMM,dbTMM,HIGH,No expansion in title - using short name
+117,eRepo-ORP,eRepo-ORP: Exploring the Opportunity Space to Combat Orphan Diseases with Existing Drugs.,eRepo-ORP,eRepo-ORP,HIGH,No expansion in title - using short name
+118,ADReCS-Target,ADReCS-Target: target profiles for aiding drug safety research and application.,ADReCS-Target,ADReCS-Target,HIGH,No expansion in title - using short name
+119,ADEIP,ADEIP: an integrated platform of age-dependent expression and immune profiles across human tissues.,ADEIP,ADEIP,HIGH,No expansion in title - using short name
+120,FuncPEP,FuncPEP: A Database of Functional Peptides Encoded by Non-Coding RNAs.,FuncPEP,FuncPEP,HIGH,No expansion in title - using short name
+121,PK-DB,PK-DB: pharmacokinetics database for individualized and stratified computational modeling.,PK-DB,PK-DB,HIGH,No expansion in title - using short name
+122,INTERSPIA,INTERSPIA: a web application for exploring the dynamics of protein-protein interactions among multiple species.,INTERSPIA,INTERSPIA,HIGH,No expansion in title - using short name
+123,YeasTSS,YeasTSS: an integrative web database of yeast transcription start sites.,YeasTSS,YeasTSS,HIGH,No expansion in title - using short name
+124,T1K,T1K+: A Database for Benchmarking Color Texture Classification and Retrieval Methods.,T1K,T1K,HIGH,No expansion in title - using short name
+125,OpenNahele,OpenNahele: the open Hawaiian forest plot database.,OpenNahele,OpenNahele,HIGH,No expansion in title - using short name
+126,HEVnet,"HEVnet: a One Health, collaborative, interdisciplinary network and sequence data repository for enhanced hepatitis E virus molecular typing, characterisation and epidemiological investigations.",HEVnet,HEVnet,HIGH,No expansion in title - using short name
+127,CIRFESS,CIRFESS: An Interactive Resource for Querying the Set of Theoretically Detectable Peptides for Cell Surface and Extracellular Enrichment Proteomic Studies.,CIRFESS,CIRFESS,HIGH,No expansion in title - using short name
+128,KNOTTIN,"KNOTTIN: the database of inhibitor cystine knot scaffold after 10 years, toward a systematic structure modeling.",KNOTTIN,KNOTTIN,HIGH,No expansion in title - using short name
+129,ChIP-Atlas,ChIP-Atlas: a data-mining suite powered by full integration of public ChIP-seq data.,ChIP-Atlas,ChIP-Atlas,HIGH,No expansion in title - using short name
+130,FORESEE,Bridging the gap between climate models and impact studies: the FORESEE Database.,FORESEE,FORESEE,HIGH,No expansion in title - using short name
+131,RareLSD,RareLSD: a manually curated database of lysosomal enzymes associated with rare diseases.,RareLSD,RareLSD,HIGH,No expansion in title - using short name
+132,DNArepairK,DNArepairK: An Interactive Database for Exploring the Impact of Anticancer Drugs onto the Dynamics of DNA Repair Proteins.,DNArepairK,DNArepairK,HIGH,No expansion in title - using short name
+133,CancerLivER,CancerLivER: a database of liver cancer gene expression resources and biomarkers.,CancerLivER,CancerLivER,HIGH,No expansion in title - using short name
+134,MedProDB,MedProDB: A database of Mediator proteins.,MedProDB,MedProDB,HIGH,No expansion in title - using short name
+135,RiceRelativesGD,RiceRelativesGD: a genomic database of rice relatives for rice research.,RiceRelativesGD,RiceRelativesGD,HIGH,No expansion in title - using short name
+136,Adenosiland,Adenosiland: walking through adenosine receptors landscape.,Adenosiland,Adenosiland,HIGH,No expansion in title - using short name
+137,RNAdt,RNAdt: An online tutorial and data portal for the RNA structurome era.,RNAdt,RNAdt,HIGH,No expansion in title - using short name
+138,POPcorn,POPcorn: An Online Resource Providing Access to Distributed and Diverse Maize Project Data.,POPcorn,POPcorn,HIGH,No expansion in title - using short name
+139,sRNAanno,sRNAanno-a database repository of uniformly annotated small RNAs in plants.,sRNAanno,sRNAanno,HIGH,No expansion in title - using short name
+140,EpiGraphDB,EpiGraphDB: a database and data mining platform for health data science.,EpiGraphDB,EpiGraphDB,HIGH,No expansion in title - using short name
+141,PopFly,PopFly: the Drosophila population genomics browser.,PopFly,PopFly,HIGH,No expansion in title - using short name
+142,GEPIA2,GEPIA2: an enhanced web server for large-scale expression profiling and interactive analysis.,GEPIA2,GEPIA2,HIGH,No expansion in title - using short name
+143,CardioGenBase,CardioGenBase: A Literature Based Multi-Omics Database for Major Cardiovascular Diseases.,CardioGenBase,CardioGenBase,HIGH,No expansion in title - using short name
+144,FinaleDB,FinaleDB: a browser and database of cell-free DNA fragmentation patterns.,FinaleDB,FinaleDB,HIGH,No expansion in title - using short name
+145,e-RA,"The electronic Rothamsted Archive (e-RA), an online resource for data from the Rothamsted long-term experiments.",e-RA,electronic Rothamsted Archive,HIGH,Explicit expansion: Full Name (NAME)
+146,LungGENS,'LungGENS': a web-based tool for mapping single-cell gene expression in the developing lung.,LungGENS,LungGENS,HIGH,No expansion in title - using short name
+147,SnpHub,SnpHub: an easy-to-set-up web server framework for exploring large-scale genomic variation data in the post-genomic era with applications in wheat.,SnpHub,SnpHub,HIGH,No expansion in title - using short name
+148,ECOdrug,ECOdrug: a database connecting drugs and conservation of their targets across species.,ECOdrug,ECOdrug,HIGH,No expansion in title - using short name
+149,CUBAP,CUBAP: an interactive web portal for analyzing codon usage biases across populations.,CUBAP,CUBAP,HIGH,No expansion in title - using short name
+150,MitImpact,MitImpact 3: modeling the residue interaction network of the Respiratory Chain subunits.,MitImpact,MitImpact,HIGH,No expansion in title - using short name
+151,VIRsiRNAdb,VIRsiRNAdb: a curated database of experimentally validated viral siRNA/shRNA.,VIRsiRNAdb,VIRsiRNAdb,HIGH,No expansion in title - using short name
+152,ORVAL,ORVAL: a novel platform for the prediction and exploration of disease-causing oligogenic variant combinations.,ORVAL,ORVAL,HIGH,No expansion in title - using short name
+153,EuGI,EuGI: a novel resource for studying genomic islands to facilitate horizontal gene transfer detection in eukaryotes.,EuGI,EuGI,HIGH,No expansion in title - using short name
+154,ALE-HSA21,"AnaLysis of Expression on human chromosome 21, ALE-HSA21: a pilot integrated web resource.",ALE-HSA21,ALE-HSA21,HIGH,No expansion in title - using short name
+155,ASPIREdb,"Interactive Exploration, Analysis, and Visualization of Complex Phenome-Genome Datasets with ASPIREdb.",ASPIREdb,ASPIREdb,HIGH,No expansion in title - using short name
+156,NITRC,The NITRC image repository.,NITRC,NITRC,HIGH,No expansion in title - using short name
+157,WikiGenomes,WikiGenomes: an open web application for community consumption and curation of gene annotation data in Wikidata.,WikiGenomes,WikiGenomes,HIGH,No expansion in title - using short name
+158,UniCorn,Comprehensive analysis of the N-glycan biosynthetic pathway using bioinformatics to generate UniCorn: A theoretical N-glycan structure database.,UniCorn,UniCorn,HIGH,No expansion in title - using short name
+159,OriDB,"OriDB, the DNA replication origin database updated and extended.",OriDB,OriDB,HIGH,No expansion in title - using short name
+160,GBshape,GBshape: a genome browser database for DNA shape annotations.,GBshape,GBshape,HIGH,No expansion in title - using short name
+161,Circbank,Circbank: a comprehensive database for circRNA with standard nomenclature.,Circbank,Circbank,HIGH,No expansion in title - using short name
+162,PRIN,PRIN: a predicted rice interactome network.,PRIN,PRIN,HIGH,No expansion in title - using short name
+163,PamulDB,PamulDB: a comprehensive genomic resource for the study of human- and animal-pathogenic Pasteurella multocida.,PamulDB,PamulDB,HIGH,No expansion in title - using short name
+164,EuRRECa,Supporting international networks through platforms for standardised data collection-the European Registries for Rare Endocrine Conditions (EuRRECa) model.,EuRRECa,EuRRECa,HIGH,No expansion in title - using short name
+165,MISpheroID,MISpheroID: a knowledgebase and transparency tool for minimum information in spheroid identity.,MISpheroID,MISpheroID,HIGH,No expansion in title - using short name
+166,Dockstore,The Dockstore: enhancing a community platform for sharing reproducible and accessible computational protocols.,Dockstore,Dockstore,HIGH,No expansion in title - using short name
+167,AgroLD,Agronomic Linked Data (AgroLD): A knowledge-based system to enable integrative biology in agronomy.,AgroLD,Agronomic Linked Data,HIGH,Explicit expansion: Full Name (NAME)
+168,DynaStI,DynaStI: A Dynamic Retention Time Database for Steroidomics.,DynaStI,DynaStI,HIGH,No expansion in title - using short name
+169,GenDiS,GenDiS database update with improved approach and features to recognize homologous sequences of protein domain superfamilies.,GenDiS,GenDiS,HIGH,No expansion in title - using short name
+170,TheCellVision.org,TheCellVision.org: A Database for Visualizing and Mining High-Content Cell Imaging Projects.,TheCellVision.org,TheCellVision.org,HIGH,No expansion in title - using short name
+171,HMPDACC,HMPDACC: a Human Microbiome Project Multi-omic data resource.,HMPDACC,HMPDACC,HIGH,No expansion in title - using short name
+172,GabiPD,GabiPD - The GABI Primary Database integrates plant proteomic data with gene-centric information.,GabiPD,GabiPD,HIGH,No expansion in title - using short name
+173,HumiR,"HumiR: Web Services, Tools and Databases for Exploring Human microRNA Data.",HumiR,HumiR,HIGH,No expansion in title - using short name
+174,OMCD,OMCD: OncomiR Cancer Database.,OMCD,OMCD,HIGH,No expansion in title - using short name
+175,LRRsearch,LRRsearch: An asynchronous server-based application for the prediction of leucine-rich repeat motifs and an integrative database of NOD-like receptors.,LRRsearch,LRRsearch,HIGH,No expansion in title - using short name
+176,PaintOmics 3,PaintOmics 3: a web resource for the pathway analysis and visualization of multi-omics data.,PaintOmics 3,PaintOmics 3,HIGH,No expansion in title - using short name
+177,CASTp,CASTp 3.0: computed atlas of surface topography of proteins.,CASTp,CASTp,HIGH,No expansion in title - using short name
+178,Vaxjo,Vaxjo: a web-based vaccine adjuvant database and its application for analysis of vaccine adjuvants and their uses in vaccine development.,Vaxjo,Vaxjo,HIGH,No expansion in title - using short name
+179,IMProv,IMProv: A Resource for Cross-link-Driven Structure Modeling that Accommodates Protein Dynamics.,IMProv,IMProv,HIGH,No expansion in title - using short name
+180,ProBiS,"ProBiS tools (algorithm, database, and web servers) for predicting and modeling of biologically interesting proteins.",ProBiS,ProBiS,HIGH,No expansion in title - using short name
+181,Alientoma,"Alientoma, a Dynamic Database for Alien Insects in Greece and Its Use by Citizen Scientists in Mapping Alien Species.",Alientoma,Alientoma,HIGH,No expansion in title - using short name
+182,Arena-Idb,Arena-Idb: a platform to build human non-coding RNA interaction networks.,Arena-Idb,Arena-Idb,HIGH,No expansion in title - using short name
+183,CoMPARA,CoMPARA: Collaborative Modeling Project for Androgen Receptor Activity.,CoMPARA,CoMPARA,HIGH,No expansion in title - using short name
+184,PLORAS,The PLORAS Database: A data repository for Predicting Language Outcome and Recovery After Stroke.,PLORAS,PLORAS,HIGH,No expansion in title - using short name
+185,Planet Microbe,Planet Microbe: a platform for marine microbiology to discover and analyze interconnected 'omics and environmental data.,Planet Microbe,Planet Microbe,HIGH,No expansion in title - using short name
+186,STarMirDB,STarMirDB: A database of microRNA binding sites. | Sfold Tools for MicroRNA Target Prediction.,STarMirDB,STarMirDB,HIGH,No expansion in title - using short name
+187,PathMe,PathMe: merging and exploring mechanistic pathway knowledge.,PathMe,PathMe,HIGH,No expansion in title - using short name
+188,SHIELD,SHIELD: an integrative gene expression database for inner ear research.,SHIELD,SHIELD,HIGH,No expansion in title - using short name
+189,KANPHOS,KANPHOS: A Database of Kinase-Associated Neural Protein Phosphorylation in the Brain.,KANPHOS,KANPHOS,HIGH,No expansion in title - using short name
+190,PathwaysWeb,"PathwaysWeb: a gene pathways API with directional interactions, expanded gene ontology, and versioning.",PathwaysWeb,PathwaysWeb,HIGH,No expansion in title - using short name
+191,PGP,PGP repository: a plant phenomics and genomics data publication infrastructure.,PGP,PGP,HIGH,No expansion in title - using short name
+192,UniRule,UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase.,UniRule,UniRule,HIGH,No expansion in title - using short name
+193,Yvis,Yvis: antibody high-density alignment visualization and analysis platform with an integrated database.,Yvis,Yvis,HIGH,No expansion in title - using short name
+194,LION LBD,LION LBD: a literature-based discovery system for cancer biology.,LION LBD,LION LBD,HIGH,No expansion in title - using short name
+195,rpoB,Development of a database and standardized approach for rpoB sequence-based subtyping and identification of aerobic spore-forming Bacillales.,rpoB,rpoB,HIGH,No expansion in title - using short name
+196,FARSEEING,The FARSEEING real-world fall repository: a large-scale collaborative database to collect and share sensor signals from real-world falls.,FARSEEING,FARSEEING,HIGH,No expansion in title - using short name
+197,Phenol-Explorer,Phenol-Explorer 2.0: a major update of the Phenol-Explorer database integrating data on polyphenol metabolism and pharmacokinetics in humans and experimental animals.,Phenol-Explorer,Phenol-Explorer,HIGH,No expansion in title - using short name
+198,TraV,TraV: a genome context sensitive transcriptome browser.,TraV,TraV,HIGH,No expansion in title - using short name
+199,Breedbase,High density genotype storage for plant breeding in the Chado schema of Breedbase.,Breedbase,Breedbase,HIGH,No expansion in title - using short name
+200,vHOG,"vHOG, a multispecies vertebrate ontology of homologous organs groups.",vHOG,vHOG,HIGH,No expansion in title - using short name
