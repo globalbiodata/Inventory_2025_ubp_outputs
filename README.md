@@ -20,6 +20,18 @@ This repository contains the curated output files from the bioresource discovery
 
 ---
 
+## Final Uploaded File
+
+**The file uploaded to the inventory database is:**
+
+```
+04_final_upload/new_resources_final_filtered_corrected.csv
+```
+
+This file contains 1,370 novel bioresources that were added to the Global Biodata Coalition inventory. It is the final, corrected output after all pipeline processing, quality control, and manual review.
+
+---
+
 ## Directory Structure
 
 ```
@@ -28,7 +40,7 @@ Inventory_2025_ubp_outputs/
 ├── 01_batch_2011_2021/         # First batch (149,943 papers)
 ├── 02_batch_2022_mid2025/      # Second batch (98,571 papers)
 ├── 03_final_merged/            # Combined and deduplicated outputs
-└── 04_documentation/           # Data dictionaries and guides
+└── 04_final_upload/            # FINAL FILE UPLOADED TO DATABASE
 ```
 
 ---
@@ -59,7 +71,8 @@ Inventory_2025_ubp_outputs/
 
 | File | Location | Rows | Description |
 |------|----------|------|-------------|
-| `05a_final_filtered.csv` | `03_final_merged/05_final_output/` | 1,370 | **FINAL** - Novel bioresources |
+| `new_resources_final_filtered_corrected.csv` | `04_final_upload/` | 1,370 | **UPLOADED TO DATABASE** |
+| `05a_final_filtered.csv` | `03_final_merged/05_final_output/` | 1,370 | Pre-correction final output |
 | `03a_confirmed_baseline_matches.csv` | `00_baseline_references/` | 825 | Confirmed baseline matches |
 | `10f_final_inventory_qc_fixed.csv` | `02_batch_2022_mid2025/10_quality_control/` | 1,510 | QC-fixed 2022-mid2025 inventory |
 | `08d_linguistic_high_conf_final.csv` | `01_batch_2011_2021/08_final_outputs/` | 964 | High-confidence 2011-2021 resources |

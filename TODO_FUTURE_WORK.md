@@ -8,9 +8,9 @@ This document outlines work that was not completed as part of the 2025 inventory
 
 ### 1.1 What Wasn't Updated
 
-The 2025 pipeline run focused on discovering **novel bioresources** - databases and tools not already present in the existing inventory. The baseline inventory (3,112 resources from 2022) was used as a filter to exclude known resources from the final output, but **the baseline entries themselves were not updated**.
+The 2025 pipeline run focused on discovering **novel bioresources** - databases and tools not already present in the existing inventory. The baseline inventory (3,112 resources) was used as a filter to exclude known resources from the final output, but **the baseline entries themselves were not updated**.
 
-This means:
+This means for old resources:
 - Existing database URLs may now be broken or redirected
 - Resource names may have changed (mergers, rebranding)
 - Metadata (descriptions, affiliations) may be outdated
@@ -123,7 +123,7 @@ This approach proved less reliable than keeping the models separate:
 
 The current production architecture uses V2 RoBERTa for text classification and PyCaret for metadata classification, with results merged via union. While less elegant than a single unified model, this approach delivers better performance.
 
-**Future consideration**: If transformer architectures improve at handling mixed modalities, or if significantly more training data becomes available, this approach could be revisited.
+**Future consideration**: This approach should be revisited as due to time constraints creating an integrated model was not possible.
 
 ### 3.2 PyCaret Metadata Classifier
 
