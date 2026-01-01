@@ -214,3 +214,26 @@ The URL scanner identified 81.5% of resources with live URLs at time of processi
 
 The current query (V5.1) achieves 77.3% capture of training positives. New resource terminology emerges over time. An annual review of query precision and recall against known resources would catch drift early.
 
+---
+
+## 7. Mentions Analysis for New Resources
+
+### 7.1 Required Next Step
+
+The 1,369 newly discovered resources in `04_final_upload/new_resources_final_filtered_corrected.csv` need to be processed through the **mentions analysis pipeline**. This analysis identifies which papers in the scientific literature mention each resource, providing a measure of usage and impact.
+
+### 7.2 Purpose
+
+The mentions analysis:
+- Catalogues all papers that reference each bioresource
+- Provides citation/mention counts as an impact metric
+- Tracks resource usage patterns over time
+- Enables comparative analysis of resource adoption
+
+### 7.3 Pipeline Location
+
+The mentions analysis is maintained in a separate repository:
+
+**Repository:** https://github.com/globalbiodata/gbc-mentions-analysis
+
+This pipeline should be run on the new resources after they have been added to the inventory database.
